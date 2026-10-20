@@ -1,0 +1,7977 @@
+{
+"levels": [
+{
+"members": [
+0,
+256
+],
+"hdr": "a000762004",
+"spr_hdr": 0,
+"mode": 0,
+"tileset": 4,
+"screens": 1,
+"empty": false,
+"layer2": "bg",
+"exits": [],
+"ends": [
+"bonusgame"
+],
+"roster": [],
+"behaviour": [],
+"anchor_sprites": [
+[
+130,
+0,
+5,
+7,
+0
+]
+],
+"n_sprites": 1
+},
+{
+"members": [
+1
+],
+"hdr": "13c0008620",
+"spr_hdr": 0,
+"mode": 0,
+"tileset": 0,
+"screens": 20,
+"empty": false,
+"layer2": "bg",
+"exits": [
+{
+"screen": 17,
+"dest": 216,
+"flags": 0,
+"kind": [
+"pipe_v"
+]
+}
+],
+"ends": [
+"goal"
+],
+"roster": [
+9,
+11,
+19,
+75,
+79,
+146
+],
+"behaviour": [
+205,
+217
+],
+"anchor_sprites": [],
+"n_sprites": 52
+},
+{
+"members": [
+2
+],
+"hdr": "0f40a49908",
+"spr_hdr": 128,
+"mode": 0,
+"tileset": 8,
+"screens": 16,
+"empty": false,
+"layer2": "bg",
+"exits": [
+{
+"screen": 15,
+"dest": 203,
+"flags": 0,
+"kind": [
+"pipe_h"
+]
+}
+],
+"ends": [],
+"roster": [
+65,
+66,
+67,
+195
+],
+"behaviour": [
+207,
+208,
+217
+],
+"anchor_sprites": [],
+"n_sprites": 23
+},
+{
+"members": [
+3
+],
+"hdr": "e000000000",
+"spr_hdr": 0,
+"mode": 0,
+"tileset": 0,
+"screens": 1,
+"empty": false,
+"layer2": "bg",
+"exits": [],
+"ends": [],
+"roster": [],
+"behaviour": [],
+"anchor_sprites": [
+[
+140,
+0,
+7,
+22,
+0
+]
+],
+"n_sprites": 1
+},
+{
+"members": [
+4
+],
+"hdr": "26ec47ac25",
+"spr_hdr": 7,
+"mode": 12,
+"tileset": 5,
+"screens": 7,
+"empty": false,
+"layer2": "bg",
+"exits": [
+{
+"screen": 4,
+"dest": 249,
+"flags": 0,
+"kind": [
+"door"
+]
+},
+{
+"screen": 6,
+"dest": 196,
+"flags": 0,
+"kind": [
+"door"
+]
+}
+],
+"ends": [],
+"roster": [],
+"behaviour": [
+225
+],
+"anchor_sprites": [
+[
+185,
+0,
+9,
+21,
+0
+]
+],
+"n_sprites": 2
+},
+{
+"members": [
+5
+],
+"hdr": "f320229128",
+"spr_hdr": 14,
+"mode": 0,
+"tileset": 8,
+"screens": 20,
+"empty": false,
+"layer2": "bg",
+"exits": [
+{
+"screen": 14,
+"dest": 244,
+"flags": 0,
+"kind": [
+"pipe_v"
+]
+}
+],
+"ends": [
+"goal"
+],
+"roster": [
+5,
+6,
+8,
+9,
+85,
+98,
+99,
+104
+],
+"behaviour": [
+224
+],
+"anchor_sprites": [
+[
+185,
+7,
+10,
+21,
+0
+]
+],
+"n_sprites": 35
+},
+{
+"members": [
+6
+],
+"hdr": "1320008020",
+"spr_hdr": 0,
+"mode": 0,
+"tileset": 0,
+"screens": 20,
+"empty": false,
+"layer2": "bg",
+"exits": [
+{
+"screen": 3,
+"dest": 195,
+"flags": 0,
+"kind": [
+"pipe_v"
+]
+},
+{
+"screen": 7,
+"dest": 210,
+"flags": 0,
+"kind": [
+"pipe_v"
+]
+}
+],
+"ends": [
+"goal"
+],
+"roster": [
+3,
+5,
+6,
+15,
+16,
+63,
+73,
+79,
+129,
+155,
+156
+],
+"behaviour": [
+204,
+217,
+221
+],
+"anchor_sprites": [],
+"n_sprites": 45
+},
+{
+"members": [
+7
+],
+"hdr": "626031cb11",
+"spr_hdr": 14,
+"mode": 0,
+"tileset": 1,
+"screens": 3,
+"empty": false,
+"layer2": "bg",
+"exits": [
+{
+"screen": 1,
+"dest": 230,
+"flags": 0,
+"kind": [
+"pipe_h"
+]
+},
+{
+"screen": 2,
+"dest": 232,
+"flags": 0,
+"kind": [
+"door"
+]
+}
+],
+"ends": [],
+"roster": [
+39,
+158
+],
+"behaviour": [],
+"anchor_sprites": [],
+"n_sprites": 5
+},
+{
+"members": [
+8
+],
+"hdr": "a200704104",
+"spr_hdr": 0,
+"mode": 0,
+"tileset": 4,
+"screens": 3,
+"empty": false,
+"layer2": "bg",
+"exits": [
+{
+"screen": 2,
+"dest": 201,
+"flags": 0,
+"kind": [
+"pipe_h"
+]
+}
+],
+"ends": [],
+"roster": [
+2,
+5,
+62
+],
+"behaviour": [
+219
+],
+"anchor_sprites": [],
+"n_sprites": 11
+},
+{
+"members": [
+9
+],
+"hdr": "6b6213e233",
+"spr_hdr": 0,
+"mode": 2,
+"tileset": 3,
+"screens": 12,
+"empty": false,
+"layer2": "objects",
+"exits": [
+{
+"screen": 5,
+"dest": 233,
+"flags": 0,
+"kind": [
+"pipe_v"
+]
+},
+{
+"screen": 11,
+"dest": 255,
+"flags": 0,
+"kind": [
+"pipe_h"
+]
+}
+],
+"ends": [],
+"roster": [
+17,
+46,
+131,
+190
+],
+"behaviour": [
+232
+],
+"anchor_sprites": [],
+"n_sprites": 28
+},
+{
+"members": [
+10
+],
+"hdr": "8c40549a09",
+"spr_hdr": 128,
+"mode": 0,
+"tileset": 9,
+"screens": 13,
+"empty": false,
+"layer2": "bg",
+"exits": [
+{
+"screen": 3,
+"dest": 194,
+"flags": 0,
+"kind": [
+"pipe_v"
+]
+}
+],
+"ends": [
+"goal",
+"keyhole"
+],
+"roster": [
+21,
+22,
+61,
+62,
+194
+],
+"behaviour": [],
+"anchor_sprites": [],
+"n_sprites": 32
+},
+{
+"members": [
+11
+],
+"hdr": "2740318a01",
+"spr_hdr": 142,
+"mode": 0,
+"tileset": 1,
+"screens": 8,
+"empty": false,
+"layer2": "bg",
+"exits": [
+{
+"screen": 3,
+"dest": 225,
+"flags": 0,
+"kind": [
+"pipe_h"
+]
+},
+{
+"screen": 7,
+"dest": 224,
+"flags": 0,
+"kind": [
+"pipe_v"
+]
+}
+],
+"ends": [],
+"roster": [
+48,
+49,
+158,
+170,
+178
+],
+"behaviour": [],
+"anchor_sprites": [],
+"n_sprites": 23
+},
+{
+"members": [
+12
+],
+"hdr": "0bc0a29138",
+"spr_hdr": 0,
+"mode": 0,
+"tileset": 8,
+"screens": 12,
+"empty": false,
+"layer2": "bg",
+"exits": [
+{
+"screen": 11,
+"dest": 243,
+"flags": 0,
+"kind": [
+"pipe_v"
+]
+}
+],
+"ends": [],
+"roster": [
+8,
+10,
+11,
+143,
+196
+],
+"behaviour": [
+232
+],
+"anchor_sprites": [],
+"n_sprites": 33
+},
+{
+"members": [
+13
+],
+"hdr": "13e0058128",
+"spr_hdr": 0,
+"mode": 0,
+"tileset": 8,
+"screens": 20,
+"empty": false,
+"layer2": "bg",
+"exits": [
+{
+"screen": 11,
+"dest": 221,
+"flags": 0,
+"kind": [
+"pipe_v"
+]
+}
+],
+"ends": [
+"goal"
+],
+"roster": [
+0,
+1,
+2,
+114,
+115
+],
+"behaviour": [
+211,
+217,
+218,
+219,
+220
+],
+"anchor_sprites": [],
+"n_sprites": 56
+},
+{
+"members": [
+14
+],
+"hdr": "0561318b21",
+"spr_hdr": 14,
+"mode": 1,
+"tileset": 1,
+"screens": 6,
+"empty": false,
+"layer2": "objects",
+"exits": [
+{
+"screen": 4,
+"dest": 220,
+"flags": 0,
+"kind": [
+"door"
+]
+},
+{
+"screen": 5,
+"dest": 218,
+"flags": 0,
+"kind": [
+"pipe_v"
+]
+}
+],
+"ends": [],
+"roster": [
+49,
+116,
+158
+],
+"behaviour": [],
+"anchor_sprites": [],
+"n_sprites": 9
+},
+{
+"members": [
+15
+],
+"hdr": "1500229108",
+"spr_hdr": 1,
+"mode": 0,
+"tileset": 8,
+"screens": 22,
+"empty": false,
+"layer2": "bg",
+"exits": [
+{
+"screen": 11,
+"dest": 191,
+"flags": 0,
+"kind": [
+"pipe_v"
+]
+}
+],
+"ends": [
+"goal"
+],
+"roster": [
+99,
+100,
+101,
+102
+],
+"behaviour": [],
+"anchor_sprites": [],
+"n_sprites": 42
+},
+{
+"members": [
+16
+],
+"hdr": "1440058020",
+"spr_hdr": 7,
+"mode": 0,
+"tileset": 0,
+"screens": 21,
+"empty": false,
+"layer2": "bg",
+"exits": [
+{
+"screen": 11,
+"dest": 193,
+"flags": 0,
+"kind": [
+"pipe_v"
+]
+}
+],
+"ends": [
+"goal"
+],
+"roster": [
+77,
+78,
+79,
+80,
+129,
+147,
+154,
+189
+],
+"behaviour": [
+219
+],
+"anchor_sprites": [],
+"n_sprites": 46
+},
+{
+"members": [
+17
+],
+"hdr": "8b40d49c09",
+"spr_hdr": 128,
+"mode": 0,
+"tileset": 9,
+"screens": 12,
+"empty": false,
+"layer2": "bg",
+"exits": [
+{
+"screen": 11,
+"dest": 198,
+"flags": 0,
+"kind": [
+"pipe_h"
+]
+}
+],
+"ends": [],
+"roster": [
+194
+],
+"behaviour": [
+202
+],
+"anchor_sprites": [],
+"n_sprites": 52
+},
+{
+"members": [
+18
+],
+"hdr": "0200004000",
+"spr_hdr": 0,
+"mode": 0,
+"tileset": 0,
+"screens": 3,
+"empty": false,
+"layer2": "bg",
+"exits": [],
+"ends": [],
+"roster": [],
+"behaviour": [],
+"anchor_sprites": [],
+"n_sprites": 0
+},
+{
+"members": [
+19,
+236,
+238
+],
+"hdr": "c5a047ec25",
+"spr_hdr": 11,
+"mode": 0,
+"tileset": 5,
+"screens": 6,
+"empty": false,
+"layer2": "bg",
+"exits": [
+{
+"screen": 4,
+"dest": 237,
+"flags": 0,
+"kind": [
+"door"
+]
+}
+],
+"ends": [],
+"roster": [
+40,
+47,
+56,
+62
+],
+"behaviour": [
+227
+],
+"anchor_sprites": [],
+"n_sprites": 5
+},
+{
+"members": [
+20
+],
+"hdr": "a200704104",
+"spr_hdr": 0,
+"mode": 0,
+"tileset": 4,
+"screens": 3,
+"empty": false,
+"layer2": "bg",
+"exits": [
+{
+"screen": 2,
+"dest": 202,
+"flags": 0,
+"kind": [
+"pipe_h"
+]
+}
+],
+"ends": [],
+"roster": [
+62
+],
+"behaviour": [],
+"anchor_sprites": [],
+"n_sprites": 1
+},
+{
+"members": [
+21,
+22
+],
+"hdr": "f30005c020",
+"spr_hdr": 0,
+"mode": 0,
+"tileset": 0,
+"screens": 20,
+"empty": false,
+"layer2": "bg",
+"exits": [
+{
+"screen": 7,
+"dest": 253,
+"flags": 0,
+"kind": [
+"pipe_v"
+]
+},
+{
+"screen": 11,
+"dest": 227,
+"flags": 0,
+"kind": [
+"pipe_v"
+]
+}
+],
+"ends": [
+"goal",
+"key",
+"keyhole"
+],
+"roster": [
+9,
+79,
+114,
+115,
+152,
+153,
+199
+],
+"behaviour": [],
+"anchor_sprites": [
+[
+185,
+17,
+6,
+21,
+0
+]
+],
+"n_sprites": 38
+},
+{
+"members": [
+23
+],
+"hdr": "f30005c020",
+"spr_hdr": 0,
+"mode": 0,
+"tileset": 0,
+"screens": 20,
+"empty": false,
+"layer2": "bg",
+"exits": [
+{
+"screen": 7,
+"dest": 253,
+"flags": 0,
+"kind": [
+"pipe_v"
+]
+},
+{
+"screen": 11,
+"dest": 227,
+"flags": 0,
+"kind": [
+"pipe_v"
+]
+}
+],
+"ends": [
+"goal",
+"key",
+"keyhole"
+],
+"roster": [
+9,
+79,
+114,
+115,
+152,
+153,
+199
+],
+"behaviour": [],
+"anchor_sprites": [
+[
+185,
+17,
+6,
+21,
+0
+]
+],
+"n_sprites": 38
+},
+{
+"members": [
+24
+],
+"hdr": "826e44dc1d",
+"spr_hdr": 128,
+"mode": 14,
+"tileset": 13,
+"screens": 3,
+"empty": false,
+"layer2": "bg",
+"exits": [
+{
+"screen": 2,
+"dest": 248,
+"flags": 0,
+"kind": [
+"pipe_v"
+]
+}
+],
+"ends": [],
+"roster": [],
+"behaviour": [
+201
+],
+"anchor_sprites": [],
+"n_sprites": 4
+},
+{
+"members": [
+25,
+30,
+37,
+38,
+39,
+40,
+41,
+42,
+43,
+44,
+45,
+46,
+47,
+48,
+49,
+50,
+51,
+52,
+53,
+54,
+55,
+56,
+57,
+58,
+59,
+60,
+61,
+62,
+63,
+64,
+65,
+66,
+67,
+68,
+69,
+70,
+71,
+72,
+73,
+74,
+75,
+76,
+77,
+78,
+79,
+80,
+81,
+82,
+83,
+84,
+85,
+86,
+87,
+88,
+89,
+90,
+91,
+92,
+93,
+94,
+95,
+96,
+97,
+98,
+99,
+100,
+101,
+102,
+103,
+104,
+105,
+106,
+107,
+108,
+109,
+110,
+111,
+112,
+113,
+114,
+115,
+116,
+117,
+118,
+119,
+120,
+121,
+122,
+123,
+124,
+125,
+126,
+127,
+128,
+129,
+130,
+131,
+132,
+133,
+134,
+135,
+136,
+137,
+138,
+139,
+140,
+141,
+142,
+143,
+144,
+145,
+146,
+156,
+157,
+158,
+159,
+160,
+161,
+162,
+163,
+164,
+165,
+166,
+167,
+168,
+169,
+170,
+171,
+172,
+173,
+174,
+175,
+176,
+177,
+178,
+179,
+180,
+181,
+182,
+183,
+184,
+185,
+186,
+187,
+188,
+268,
+274,
+292,
+297,
+302,
+303,
+305,
+307,
+311,
+312,
+313,
+314,
+315,
+316,
+317,
+318,
+319,
+320,
+321,
+322,
+323,
+324,
+325,
+326,
+327,
+328,
+329,
+330,
+331,
+332,
+333,
+334,
+335,
+336,
+337,
+338,
+339,
+340,
+341,
+342,
+343,
+344,
+345,
+346,
+347,
+348,
+349,
+350,
+351,
+352,
+353,
+354,
+355,
+356,
+357,
+358,
+359,
+360,
+361,
+362,
+363,
+364,
+365,
+366,
+367,
+368,
+369,
+370,
+371,
+372,
+373,
+374,
+375,
+376,
+377,
+378,
+379,
+380,
+381,
+382,
+383,
+384,
+385,
+386,
+387,
+388,
+389,
+390,
+391,
+392,
+393,
+394,
+395,
+396,
+397,
+398,
+399,
+400,
+401,
+402,
+412,
+413,
+414,
+415,
+416,
+417,
+418,
+419,
+420,
+421,
+422,
+423,
+424,
+425,
+426,
+427,
+428,
+429,
+430,
+431,
+432,
+433,
+434,
+435,
+436,
+437,
+438,
+439,
+440,
+441,
+442
+],
+"hdr": "0200004000",
+"spr_hdr": 0,
+"mode": 0,
+"tileset": 0,
+"screens": 3,
+"empty": false,
+"layer2": "bg",
+"exits": [],
+"ends": [],
+"roster": [],
+"behaviour": [],
+"anchor_sprites": [],
+"n_sprites": 0
+},
+{
+"members": [
+26
+],
+"hdr": "6b62318b01",
+"spr_hdr": 128,
+"mode": 2,
+"tileset": 1,
+"screens": 12,
+"empty": false,
+"layer2": "objects",
+"exits": [
+{
+"screen": 11,
+"dest": 212,
+"flags": 0,
+"kind": [
+"door"
+]
+}
+],
+"ends": [],
+"roster": [
+47,
+48,
+51,
+103
+],
+"behaviour": [
+233
+],
+"anchor_sprites": [],
+"n_sprites": 20
+},
+{
+"members": [
+27
+],
+"hdr": "c8a0318c01",
+"spr_hdr": 0,
+"mode": 0,
+"tileset": 1,
+"screens": 9,
+"empty": false,
+"layer2": "bg",
+"exits": [
+{
+"screen": 8,
+"dest": 239,
+"flags": 0,
+"kind": [
+"door"
+]
+}
+],
+"ends": [],
+"roster": [
+50,
+172,
+173,
+179
+],
+"behaviour": [
+216,
+217
+],
+"anchor_sprites": [],
+"n_sprites": 27
+},
+{
+"members": [
+28
+],
+"hdr": "7000008720",
+"spr_hdr": 128,
+"mode": 0,
+"tileset": 0,
+"screens": 17,
+"empty": false,
+"layer2": "bg",
+"exits": [
+{
+"screen": 2,
+"dest": 189,
+"flags": 0,
+"kind": [
+"pipe_v"
+]
+},
+{
+"screen": 6,
+"dest": 192,
+"flags": 0,
+"kind": [
+"pipe_v"
+]
+}
+],
+"ends": [
+"goal"
+],
+"roster": [
+19,
+62,
+63,
+64,
+73,
+89,
+116,
+129,
+149
+],
+"behaviour": [
+218,
+219,
+220,
+221
+],
+"anchor_sprites": [],
+"n_sprites": 44
+},
+{
+"members": [
+29
+],
+"hdr": "ce6098a413",
+"spr_hdr": 128,
+"mode": 0,
+"tileset": 3,
+"screens": 15,
+"empty": false,
+"layer2": "bg",
+"exits": [
+{
+"screen": 8,
+"dest": 234,
+"flags": 0,
+"kind": [
+"pipe_v"
+]
+}
+],
+"ends": [
+"goal"
+],
+"roster": [
+120,
+149,
+183,
+184,
+191,
+196
+],
+"behaviour": [],
+"anchor_sprites": [],
+"n_sprites": 24
+},
+{
+"members": [
+31
+],
+"hdr": "c580318f31",
+"spr_hdr": 15,
+"mode": 0,
+"tileset": 1,
+"screens": 6,
+"empty": false,
+"layer2": "bg",
+"exits": [
+{
+"screen": 5,
+"dest": 214,
+"flags": 0,
+"kind": [
+"door"
+]
+}
+],
+"ends": [],
+"roster": [
+103
+],
+"behaviour": [
+230,
+243
+],
+"anchor_sprites": [
+[
+137,
+1,
+2,
+0,
+0
+]
+],
+"n_sprites": 10
+},
+{
+"members": [
+32
+],
+"hdr": "ce60318b01",
+"spr_hdr": 128,
+"mode": 0,
+"tileset": 1,
+"screens": 15,
+"empty": false,
+"layer2": "bg",
+"exits": [
+{
+"screen": 14,
+"dest": 204,
+"flags": 0,
+"kind": [
+"other"
+]
+}
+],
+"ends": [],
+"roster": [
+51,
+62,
+90,
+120,
+177,
+178,
+182,
+188
+],
+"behaviour": [],
+"anchor_sprites": [],
+"n_sprites": 26
+},
+{
+"members": [
+33
+],
+"hdr": "cd6047ac05",
+"spr_hdr": 17,
+"mode": 0,
+"tileset": 5,
+"screens": 14,
+"empty": false,
+"layer2": "bg",
+"exits": [
+{
+"screen": 13,
+"dest": 252,
+"flags": 0,
+"kind": [
+"door"
+]
+}
+],
+"ends": [],
+"roster": [
+56,
+57,
+82,
+174
+],
+"behaviour": [
+222
+],
+"anchor_sprites": [],
+"n_sprites": 25
+},
+{
+"members": [
+34,
+208,
+209
+],
+"hdr": "33c00a8020",
+"spr_hdr": 0,
+"mode": 0,
+"tileset": 0,
+"screens": 20,
+"empty": false,
+"layer2": "bg",
+"exits": [
+{
+"screen": 6,
+"dest": 246,
+"flags": 0,
+"kind": [
+"pipe_v"
+]
+},
+{
+"screen": 15,
+"dest": 190,
+"flags": 0,
+"kind": [
+"pipe_v"
+]
+},
+{
+"screen": 16,
+"dest": 245,
+"flags": 0,
+"kind": [
+"pipe_v"
+]
+}
+],
+"ends": [
+"goal"
+],
+"roster": [
+10,
+47,
+62,
+79,
+110,
+111,
+131,
+142,
+149,
+199
+],
+"behaviour": [],
+"anchor_sprites": [],
+"n_sprites": 34
+},
+{
+"members": [
+35
+],
+"hdr": "5720229128",
+"spr_hdr": 14,
+"mode": 0,
+"tileset": 8,
+"screens": 24,
+"empty": false,
+"layer2": "bg",
+"exits": [
+{
+"screen": 7,
+"dest": 215,
+"flags": 0,
+"kind": [
+"pipe_v"
+]
+}
+],
+"ends": [
+"goal"
+],
+"roster": [
+5,
+6,
+10,
+163,
+165
+],
+"behaviour": [],
+"anchor_sprites": [],
+"n_sprites": 50
+},
+{
+"members": [
+36
+],
+"hdr": "c3400a8410",
+"spr_hdr": 0,
+"mode": 0,
+"tileset": 0,
+"screens": 4,
+"empty": false,
+"layer2": "bg",
+"exits": [
+{
+"screen": 3,
+"dest": 207,
+"flags": 0,
+"kind": [
+"pipe_h"
+]
+}
+],
+"ends": [],
+"roster": [
+47,
+110,
+111
+],
+"behaviour": [],
+"anchor_sprites": [
+[
+185,
+0,
+7,
+20,
+0
+]
+],
+"n_sprites": 12
+},
+{
+"members": [
+147,
+404
+],
+"hdr": "6060edcb01",
+"spr_hdr": 14,
+"mode": 0,
+"tileset": 1,
+"screens": 1,
+"empty": false,
+"layer2": "bg",
+"exits": [],
+"ends": [
+"koopakid"
+],
+"roster": [
+182
+],
+"behaviour": [],
+"anchor_sprites": [
+[
+41,
+0,
+12,
+5,
+0
+]
+],
+"n_sprites": 2,
+"anchor_pipes": [
+[
+1,
+19,
+4
+],
+[
+3,
+20,
+3
+],
+[
+5,
+20,
+3
+],
+[
+7,
+19,
+4
+],
+[
+9,
+18,
+5
+],
+[
+11,
+19,
+4
+],
+[
+13,
+20,
+3
+]
+]
+},
+{
+"members": [
+148,
+403
+],
+"hdr": "6060edcb01",
+"spr_hdr": 14,
+"mode": 0,
+"tileset": 1,
+"screens": 1,
+"empty": false,
+"layer2": "bg",
+"exits": [],
+"ends": [
+"koopakid"
+],
+"roster": [
+182
+],
+"behaviour": [],
+"anchor_sprites": [
+[
+41,
+0,
+12,
+6,
+0
+]
+],
+"n_sprites": 3,
+"anchor_pipes": [
+[
+1,
+20,
+3
+],
+[
+3,
+20,
+3
+],
+[
+5,
+20,
+3
+],
+[
+7,
+20,
+3
+],
+[
+9,
+20,
+3
+],
+[
+11,
+20,
+3
+],
+[
+13,
+20,
+3
+]
+]
+},
+{
+"members": [
+149,
+405
+],
+"hdr": "000960c000",
+"spr_hdr": 14,
+"mode": 9,
+"tileset": 0,
+"screens": 1,
+"empty": true,
+"layer2": "bg",
+"exits": [],
+"ends": [
+"reznor"
+],
+"roster": [],
+"behaviour": [],
+"anchor_sprites": [
+[
+169,
+0,
+1,
+0,
+0
+],
+[
+169,
+0,
+2,
+0,
+0
+],
+[
+169,
+0,
+3,
+0,
+0
+],
+[
+169,
+0,
+4,
+0,
+0
+]
+],
+"n_sprites": 4,
+"anchor_pipes": []
+},
+{
+"members": [
+150,
+406
+],
+"hdr": "000b60c000",
+"spr_hdr": 146,
+"mode": 11,
+"tileset": 0,
+"screens": 1,
+"empty": true,
+"layer2": "bg",
+"exits": [],
+"ends": [
+"koopakid"
+],
+"roster": [
+51
+],
+"behaviour": [],
+"anchor_sprites": [
+[
+41,
+0,
+12,
+4,
+0
+]
+],
+"n_sprites": 4,
+"anchor_pipes": []
+},
+{
+"members": [
+151,
+407
+],
+"hdr": "000b60c000",
+"spr_hdr": 146,
+"mode": 11,
+"tileset": 0,
+"screens": 1,
+"empty": true,
+"layer2": "bg",
+"exits": [],
+"ends": [
+"koopakid"
+],
+"roster": [],
+"behaviour": [],
+"anchor_sprites": [
+[
+41,
+0,
+12,
+3,
+0
+]
+],
+"n_sprites": 1,
+"anchor_pipes": []
+},
+{
+"members": [
+152,
+408
+],
+"hdr": "000960c000",
+"spr_hdr": 0,
+"mode": 9,
+"tileset": 0,
+"screens": 1,
+"empty": true,
+"layer2": "bg",
+"exits": [],
+"ends": [
+"koopakid"
+],
+"roster": [],
+"behaviour": [],
+"anchor_sprites": [
+[
+41,
+0,
+12,
+2,
+0
+]
+],
+"n_sprites": 1,
+"anchor_pipes": []
+},
+{
+"members": [
+153,
+409
+],
+"hdr": "000960c000",
+"spr_hdr": 0,
+"mode": 9,
+"tileset": 0,
+"screens": 1,
+"empty": true,
+"layer2": "bg",
+"exits": [],
+"ends": [
+"koopakid"
+],
+"roster": [],
+"behaviour": [],
+"anchor_sprites": [
+[
+41,
+0,
+12,
+1,
+0
+]
+],
+"n_sprites": 1,
+"anchor_pipes": []
+},
+{
+"members": [
+154,
+410
+],
+"hdr": "000960c000",
+"spr_hdr": 0,
+"mode": 9,
+"tileset": 0,
+"screens": 1,
+"empty": true,
+"layer2": "bg",
+"exits": [],
+"ends": [
+"koopakid"
+],
+"roster": [],
+"behaviour": [],
+"anchor_sprites": [
+[
+41,
+0,
+12,
+0,
+0
+]
+],
+"n_sprites": 1,
+"anchor_pipes": []
+},
+{
+"members": [
+155,
+411
+],
+"hdr": "001060c000",
+"spr_hdr": 16,
+"mode": 16,
+"tileset": 0,
+"screens": 1,
+"empty": true,
+"layer2": "bg",
+"exits": [],
+"ends": [
+"bowser"
+],
+"roster": [],
+"behaviour": [],
+"anchor_sprites": [
+[
+160,
+0,
+0,
+0,
+0
+]
+],
+"n_sprites": 1,
+"anchor_pipes": []
+},
+{
+"members": [
+189
+],
+"hdr": "2000700114",
+"spr_hdr": 0,
+"mode": 0,
+"tileset": 4,
+"screens": 1,
+"empty": false,
+"layer2": "bg",
+"exits": [
+{
+"screen": 0,
+"dest": 192,
+"flags": 2,
+"kind": [
+"pipe_h"
+]
+}
+],
+"ends": [],
+"roster": [],
+"behaviour": [],
+"anchor_sprites": [],
+"n_sprites": 0
+},
+{
+"members": [
+190
+],
+"hdr": "23c0a49988",
+"spr_hdr": 128,
+"mode": 0,
+"tileset": 8,
+"screens": 4,
+"empty": false,
+"layer2": "bg",
+"exits": [
+{
+"screen": 3,
+"dest": 208,
+"flags": 0,
+"kind": [
+"pipe_v"
+]
+}
+],
+"ends": [],
+"roster": [
+195
+],
+"behaviour": [
+207
+],
+"anchor_sprites": [],
+"n_sprites": 3
+},
+{
+"members": [
+191
+],
+"hdr": "0300229148",
+"spr_hdr": 0,
+"mode": 0,
+"tileset": 8,
+"screens": 4,
+"empty": false,
+"layer2": "bg",
+"exits": [
+{
+"screen": 3,
+"dest": 191,
+"flags": 2,
+"kind": [
+"pipe_v"
+]
+}
+],
+"ends": [],
+"roster": [
+85,
+87
+],
+"behaviour": [
+215
+],
+"anchor_sprites": [],
+"n_sprites": 6
+},
+{
+"members": [
+192
+],
+"hdr": "e300008740",
+"spr_hdr": 142,
+"mode": 0,
+"tileset": 0,
+"screens": 4,
+"empty": false,
+"layer2": "bg",
+"exits": [
+{
+"screen": 3,
+"dest": 192,
+"flags": 2,
+"kind": [
+"pipe_v"
+]
+}
+],
+"ends": [],
+"roster": [
+157
+],
+"behaviour": [],
+"anchor_sprites": [],
+"n_sprites": 12
+},
+{
+"members": [
+193
+],
+"hdr": "c340a49948",
+"spr_hdr": 128,
+"mode": 0,
+"tileset": 8,
+"screens": 4,
+"empty": false,
+"layer2": "bg",
+"exits": [
+{
+"screen": 0,
+"dest": 193,
+"flags": 2,
+"kind": [
+"pipe_v"
+]
+}
+],
+"ends": [],
+"roster": [
+195
+],
+"behaviour": [],
+"anchor_sprites": [],
+"n_sprites": 2
+},
+{
+"members": [
+194
+],
+"hdr": "c46a108253",
+"spr_hdr": 0,
+"mode": 10,
+"tileset": 3,
+"screens": 5,
+"empty": false,
+"layer2": "bg",
+"exits": [
+{
+"screen": 4,
+"dest": 194,
+"flags": 2,
+"kind": [
+"pipe_v"
+]
+}
+],
+"ends": [],
+"roster": [
+11
+],
+"behaviour": [],
+"anchor_sprites": [],
+"n_sprites": 10
+},
+{
+"members": [
+195
+],
+"hdr": "0320008040",
+"spr_hdr": 0,
+"mode": 0,
+"tileset": 0,
+"screens": 4,
+"empty": false,
+"layer2": "bg",
+"exits": [
+{
+"screen": 3,
+"dest": 195,
+"flags": 2,
+"kind": [
+"pipe_v"
+]
+}
+],
+"ends": [],
+"roster": [
+10,
+73
+],
+"behaviour": [],
+"anchor_sprites": [],
+"n_sprites": 8
+},
+{
+"members": [
+196
+],
+"hdr": "c1a149a405",
+"spr_hdr": 0,
+"mode": 1,
+"tileset": 5,
+"screens": 2,
+"empty": false,
+"layer2": "empty",
+"exits": [],
+"ends": [
+"ghost_exit",
+"goal"
+],
+"roster": [],
+"behaviour": [],
+"anchor_sprites": [
+[
+141,
+0,
+0,
+0,
+0
+]
+],
+"n_sprites": 2
+},
+{
+"members": [
+197
+],
+"hdr": "2000090007",
+"spr_hdr": 0,
+"mode": 0,
+"tileset": 7,
+"screens": 1,
+"empty": false,
+"layer2": "bg",
+"exits": [],
+"ends": [],
+"roster": [],
+"behaviour": [],
+"anchor_sprites": [
+[
+25,
+0,
+0,
+0,
+0
+]
+],
+"n_sprites": 1
+},
+{
+"members": [
+198
+],
+"hdr": "0120008040",
+"spr_hdr": 0,
+"mode": 0,
+"tileset": 0,
+"screens": 2,
+"empty": false,
+"layer2": "bg",
+"exits": [],
+"ends": [
+"goal"
+],
+"roster": [],
+"behaviour": [],
+"anchor_sprites": [],
+"n_sprites": 1
+},
+{
+"members": [
+199
+],
+"hdr": "47c0850000",
+"spr_hdr": 0,
+"mode": 0,
+"tileset": 0,
+"screens": 8,
+"empty": false,
+"layer2": "bg",
+"exits": [],
+"ends": [],
+"roster": [
+4,
+5,
+6,
+7,
+79,
+112,
+189
+],
+"behaviour": [],
+"anchor_sprites": [],
+"n_sprites": 8
+},
+{
+"members": [
+200
+],
+"hdr": "a5a0725106",
+"spr_hdr": 0,
+"mode": 0,
+"tileset": 6,
+"screens": 6,
+"empty": false,
+"layer2": "bg",
+"exits": [],
+"ends": [],
+"roster": [
+165
+],
+"behaviour": [
+232
+],
+"anchor_sprites": [],
+"n_sprites": 16
+},
+{
+"members": [
+201
+],
+"hdr": "a2007b4144",
+"spr_hdr": 0,
+"mode": 0,
+"tileset": 4,
+"screens": 3,
+"empty": false,
+"layer2": "bg",
+"exits": [],
+"ends": [
+"switch"
+],
+"roster": [
+109
+],
+"behaviour": [],
+"anchor_sprites": [],
+"n_sprites": 1
+},
+{
+"members": [
+202
+],
+"hdr": "a2007b4144",
+"spr_hdr": 0,
+"mode": 0,
+"tileset": 4,
+"screens": 3,
+"empty": false,
+"layer2": "bg",
+"exits": [],
+"ends": [
+"switch"
+],
+"roster": [
+109
+],
+"behaviour": [],
+"anchor_sprites": [],
+"n_sprites": 1
+},
+{
+"members": [
+203
+],
+"hdr": "0140249908",
+"spr_hdr": 0,
+"mode": 0,
+"tileset": 8,
+"screens": 2,
+"empty": false,
+"layer2": "bg",
+"exits": [],
+"ends": [
+"goal"
+],
+"roster": [],
+"behaviour": [],
+"anchor_sprites": [],
+"n_sprites": 1
+},
+{
+"members": [
+204
+],
+"hdr": "0009e0c000",
+"spr_hdr": 0,
+"mode": 9,
+"tileset": 0,
+"screens": 1,
+"empty": true,
+"layer2": "bg",
+"exits": [],
+"ends": [
+"koopakid"
+],
+"roster": [],
+"behaviour": [],
+"anchor_sprites": [
+[
+41,
+0,
+12,
+1,
+0
+]
+],
+"n_sprites": 1,
+"anchor_pipes": []
+},
+{
+"members": [
+205
+],
+"hdr": "c3c0008000",
+"spr_hdr": 0,
+"mode": 0,
+"tileset": 0,
+"screens": 4,
+"empty": false,
+"layer2": "bg",
+"exits": [],
+"ends": [
+"goal"
+],
+"roster": [
+62
+],
+"behaviour": [],
+"anchor_sprites": [],
+"n_sprites": 2
+},
+{
+"members": [
+206
+],
+"hdr": "4340008480",
+"spr_hdr": 142,
+"mode": 0,
+"tileset": 0,
+"screens": 4,
+"empty": false,
+"layer2": "bg",
+"exits": [
+{
+"screen": 3,
+"dest": 205,
+"flags": 0,
+"kind": [
+"pipe_h"
+]
+}
+],
+"ends": [],
+"roster": [
+157
+],
+"behaviour": [],
+"anchor_sprites": [],
+"n_sprites": 11
+},
+{
+"members": [
+207
+],
+"hdr": "66c0008460",
+"spr_hdr": 0,
+"mode": 0,
+"tileset": 0,
+"screens": 7,
+"empty": false,
+"layer2": "bg",
+"exits": [
+{
+"screen": 6,
+"dest": 206,
+"flags": 0,
+"kind": [
+"pipe_h"
+]
+}
+],
+"ends": [],
+"roster": [
+119
+],
+"behaviour": [],
+"anchor_sprites": [],
+"n_sprites": 1
+},
+{
+"members": [
+210
+],
+"hdr": "c16013a203",
+"spr_hdr": 0,
+"mode": 0,
+"tileset": 3,
+"screens": 2,
+"empty": false,
+"layer2": "bg",
+"exits": [
+{
+"screen": 1,
+"dest": 210,
+"flags": 2,
+"kind": [
+"pipe_h"
+]
+}
+],
+"ends": [],
+"roster": [
+10
+],
+"behaviour": [],
+"anchor_sprites": [],
+"n_sprites": 9
+},
+{
+"members": [
+211
+],
+"hdr": "6060edcb01",
+"spr_hdr": 14,
+"mode": 0,
+"tileset": 1,
+"screens": 1,
+"empty": false,
+"layer2": "bg",
+"exits": [],
+"ends": [
+"koopakid"
+],
+"roster": [
+182
+],
+"behaviour": [],
+"anchor_sprites": [
+[
+41,
+0,
+12,
+6,
+0
+]
+],
+"n_sprites": 3,
+"anchor_pipes": [
+[
+1,
+20,
+3
+],
+[
+3,
+20,
+3
+],
+[
+5,
+20,
+3
+],
+[
+7,
+20,
+3
+],
+[
+9,
+20,
+3
+],
+[
+11,
+20,
+3
+],
+[
+13,
+20,
+3
+]
+]
+},
+{
+"members": [
+212
+],
+"hdr": "6762318b01",
+"spr_hdr": 0,
+"mode": 2,
+"tileset": 1,
+"screens": 8,
+"empty": false,
+"layer2": "objects",
+"exits": [
+{
+"screen": 7,
+"dest": 211,
+"flags": 0,
+"kind": [
+"other"
+]
+}
+],
+"ends": [],
+"roster": [
+48,
+165,
+166,
+187
+],
+"behaviour": [
+234
+],
+"anchor_sprites": [],
+"n_sprites": 13
+},
+{
+"members": [
+213,
+226,
+478
+],
+"hdr": "0009e0c000",
+"spr_hdr": 14,
+"mode": 9,
+"tileset": 0,
+"screens": 1,
+"empty": true,
+"layer2": "bg",
+"exits": [],
+"ends": [
+"reznor"
+],
+"roster": [],
+"behaviour": [],
+"anchor_sprites": [
+[
+169,
+0,
+1,
+0,
+0
+],
+[
+169,
+0,
+2,
+0,
+0
+],
+[
+169,
+0,
+3,
+0,
+0
+],
+[
+169,
+0,
+4,
+0,
+0
+]
+],
+"n_sprites": 4,
+"anchor_pipes": []
+},
+{
+"members": [
+214
+],
+"hdr": "cf80318b21",
+"spr_hdr": 128,
+"mode": 0,
+"tileset": 1,
+"screens": 16,
+"empty": false,
+"layer2": "bg",
+"exits": [
+{
+"screen": 8,
+"dest": 213,
+"flags": 0,
+"kind": [
+"other"
+]
+},
+{
+"screen": 15,
+"dest": 213,
+"flags": 0,
+"kind": [
+"other"
+]
+}
+],
+"ends": [],
+"roster": [
+51,
+180
+],
+"behaviour": [],
+"anchor_sprites": [],
+"n_sprites": 37
+},
+{
+"members": [
+215
+],
+"hdr": "010072951c",
+"spr_hdr": 1,
+"mode": 0,
+"tileset": 12,
+"screens": 2,
+"empty": false,
+"layer2": "bg",
+"exits": [
+{
+"screen": 1,
+"dest": 215,
+"flags": 2,
+"kind": [
+"pipe_v"
+]
+}
+],
+"ends": [],
+"roster": [
+85,
+95
+],
+"behaviour": [],
+"anchor_sprites": [],
+"n_sprites": 2
+},
+{
+"members": [
+216
+],
+"hdr": "c46010a243",
+"spr_hdr": 0,
+"mode": 0,
+"tileset": 3,
+"screens": 5,
+"empty": false,
+"layer2": "bg",
+"exits": [
+{
+"screen": 0,
+"dest": 216,
+"flags": 2,
+"kind": [
+"pipe_v"
+]
+}
+],
+"ends": [],
+"roster": [
+62
+],
+"behaviour": [],
+"anchor_sprites": [],
+"n_sprites": 1
+},
+{
+"members": [
+217
+],
+"hdr": "0009e0c000",
+"spr_hdr": 0,
+"mode": 9,
+"tileset": 0,
+"screens": 1,
+"empty": true,
+"layer2": "bg",
+"exits": [],
+"ends": [
+"koopakid"
+],
+"roster": [],
+"behaviour": [],
+"anchor_sprites": [
+[
+41,
+0,
+12,
+2,
+0
+]
+],
+"n_sprites": 1,
+"anchor_pipes": []
+},
+{
+"members": [
+218
+],
+"hdr": "2000760114",
+"spr_hdr": 0,
+"mode": 0,
+"tileset": 4,
+"screens": 1,
+"empty": false,
+"layer2": "bg",
+"exits": [
+{
+"screen": 0,
+"dest": 220,
+"flags": 0,
+"kind": [
+"pipe_h"
+]
+}
+],
+"ends": [],
+"roster": [],
+"behaviour": [],
+"anchor_sprites": [],
+"n_sprites": 0
+},
+{
+"members": [
+219
+],
+"hdr": "c46a318b11",
+"spr_hdr": 0,
+"mode": 10,
+"tileset": 1,
+"screens": 5,
+"empty": false,
+"layer2": "bg",
+"exits": [
+{
+"screen": 0,
+"dest": 217,
+"flags": 0,
+"kind": [
+"other"
+]
+}
+],
+"ends": [],
+"roster": [
+34,
+35,
+36,
+37
+],
+"behaviour": [],
+"anchor_sprites": [],
+"n_sprites": 21
+},
+{
+"members": [
+220
+],
+"hdr": "6a62318b01",
+"spr_hdr": 128,
+"mode": 2,
+"tileset": 1,
+"screens": 11,
+"empty": false,
+"layer2": "objects",
+"exits": [
+{
+"screen": 0,
+"dest": 219,
+"flags": 0,
+"kind": [
+"door"
+]
+}
+],
+"ends": [],
+"roster": [
+49,
+51
+],
+"behaviour": [
+242
+],
+"anchor_sprites": [],
+"n_sprites": 9
+},
+{
+"members": [
+221
+],
+"hdr": "03e0729148",
+"spr_hdr": 1,
+"mode": 0,
+"tileset": 8,
+"screens": 4,
+"empty": false,
+"layer2": "bg",
+"exits": [
+{
+"screen": 3,
+"dest": 221,
+"flags": 2,
+"kind": [
+"pipe_v"
+]
+}
+],
+"ends": [],
+"roster": [
+99,
+100
+],
+"behaviour": [],
+"anchor_sprites": [],
+"n_sprites": 2
+},
+{
+"members": [
+222,
+249
+],
+"hdr": "a2c047ac25",
+"spr_hdr": 0,
+"mode": 0,
+"tileset": 5,
+"screens": 3,
+"empty": false,
+"layer2": "bg",
+"exits": [
+{
+"screen": 0,
+"dest": 235,
+"flags": 0,
+"kind": [
+"door"
+]
+},
+{
+"screen": 1,
+"dest": 254,
+"flags": 0,
+"kind": [
+"door"
+]
+}
+],
+"ends": [],
+"roster": [
+55
+],
+"behaviour": [],
+"anchor_sprites": [],
+"n_sprites": 4
+},
+{
+"members": [
+223
+],
+"hdr": "0009e0c000",
+"spr_hdr": 14,
+"mode": 9,
+"tileset": 0,
+"screens": 1,
+"empty": true,
+"layer2": "bg",
+"exits": [],
+"ends": [
+"reznor"
+],
+"roster": [],
+"behaviour": [],
+"anchor_sprites": [
+[
+169,
+0,
+1,
+0,
+0
+],
+[
+169,
+0,
+2,
+0,
+0
+],
+[
+169,
+0,
+3,
+0,
+0
+],
+[
+169,
+0,
+4,
+0,
+0
+]
+],
+"n_sprites": 4,
+"anchor_pipes": []
+},
+{
+"members": [
+224,
+225
+],
+"hdr": "2740318a11",
+"spr_hdr": 142,
+"mode": 0,
+"tileset": 1,
+"screens": 8,
+"empty": false,
+"layer2": "bg",
+"exits": [
+{
+"screen": 7,
+"dest": 223,
+"flags": 0,
+"kind": [
+"other"
+]
+}
+],
+"ends": [],
+"roster": [
+38,
+48,
+49,
+158,
+170
+],
+"behaviour": [],
+"anchor_sprites": [],
+"n_sprites": 32
+},
+{
+"members": [
+227
+],
+"hdr": "ed4005c0a0",
+"spr_hdr": 0,
+"mode": 0,
+"tileset": 0,
+"screens": 14,
+"empty": false,
+"layer2": "bg",
+"exits": [
+{
+"screen": 13,
+"dest": 253,
+"flags": 2,
+"kind": [
+"pipe_v"
+]
+}
+],
+"ends": [],
+"roster": [
+119
+],
+"behaviour": [],
+"anchor_sprites": [
+[
+185,
+0,
+7,
+20,
+0
+]
+],
+"n_sprites": 2
+},
+{
+"members": [
+228
+],
+"hdr": "c0a067ec05",
+"spr_hdr": 9,
+"mode": 0,
+"tileset": 5,
+"screens": 1,
+"empty": false,
+"layer2": "bg",
+"exits": [],
+"ends": [
+"bigboo"
+],
+"roster": [
+55
+],
+"behaviour": [],
+"anchor_sprites": [
+[
+197,
+0,
+11,
+13,
+0
+]
+],
+"n_sprites": 3,
+"anchor_pipes": []
+},
+{
+"members": [
+229
+],
+"hdr": "0009e0c000",
+"spr_hdr": 0,
+"mode": 9,
+"tileset": 0,
+"screens": 1,
+"empty": true,
+"layer2": "bg",
+"exits": [],
+"ends": [
+"koopakid"
+],
+"roster": [],
+"behaviour": [],
+"anchor_sprites": [
+[
+41,
+0,
+12,
+0,
+0
+]
+],
+"n_sprites": 1,
+"anchor_pipes": []
+},
+{
+"members": [
+230
+],
+"hdr": "200076c114",
+"spr_hdr": 0,
+"mode": 0,
+"tileset": 4,
+"screens": 1,
+"empty": false,
+"layer2": "bg",
+"exits": [
+{
+"screen": 0,
+"dest": 231,
+"flags": 0,
+"kind": [
+"pipe_h"
+]
+}
+],
+"ends": [],
+"roster": [],
+"behaviour": [],
+"anchor_sprites": [],
+"n_sprites": 0
+},
+{
+"members": [
+231
+],
+"hdr": "676831cb11",
+"spr_hdr": 0,
+"mode": 8,
+"tileset": 1,
+"screens": 8,
+"empty": false,
+"layer2": "objects",
+"exits": [
+{
+"screen": 0,
+"dest": 229,
+"flags": 0,
+"kind": [
+"other"
+]
+}
+],
+"ends": [],
+"roster": [
+47,
+50
+],
+"behaviour": [
+239
+],
+"anchor_sprites": [],
+"n_sprites": 9
+},
+{
+"members": [
+232
+],
+"hdr": "636031cb11",
+"spr_hdr": 128,
+"mode": 0,
+"tileset": 1,
+"screens": 4,
+"empty": false,
+"layer2": "bg",
+"exits": [
+{
+"screen": 0,
+"dest": 231,
+"flags": 0,
+"kind": [
+"door"
+]
+}
+],
+"ends": [],
+"roster": [
+38,
+50,
+51
+],
+"behaviour": [],
+"anchor_sprites": [],
+"n_sprites": 5
+},
+{
+"members": [
+233
+],
+"hdr": "c38013a223",
+"spr_hdr": 0,
+"mode": 0,
+"tileset": 3,
+"screens": 4,
+"empty": false,
+"layer2": "bg",
+"exits": [
+{
+"screen": 3,
+"dest": 255,
+"flags": 0,
+"kind": [
+"pipe_h"
+]
+}
+],
+"ends": [
+"key",
+"keyhole"
+],
+"roster": [
+151
+],
+"behaviour": [
+220
+],
+"anchor_sprites": [],
+"n_sprites": 4
+},
+{
+"members": [
+234
+],
+"hdr": "cb6af8a413",
+"spr_hdr": 0,
+"mode": 10,
+"tileset": 3,
+"screens": 12,
+"empty": false,
+"layer2": "bg",
+"exits": [
+{
+"screen": 0,
+"dest": 234,
+"flags": 2,
+"kind": [
+"pipe_h"
+]
+},
+{
+"screen": 1,
+"dest": 234,
+"flags": 2,
+"kind": [
+"pipe_h"
+]
+},
+{
+"screen": 2,
+"dest": 234,
+"flags": 2,
+"kind": [
+"pipe_h"
+]
+},
+{
+"screen": 3,
+"dest": 234,
+"flags": 2,
+"kind": [
+"pipe_h"
+]
+},
+{
+"screen": 4,
+"dest": 234,
+"flags": 2,
+"kind": [
+"pipe_h"
+]
+},
+{
+"screen": 5,
+"dest": 234,
+"flags": 2,
+"kind": [
+"pipe_h"
+]
+},
+{
+"screen": 6,
+"dest": 234,
+"flags": 2,
+"kind": [
+"pipe_h"
+]
+},
+{
+"screen": 7,
+"dest": 234,
+"flags": 2,
+"kind": [
+"pipe_h"
+]
+},
+{
+"screen": 8,
+"dest": 234,
+"flags": 2,
+"kind": [
+"pipe_h"
+]
+},
+{
+"screen": 9,
+"dest": 234,
+"flags": 2,
+"kind": [
+"pipe_h"
+]
+},
+{
+"screen": 10,
+"dest": 234,
+"flags": 2,
+"kind": [
+"pipe_h"
+]
+},
+{
+"screen": 11,
+"dest": 234,
+"flags": 2,
+"kind": [
+"pipe_h"
+]
+}
+],
+"ends": [],
+"roster": [
+47,
+62,
+116,
+117,
+118,
+119,
+120
+],
+"behaviour": [],
+"anchor_sprites": [],
+"n_sprites": 16
+},
+{
+"members": [
+235,
+487
+],
+"hdr": "c1a1498405",
+"spr_hdr": 0,
+"mode": 1,
+"tileset": 5,
+"screens": 2,
+"empty": false,
+"layer2": "empty",
+"exits": [],
+"ends": [
+"ghost_exit",
+"goal"
+],
+"roster": [],
+"behaviour": [],
+"anchor_sprites": [
+[
+141,
+0,
+0,
+0,
+0
+]
+],
+"n_sprites": 2
+},
+{
+"members": [
+237,
+242
+],
+"hdr": "c5a047ec25",
+"spr_hdr": 7,
+"mode": 0,
+"tileset": 5,
+"screens": 6,
+"empty": false,
+"layer2": "bg",
+"exits": [
+{
+"screen": 0,
+"dest": 236,
+"flags": 0,
+"kind": [
+"door"
+]
+},
+{
+"screen": 1,
+"dest": 241,
+"flags": 0,
+"kind": [
+"door"
+]
+},
+{
+"screen": 2,
+"dest": 240,
+"flags": 0,
+"kind": [
+"door"
+]
+},
+{
+"screen": 3,
+"dest": 228,
+"flags": 0,
+"kind": [
+"door"
+]
+}
+],
+"ends": [],
+"roster": [
+55,
+62
+],
+"behaviour": [
+226
+],
+"anchor_sprites": [
+[
+185,
+1,
+4,
+21,
+0
+]
+],
+"n_sprites": 7
+},
+{
+"members": [
+239
+],
+"hdr": "cba0318c01",
+"spr_hdr": 0,
+"mode": 0,
+"tileset": 1,
+"screens": 12,
+"empty": false,
+"layer2": "bg",
+"exits": [
+{
+"screen": 11,
+"dest": 226,
+"flags": 0,
+"kind": [
+"other"
+]
+}
+],
+"ends": [],
+"roster": [
+38,
+39
+],
+"behaviour": [],
+"anchor_sprites": [],
+"n_sprites": 20
+},
+{
+"members": [
+240,
+251,
+474,
+505
+],
+"hdr": "c1a1498405",
+"spr_hdr": 0,
+"mode": 1,
+"tileset": 5,
+"screens": 2,
+"empty": false,
+"layer2": "empty",
+"exits": [],
+"ends": [
+"ghost_exit",
+"goal"
+],
+"roster": [],
+"behaviour": [],
+"anchor_sprites": [
+[
+141,
+0,
+0,
+0,
+0
+]
+],
+"n_sprites": 2
+},
+{
+"members": [
+241
+],
+"hdr": "c2a047ec05",
+"spr_hdr": 0,
+"mode": 0,
+"tileset": 5,
+"screens": 3,
+"empty": false,
+"layer2": "bg",
+"exits": [
+{
+"screen": 0,
+"dest": 238,
+"flags": 0,
+"kind": [
+"door"
+]
+},
+{
+"screen": 2,
+"dest": 242,
+"flags": 0,
+"kind": [
+"door"
+]
+}
+],
+"ends": [],
+"roster": [
+55,
+56,
+57
+],
+"behaviour": [],
+"anchor_sprites": [],
+"n_sprites": 8
+},
+{
+"members": [
+243
+],
+"hdr": "01c0229108",
+"spr_hdr": 0,
+"mode": 0,
+"tileset": 8,
+"screens": 2,
+"empty": false,
+"layer2": "bg",
+"exits": [],
+"ends": [
+"goal"
+],
+"roster": [],
+"behaviour": [],
+"anchor_sprites": [],
+"n_sprites": 1
+},
+{
+"members": [
+244
+],
+"hdr": "2000760154",
+"spr_hdr": 0,
+"mode": 0,
+"tileset": 4,
+"screens": 1,
+"empty": false,
+"layer2": "bg",
+"exits": [
+{
+"screen": 0,
+"dest": 244,
+"flags": 2,
+"kind": [
+"pipe_h"
+]
+}
+],
+"ends": [],
+"roster": [],
+"behaviour": [],
+"anchor_sprites": [],
+"n_sprites": 0
+},
+{
+"members": [
+245,
+246
+],
+"hdr": "33c00a8060",
+"spr_hdr": 0,
+"mode": 0,
+"tileset": 0,
+"screens": 20,
+"empty": false,
+"layer2": "bg",
+"exits": [
+{
+"screen": 6,
+"dest": 209,
+"flags": 0,
+"kind": [
+"pipe_v"
+]
+},
+{
+"screen": 15,
+"dest": 190,
+"flags": 0,
+"kind": [
+"pipe_v"
+]
+},
+{
+"screen": 16,
+"dest": 208,
+"flags": 0,
+"kind": [
+"pipe_v"
+]
+}
+],
+"ends": [
+"goal"
+],
+"roster": [
+10,
+47,
+62,
+79,
+110,
+111,
+131,
+142,
+149,
+199
+],
+"behaviour": [],
+"anchor_sprites": [],
+"n_sprites": 34
+},
+{
+"members": [
+247
+],
+"hdr": "b96a42d411",
+"spr_hdr": 128,
+"mode": 10,
+"tileset": 1,
+"screens": 26,
+"empty": false,
+"layer2": "bg",
+"exits": [],
+"ends": [
+"orb"
+],
+"roster": [
+4,
+5,
+6,
+7,
+11,
+116,
+118,
+120,
+164
+],
+"behaviour": [],
+"anchor_sprites": [],
+"n_sprites": 59
+},
+{
+"members": [
+248
+],
+"hdr": "c76c47ec05",
+"spr_hdr": 135,
+"mode": 12,
+"tileset": 5,
+"screens": 8,
+"empty": false,
+"layer2": "bg",
+"exits": [
+{
+"screen": 7,
+"dest": 247,
+"flags": 0,
+"kind": [
+"pipe_v"
+]
+}
+],
+"ends": [],
+"roster": [
+55,
+56,
+57
+],
+"behaviour": [
+210,
+226,
+229
+],
+"anchor_sprites": [],
+"n_sprites": 12
+},
+{
+"members": [
+250
+],
+"hdr": "00e047ac25",
+"spr_hdr": 0,
+"mode": 0,
+"tileset": 5,
+"screens": 1,
+"empty": false,
+"layer2": "bg",
+"exits": [
+{
+"screen": 0,
+"dest": 249,
+"flags": 0,
+"kind": [
+"door"
+]
+}
+],
+"ends": [],
+"roster": [],
+"behaviour": [],
+"anchor_sprites": [],
+"n_sprites": 0
+},
+{
+"members": [
+252
+],
+"hdr": "c56047ac05",
+"spr_hdr": 0,
+"mode": 0,
+"tileset": 5,
+"screens": 6,
+"empty": false,
+"layer2": "bg",
+"exits": [
+{
+"screen": 2,
+"dest": 251,
+"flags": 0,
+"kind": [
+"door"
+]
+}
+],
+"ends": [],
+"roster": [
+175,
+176
+],
+"behaviour": [],
+"anchor_sprites": [],
+"n_sprites": 12
+},
+{
+"members": [
+253
+],
+"hdr": "200076c154",
+"spr_hdr": 0,
+"mode": 0,
+"tileset": 4,
+"screens": 1,
+"empty": false,
+"layer2": "bg",
+"exits": [
+{
+"screen": 0,
+"dest": 253,
+"flags": 2,
+"kind": [
+"pipe_h"
+]
+}
+],
+"ends": [],
+"roster": [],
+"behaviour": [],
+"anchor_sprites": [],
+"n_sprites": 0
+},
+{
+"members": [
+254
+],
+"hdr": "a2c047ac25",
+"spr_hdr": 0,
+"mode": 0,
+"tileset": 5,
+"screens": 3,
+"empty": false,
+"layer2": "bg",
+"exits": [
+{
+"screen": 0,
+"dest": 250,
+"flags": 0,
+"kind": [
+"door"
+]
+},
+{
+"screen": 1,
+"dest": 222,
+"flags": 0,
+"kind": [
+"door"
+]
+}
+],
+"ends": [],
+"roster": [
+55
+],
+"behaviour": [],
+"anchor_sprites": [],
+"n_sprites": 4
+},
+{
+"members": [
+255
+],
+"hdr": "01c0038000",
+"spr_hdr": 0,
+"mode": 0,
+"tileset": 0,
+"screens": 2,
+"empty": false,
+"layer2": "bg",
+"exits": [],
+"ends": [
+"goal"
+],
+"roster": [],
+"behaviour": [],
+"anchor_sprites": [],
+"n_sprites": 1
+},
+{
+"members": [
+257
+],
+"hdr": "6760318b01",
+"spr_hdr": 130,
+"mode": 0,
+"tileset": 1,
+"screens": 8,
+"empty": false,
+"layer2": "bg",
+"exits": [
+{
+"screen": 7,
+"dest": 252,
+"flags": 0,
+"kind": [
+"door"
+]
+}
+],
+"ends": [],
+"roster": [
+34,
+36,
+37,
+51,
+62,
+84
+],
+"behaviour": [
+230
+],
+"anchor_sprites": [
+[
+185,
+0,
+6,
+21,
+0
+],
+[
+185,
+7,
+3,
+21,
+0
+]
+],
+"n_sprites": 26
+},
+{
+"members": [
+258
+],
+"hdr": "eac0a29188",
+"spr_hdr": 192,
+"mode": 0,
+"tileset": 8,
+"screens": 11,
+"empty": false,
+"layer2": "bg",
+"exits": [
+{
+"screen": 3,
+"dest": 190,
+"flags": 0,
+"kind": [
+"pipe_v"
+]
+},
+{
+"screen": 10,
+"dest": 255,
+"flags": 0,
+"kind": [
+"pipe_h"
+]
+}
+],
+"ends": [],
+"roster": [
+5,
+21,
+24,
+62,
+71,
+93,
+164
+],
+"behaviour": [
+219
+],
+"anchor_sprites": [],
+"n_sprites": 33
+},
+{
+"members": [
+259
+],
+"hdr": "5440229110",
+"spr_hdr": 1,
+"mode": 0,
+"tileset": 0,
+"screens": 21,
+"empty": false,
+"layer2": "bg",
+"exits": [
+{
+"screen": 6,
+"dest": 253,
+"flags": 0,
+"kind": [
+"pipe_v"
+]
+}
+],
+"ends": [
+"goal"
+],
+"roster": [
+5,
+9,
+11,
+85,
+87,
+89,
+90,
+95
+],
+"behaviour": [],
+"anchor_sprites": [
+[
+185,
+0,
+15,
+20,
+0
+],
+[
+185,
+10,
+2,
+20,
+0
+]
+],
+"n_sprites": 30
+},
+{
+"members": [
+260
+],
+"hdr": "2000090004",
+"spr_hdr": 0,
+"mode": 0,
+"tileset": 4,
+"screens": 1,
+"empty": false,
+"layer2": "bg",
+"exits": [],
+"ends": [],
+"roster": [],
+"behaviour": [],
+"anchor_sprites": [
+[
+138,
+0,
+4,
+14,
+0
+],
+[
+138,
+0,
+5,
+14,
+0
+],
+[
+138,
+0,
+6,
+14,
+0
+],
+[
+138,
+0,
+7,
+14,
+0
+],
+[
+140,
+0,
+8,
+7,
+0
+],
+[
+185,
+0,
+8,
+21,
+0
+]
+],
+"n_sprites": 6
+},
+{
+"members": [
+261
+],
+"hdr": "3340088027",
+"spr_hdr": 4,
+"mode": 0,
+"tileset": 7,
+"screens": 20,
+"empty": false,
+"layer2": "bg",
+"exits": [
+{
+"screen": 7,
+"dest": 203,
+"flags": 0,
+"kind": [
+"pipe_v"
+]
+}
+],
+"ends": [
+"goal"
+],
+"roster": [
+79,
+131,
+142,
+149,
+159,
+171,
+189,
+199
+],
+"behaviour": [
+219
+],
+"anchor_sprites": [
+[
+185,
+10,
+2,
+20,
+0
+],
+[
+185,
+12,
+15,
+21,
+0
+]
+],
+"n_sprites": 34
+},
+{
+"members": [
+262
+],
+"hdr": "f30005c020",
+"spr_hdr": 0,
+"mode": 0,
+"tileset": 0,
+"screens": 20,
+"empty": false,
+"layer2": "bg",
+"exits": [
+{
+"screen": 15,
+"dest": 202,
+"flags": 0,
+"kind": [
+"pipe_v"
+]
+}
+],
+"ends": [
+"goal"
+],
+"roster": [
+0,
+1,
+5,
+62,
+77,
+78,
+79,
+145
+],
+"behaviour": [
+218,
+219
+],
+"anchor_sprites": [
+[
+185,
+4,
+0,
+21,
+0
+],
+[
+185,
+9,
+13,
+21,
+0
+]
+],
+"n_sprites": 25
+},
+{
+"members": [
+263,
+507
+],
+"hdr": "caa047ec25",
+"spr_hdr": 11,
+"mode": 0,
+"tileset": 5,
+"screens": 11,
+"empty": false,
+"layer2": "bg",
+"exits": [
+{
+"screen": 10,
+"dest": 234,
+"flags": 0,
+"kind": [
+"door"
+]
+}
+],
+"ends": [],
+"roster": [
+40,
+55,
+56
+],
+"behaviour": [
+226,
+227
+],
+"anchor_sprites": [],
+"n_sprites": 17
+},
+{
+"members": [
+264
+],
+"hdr": "616a314a03",
+"spr_hdr": 0,
+"mode": 10,
+"tileset": 3,
+"screens": 2,
+"empty": false,
+"layer2": "bg",
+"exits": [],
+"ends": [],
+"roster": [],
+"behaviour": [],
+"anchor_sprites": [],
+"n_sprites": 0
+},
+{
+"members": [
+265
+],
+"hdr": "c66a129213",
+"spr_hdr": 0,
+"mode": 10,
+"tileset": 3,
+"screens": 7,
+"empty": false,
+"layer2": "bg",
+"exits": [
+{
+"screen": 0,
+"dest": 241,
+"flags": 0,
+"kind": [
+"pipe_h"
+]
+},
+{
+"screen": 2,
+"dest": 240,
+"flags": 0,
+"kind": [
+"pipe_h"
+]
+},
+{
+"screen": 3,
+"dest": 240,
+"flags": 0,
+"kind": [
+"pipe_h"
+]
+}
+],
+"ends": [],
+"roster": [
+5,
+9,
+11,
+47,
+107,
+108
+],
+"behaviour": [],
+"anchor_sprites": [],
+"n_sprites": 22
+},
+{
+"members": [
+266
+],
+"hdr": "df6013e723",
+"spr_hdr": 0,
+"mode": 0,
+"tileset": 3,
+"screens": 32,
+"empty": false,
+"layer2": "bg",
+"exits": [
+{
+"screen": 11,
+"dest": 247,
+"flags": 0,
+"kind": [
+"pipe_h"
+]
+},
+{
+"screen": 14,
+"dest": 194,
+"flags": 0,
+"kind": [
+"pipe_v"
+]
+}
+],
+"ends": [
+"goal"
+],
+"roster": [
+2,
+17,
+42,
+46,
+62,
+79,
+97,
+131,
+168
+],
+"behaviour": [
+219
+],
+"anchor_sprites": [],
+"n_sprites": 49
+},
+{
+"members": [
+267
+],
+"hdr": "2e6013a523",
+"spr_hdr": 0,
+"mode": 0,
+"tileset": 3,
+"screens": 15,
+"empty": false,
+"layer2": "bg",
+"exits": [
+{
+"screen": 9,
+"dest": 198,
+"flags": 0,
+"kind": [
+"pipe_v"
+]
+}
+],
+"ends": [
+"goal"
+],
+"roster": [
+4,
+10,
+11,
+46,
+47,
+79
+],
+"behaviour": [],
+"anchor_sprites": [],
+"n_sprites": 28
+},
+{
+"members": [
+269
+],
+"hdr": "45e031cb01",
+"spr_hdr": 15,
+"mode": 0,
+"tileset": 1,
+"screens": 6,
+"empty": false,
+"layer2": "bg",
+"exits": [
+{
+"screen": 0,
+"dest": 212,
+"flags": 0,
+"kind": [
+"door"
+]
+},
+{
+"screen": 2,
+"dest": 211,
+"flags": 0,
+"kind": [
+"door"
+]
+},
+{
+"screen": 3,
+"dest": 210,
+"flags": 0,
+"kind": [
+"door"
+]
+},
+{
+"screen": 5,
+"dest": 209,
+"flags": 0,
+"kind": [
+"door"
+]
+}
+],
+"ends": [],
+"roster": [],
+"behaviour": [
+230
+],
+"anchor_sprites": [],
+"n_sprites": 1
+},
+{
+"members": [
+270
+],
+"hdr": "67713ccb81",
+"spr_hdr": 128,
+"mode": 17,
+"tileset": 1,
+"screens": 8,
+"empty": false,
+"layer2": "bg",
+"exits": [
+{
+"screen": 7,
+"dest": 199,
+"flags": 0,
+"kind": [
+"other"
+]
+}
+],
+"ends": [],
+"roster": [
+81,
+162
+],
+"behaviour": [],
+"anchor_sprites": [
+[
+198,
+1,
+8,
+0,
+0
+],
+[
+200,
+2,
+1,
+19,
+0
+],
+[
+198,
+6,
+1,
+0,
+0
+]
+],
+"n_sprites": 11
+},
+{
+"members": [
+271
+],
+"hdr": "d460129223",
+"spr_hdr": 128,
+"mode": 0,
+"tileset": 3,
+"screens": 21,
+"empty": false,
+"layer2": "bg",
+"exits": [
+{
+"screen": 5,
+"dest": 191,
+"flags": 0,
+"kind": [
+"pipe_v"
+]
+}
+],
+"ends": [
+"goal",
+"key",
+"keyhole"
+],
+"roster": [
+10,
+11,
+47,
+70,
+72,
+192
+],
+"behaviour": [],
+"anchor_sprites": [],
+"n_sprites": 46
+},
+{
+"members": [
+272
+],
+"hdr": "6760b18b11",
+"spr_hdr": 142,
+"mode": 0,
+"tileset": 1,
+"screens": 8,
+"empty": false,
+"layer2": "bg",
+"exits": [
+{
+"screen": 6,
+"dest": 254,
+"flags": 0,
+"kind": [
+"door"
+]
+},
+{
+"screen": 7,
+"dest": 254,
+"flags": 0,
+"kind": [
+"door"
+]
+}
+],
+"ends": [],
+"roster": [
+116,
+158,
+177
+],
+"behaviour": [],
+"anchor_sprites": [],
+"n_sprites": 15
+},
+{
+"members": [
+273
+],
+"hdr": "6e62318f41",
+"spr_hdr": 128,
+"mode": 2,
+"tileset": 1,
+"screens": 15,
+"empty": false,
+"layer2": "objects",
+"exits": [
+{
+"screen": 14,
+"dest": 222,
+"flags": 0,
+"kind": [
+"other"
+]
+}
+],
+"ends": [],
+"roster": [
+48,
+49,
+50,
+51,
+178
+],
+"behaviour": [
+233
+],
+"anchor_sprites": [],
+"n_sprites": 17
+},
+{
+"members": [
+275
+],
+"hdr": "d36028a206",
+"spr_hdr": 4,
+"mode": 0,
+"tileset": 6,
+"screens": 20,
+"empty": false,
+"layer2": "bg",
+"exits": [
+{
+"screen": 6,
+"dest": 187,
+"flags": 0,
+"kind": [
+"pipe_v"
+]
+}
+],
+"ends": [
+"goal"
+],
+"roster": [
+5,
+9,
+10,
+11,
+47,
+120,
+159,
+183,
+184,
+186
+],
+"behaviour": [],
+"anchor_sprites": [],
+"n_sprites": 61
+},
+{
+"members": [
+276,
+473
+],
+"hdr": "64ec47ac25",
+"spr_hdr": 13,
+"mode": 12,
+"tileset": 5,
+"screens": 5,
+"empty": false,
+"layer2": "bg",
+"exits": [
+{
+"screen": 3,
+"dest": 221,
+"flags": 0,
+"kind": [
+"door"
+]
+}
+],
+"ends": [],
+"roster": [
+144
+],
+"behaviour": [],
+"anchor_sprites": [],
+"n_sprites": 4
+},
+{
+"members": [
+277
+],
+"hdr": "c76213e103",
+"spr_hdr": 0,
+"mode": 2,
+"tileset": 3,
+"screens": 8,
+"empty": false,
+"layer2": "objects",
+"exits": [
+{
+"screen": 7,
+"dest": 227,
+"flags": 0,
+"kind": [
+"pipe_h"
+]
+}
+],
+"ends": [],
+"roster": [
+3,
+4,
+190
+],
+"behaviour": [
+221,
+234
+],
+"anchor_sprites": [],
+"n_sprites": 18
+},
+{
+"members": [
+278
+],
+"hdr": "d16018e213",
+"spr_hdr": 128,
+"mode": 0,
+"tileset": 3,
+"screens": 18,
+"empty": false,
+"layer2": "bg",
+"exits": [
+{
+"screen": 15,
+"dest": 228,
+"flags": 0,
+"kind": [
+"pipe_v"
+]
+},
+{
+"screen": 16,
+"dest": 229,
+"flags": 0,
+"kind": [
+"pipe_h"
+]
+}
+],
+"ends": [],
+"roster": [
+145,
+191
+],
+"behaviour": [],
+"anchor_sprites": [],
+"n_sprites": 32
+},
+{
+"members": [
+279
+],
+"hdr": "c76013a723",
+"spr_hdr": 128,
+"mode": 0,
+"tileset": 3,
+"screens": 8,
+"empty": false,
+"layer2": "bg",
+"exits": [
+{
+"screen": 5,
+"dest": 192,
+"flags": 0,
+"kind": [
+"pipe_v"
+]
+},
+{
+"screen": 7,
+"dest": 237,
+"flags": 0,
+"kind": [
+"pipe_h"
+]
+}
+],
+"ends": [],
+"roster": [
+17,
+47,
+151,
+168
+],
+"behaviour": [],
+"anchor_sprites": [],
+"n_sprites": 11
+},
+{
+"members": [
+280
+],
+"hdr": "d36013a223",
+"spr_hdr": 128,
+"mode": 0,
+"tileset": 3,
+"screens": 20,
+"empty": false,
+"layer2": "bg",
+"exits": [
+{
+"screen": 13,
+"dest": 195,
+"flags": 0,
+"kind": [
+"pipe_v"
+]
+}
+],
+"ends": [
+"goal",
+"key",
+"keyhole"
+],
+"roster": [
+17,
+21,
+22,
+46,
+62,
+129,
+145,
+146,
+190
+],
+"behaviour": [],
+"anchor_sprites": [],
+"n_sprites": 51
+},
+{
+"members": [
+281
+],
+"hdr": "d380229106",
+"spr_hdr": 0,
+"mode": 0,
+"tileset": 6,
+"screens": 20,
+"empty": false,
+"layer2": "bg",
+"exits": [
+{
+"screen": 11,
+"dest": 245,
+"flags": 0,
+"kind": [
+"pipe_v"
+]
+}
+],
+"ends": [
+"goal"
+],
+"roster": [
+4,
+5,
+8,
+10,
+11,
+79,
+107,
+108,
+116
+],
+"behaviour": [
+213,
+214,
+217
+],
+"anchor_sprites": [],
+"n_sprites": 47
+},
+{
+"members": [
+282
+],
+"hdr": "da6013e123",
+"spr_hdr": 0,
+"mode": 0,
+"tileset": 3,
+"screens": 27,
+"empty": false,
+"layer2": "bg",
+"exits": [
+{
+"screen": 8,
+"dest": 239,
+"flags": 0,
+"kind": [
+"pipe_h"
+]
+}
+],
+"ends": [
+"goal",
+"key",
+"keyhole"
+],
+"roster": [
+10,
+17,
+46,
+79,
+131,
+151,
+190,
+199
+],
+"behaviour": [
+218,
+219,
+220
+],
+"anchor_sprites": [],
+"n_sprites": 40
+},
+{
+"members": [
+283
+],
+"hdr": "a200704104",
+"spr_hdr": 0,
+"mode": 0,
+"tileset": 4,
+"screens": 3,
+"empty": false,
+"layer2": "bg",
+"exits": [
+{
+"screen": 2,
+"dest": 216,
+"flags": 0,
+"kind": [
+"pipe_h"
+]
+}
+],
+"ends": [],
+"roster": [
+3,
+4,
+5,
+6,
+62
+],
+"behaviour": [
+221
+],
+"anchor_sprites": [],
+"n_sprites": 11
+},
+{
+"members": [
+284
+],
+"hdr": "696031cb01",
+"spr_hdr": 128,
+"mode": 0,
+"tileset": 1,
+"screens": 10,
+"empty": false,
+"layer2": "bg",
+"exits": [
+{
+"screen": 6,
+"dest": 244,
+"flags": 0,
+"kind": [
+"door"
+]
+},
+{
+"screen": 9,
+"dest": 243,
+"flags": 0,
+"kind": [
+"door"
+]
+}
+],
+"ends": [],
+"roster": [
+31,
+51,
+62,
+91
+],
+"behaviour": [],
+"anchor_sprites": [],
+"n_sprites": 14
+},
+{
+"members": [
+285,
+488,
+489
+],
+"hdr": "ca6147ec25",
+"spr_hdr": 11,
+"mode": 1,
+"tileset": 5,
+"screens": 11,
+"empty": false,
+"layer2": "objects",
+"exits": [
+{
+"screen": 1,
+"dest": 230,
+"flags": 0,
+"kind": [
+"door"
+]
+},
+{
+"screen": 3,
+"dest": 231,
+"flags": 0,
+"kind": [
+"door"
+]
+},
+{
+"screen": 10,
+"dest": 250,
+"flags": 0,
+"kind": [
+"door"
+]
+}
+],
+"ends": [],
+"roster": [
+40,
+55,
+56,
+57
+],
+"behaviour": [
+222
+],
+"anchor_sprites": [],
+"n_sprites": 24
+},
+{
+"members": [
+286
+],
+"hdr": "f32000800c",
+"spr_hdr": 10,
+"mode": 0,
+"tileset": 12,
+"screens": 20,
+"empty": false,
+"layer2": "bg",
+"exits": [],
+"ends": [
+"goal",
+"keyhole"
+],
+"roster": [
+5,
+10,
+15,
+16,
+47,
+76,
+129,
+134,
+155,
+156
+],
+"behaviour": [],
+"anchor_sprites": [],
+"n_sprites": 38
+},
+{
+"members": [
+287
+],
+"hdr": "1320008120",
+"spr_hdr": 12,
+"mode": 0,
+"tileset": 0,
+"screens": 20,
+"empty": false,
+"layer2": "bg",
+"exits": [
+{
+"screen": 11,
+"dest": 223,
+"flags": 0,
+"kind": [
+"pipe_v"
+]
+},
+{
+"screen": 13,
+"dest": 193,
+"flags": 0,
+"kind": [
+"pipe_v"
+]
+}
+],
+"ends": [
+"goal"
+],
+"roster": [
+1,
+9,
+30,
+62,
+73,
+75,
+79,
+116,
+129,
+145
+],
+"behaviour": [
+210,
+219,
+220
+],
+"anchor_sprites": [],
+"n_sprites": 26
+},
+{
+"members": [
+288
+],
+"hdr": "8da0549f19",
+"spr_hdr": 128,
+"mode": 0,
+"tileset": 9,
+"screens": 14,
+"empty": false,
+"layer2": "bg",
+"exits": [],
+"ends": [
+"goal",
+"key",
+"keyhole"
+],
+"roster": [
+21,
+58,
+59,
+60,
+61,
+148,
+194
+],
+"behaviour": [],
+"anchor_sprites": [],
+"n_sprites": 65
+},
+{
+"members": [
+289
+],
+"hdr": "a200704104",
+"spr_hdr": 0,
+"mode": 0,
+"tileset": 4,
+"screens": 3,
+"empty": false,
+"layer2": "bg",
+"exits": [
+{
+"screen": 2,
+"dest": 215,
+"flags": 0,
+"kind": [
+"pipe_h"
+]
+}
+],
+"ends": [],
+"roster": [
+19,
+62
+],
+"behaviour": [],
+"anchor_sprites": [],
+"n_sprites": 10
+},
+{
+"members": [
+290
+],
+"hdr": "e92022901c",
+"spr_hdr": 0,
+"mode": 0,
+"tileset": 12,
+"screens": 10,
+"empty": false,
+"layer2": "bg",
+"exits": [],
+"ends": [
+"goal"
+],
+"roster": [
+8,
+10,
+11,
+120,
+193
+],
+"behaviour": [
+244
+],
+"anchor_sprites": [],
+"n_sprites": 27
+},
+{
+"members": [
+291
+],
+"hdr": "d30000800c",
+"spr_hdr": 14,
+"mode": 0,
+"tileset": 12,
+"screens": 20,
+"empty": false,
+"layer2": "bg",
+"exits": [
+{
+"screen": 3,
+"dest": 188,
+"flags": 0,
+"kind": [
+"pipe_v"
+]
+},
+{
+"screen": 17,
+"dest": 248,
+"flags": 0,
+"kind": [
+"pipe_v"
+]
+}
+],
+"ends": [
+"goal"
+],
+"roster": [
+47,
+146,
+157
+],
+"behaviour": [
+212,
+217,
+219
+],
+"anchor_sprites": [],
+"n_sprites": 42
+},
+{
+"members": [
+293
+],
+"hdr": "1fa0054020",
+"spr_hdr": 7,
+"mode": 0,
+"tileset": 0,
+"screens": 32,
+"empty": false,
+"layer2": "bg",
+"exits": [],
+"ends": [
+"goal"
+],
+"roster": [
+5,
+6,
+9,
+12,
+16,
+80,
+132,
+148,
+152,
+154
+],
+"behaviour": [
+217
+],
+"anchor_sprites": [],
+"n_sprites": 33
+},
+{
+"members": [
+294
+],
+"hdr": "732000810c",
+"spr_hdr": 10,
+"mode": 0,
+"tileset": 12,
+"screens": 20,
+"empty": false,
+"layer2": "bg",
+"exits": [],
+"ends": [
+"goal"
+],
+"roster": [
+29,
+47,
+76,
+79,
+80,
+134,
+155,
+156
+],
+"behaviour": [
+201
+],
+"anchor_sprites": [],
+"n_sprites": 54
+},
+{
+"members": [
+295
+],
+"hdr": "0f20808000",
+"spr_hdr": 128,
+"mode": 0,
+"tileset": 0,
+"screens": 16,
+"empty": false,
+"layer2": "bg",
+"exits": [
+{
+"screen": 7,
+"dest": 224,
+"flags": 0,
+"kind": [
+"pipe_v"
+]
+},
+{
+"screen": 15,
+"dest": 225,
+"flags": 0,
+"kind": [
+"pipe_h"
+]
+}
+],
+"ends": [],
+"roster": [
+5,
+21,
+22,
+79,
+155,
+156
+],
+"behaviour": [],
+"anchor_sprites": [],
+"n_sprites": 37
+},
+{
+"members": [
+296
+],
+"hdr": "53c0858000",
+"spr_hdr": 0,
+"mode": 0,
+"tileset": 0,
+"screens": 20,
+"empty": false,
+"layer2": "bg",
+"exits": [],
+"ends": [
+"goal"
+],
+"roster": [
+4,
+5,
+6,
+7,
+79,
+80,
+112,
+129,
+152,
+153,
+189
+],
+"behaviour": [],
+"anchor_sprites": [],
+"n_sprites": 35
+},
+{
+"members": [
+298
+],
+"hdr": "04caa29118",
+"spr_hdr": 0,
+"mode": 10,
+"tileset": 8,
+"screens": 5,
+"empty": false,
+"layer2": "bg",
+"exits": [
+{
+"screen": 1,
+"dest": 197,
+"flags": 0,
+"kind": [
+"pipe_h"
+]
+},
+{
+"screen": 4,
+"dest": 196,
+"flags": 0,
+"kind": [
+"pipe_h"
+]
+}
+],
+"ends": [],
+"roster": [
+6,
+10,
+11,
+100,
+107,
+108,
+120
+],
+"behaviour": [],
+"anchor_sprites": [
+[
+185,
+4,
+8,
+11,
+0
+]
+],
+"n_sprites": 12
+},
+{
+"members": [
+299
+],
+"hdr": "4a400e8000",
+"spr_hdr": 0,
+"mode": 0,
+"tileset": 0,
+"screens": 11,
+"empty": false,
+"layer2": "bg",
+"exits": [],
+"ends": [
+"goal"
+],
+"roster": [
+10,
+11,
+47,
+62,
+79,
+149,
+151,
+152,
+153
+],
+"behaviour": [],
+"anchor_sprites": [],
+"n_sprites": 20
+},
+{
+"members": [
+300
+],
+"hdr": "3320229112",
+"spr_hdr": 1,
+"mode": 0,
+"tileset": 2,
+"screens": 20,
+"empty": false,
+"layer2": "bg",
+"exits": [
+{
+"screen": 6,
+"dest": 201,
+"flags": 0,
+"kind": [
+"pipe_v"
+]
+}
+],
+"ends": [
+"goal"
+],
+"roster": [
+98,
+99,
+100,
+101,
+104,
+196
+],
+"behaviour": [],
+"anchor_sprites": [],
+"n_sprites": 44
+},
+{
+"members": [
+301
+],
+"hdr": "33e0288500",
+"spr_hdr": 132,
+"mode": 0,
+"tileset": 0,
+"screens": 20,
+"empty": false,
+"layer2": "bg",
+"exits": [],
+"ends": [
+"goal"
+],
+"roster": [
+2,
+3,
+9,
+10,
+12,
+21,
+62,
+89,
+117,
+159,
+171
+],
+"behaviour": [
+209,
+217,
+218,
+219,
+220,
+221
+],
+"anchor_sprites": [],
+"n_sprites": 43
+},
+{
+"members": [
+304
+],
+"hdr": "8b40d49e09",
+"spr_hdr": 128,
+"mode": 0,
+"tileset": 9,
+"screens": 12,
+"empty": false,
+"layer2": "bg",
+"exits": [
+{
+"screen": 9,
+"dest": 213,
+"flags": 0,
+"kind": [
+"pipe_h"
+]
+}
+],
+"ends": [
+"key",
+"keyhole"
+],
+"roster": [
+44,
+61,
+118,
+194
+],
+"behaviour": [],
+"anchor_sprites": [],
+"n_sprites": 41
+},
+{
+"members": [
+306
+],
+"hdr": "a2a0204126",
+"spr_hdr": 12,
+"mode": 0,
+"tileset": 6,
+"screens": 3,
+"empty": false,
+"layer2": "bg",
+"exits": [],
+"ends": [
+"goal",
+"keyhole"
+],
+"roster": [
+30,
+44,
+62
+],
+"behaviour": [],
+"anchor_sprites": [],
+"n_sprites": 5
+},
+{
+"members": [
+308
+],
+"hdr": "c96a008213",
+"spr_hdr": 0,
+"mode": 10,
+"tileset": 3,
+"screens": 10,
+"empty": false,
+"layer2": "bg",
+"exits": [
+{
+"screen": 9,
+"dest": 214,
+"flags": 0,
+"kind": [
+"pipe_h"
+]
+}
+],
+"ends": [
+"key",
+"keyhole"
+],
+"roster": [
+4,
+5,
+6,
+7,
+9,
+10,
+44,
+116,
+117,
+118,
+119,
+120
+],
+"behaviour": [],
+"anchor_sprites": [],
+"n_sprites": 30
+},
+{
+"members": [
+309
+],
+"hdr": "b3a0229116",
+"spr_hdr": 14,
+"mode": 0,
+"tileset": 6,
+"screens": 20,
+"empty": false,
+"layer2": "bg",
+"exits": [],
+"ends": [
+"goal",
+"keyhole"
+],
+"roster": [
+2,
+5,
+6,
+9,
+10,
+11,
+44,
+163
+],
+"behaviour": [
+218,
+219,
+224
+],
+"anchor_sprites": [],
+"n_sprites": 44
+},
+{
+"members": [
+310
+],
+"hdr": "b0a0008126",
+"spr_hdr": 0,
+"mode": 0,
+"tileset": 6,
+"screens": 17,
+"empty": false,
+"layer2": "bg",
+"exits": [],
+"ends": [
+"goal",
+"key",
+"keyhole"
+],
+"roster": [
+5,
+8,
+10,
+11,
+19,
+44,
+62,
+79,
+196
+],
+"behaviour": [],
+"anchor_sprites": [],
+"n_sprites": 55
+},
+{
+"members": [
+443
+],
+"hdr": "2000782114",
+"spr_hdr": 0,
+"mode": 0,
+"tileset": 4,
+"screens": 1,
+"empty": false,
+"layer2": "bg",
+"exits": [
+{
+"screen": 0,
+"dest": 187,
+"flags": 2,
+"kind": [
+"pipe_h"
+]
+}
+],
+"ends": [],
+"roster": [],
+"behaviour": [],
+"anchor_sprites": [],
+"n_sprites": 0
+},
+{
+"members": [
+444
+],
+"hdr": "2000700114",
+"spr_hdr": 0,
+"mode": 0,
+"tileset": 4,
+"screens": 1,
+"empty": false,
+"layer2": "bg",
+"exits": [
+{
+"screen": 0,
+"dest": 188,
+"flags": 2,
+"kind": [
+"pipe_h"
+]
+}
+],
+"ends": [],
+"roster": [],
+"behaviour": [],
+"anchor_sprites": [],
+"n_sprites": 0
+},
+{
+"members": [
+445
+],
+"hdr": "67713ccb81",
+"spr_hdr": 128,
+"mode": 17,
+"tileset": 1,
+"screens": 8,
+"empty": false,
+"layer2": "bg",
+"exits": [
+{
+"screen": 7,
+"dest": 199,
+"flags": 0,
+"kind": [
+"other"
+]
+}
+],
+"ends": [],
+"roster": [
+81,
+162
+],
+"behaviour": [],
+"anchor_sprites": [
+[
+198,
+1,
+8,
+0,
+0
+],
+[
+200,
+2,
+1,
+19,
+0
+],
+[
+198,
+6,
+1,
+0,
+0
+]
+],
+"n_sprites": 11
+},
+{
+"members": [
+446
+],
+"hdr": "e3c0058060",
+"spr_hdr": 0,
+"mode": 0,
+"tileset": 0,
+"screens": 4,
+"empty": false,
+"layer2": "bg",
+"exits": [
+{
+"screen": 3,
+"dest": 190,
+"flags": 2,
+"kind": [
+"pipe_v"
+]
+}
+],
+"ends": [],
+"roster": [
+112
+],
+"behaviour": [],
+"anchor_sprites": [
+[
+185,
+1,
+13,
+21,
+0
+]
+],
+"n_sprites": 4
+},
+{
+"members": [
+447
+],
+"hdr": "236013a543",
+"spr_hdr": 128,
+"mode": 0,
+"tileset": 3,
+"screens": 4,
+"empty": false,
+"layer2": "bg",
+"exits": [
+{
+"screen": 0,
+"dest": 191,
+"flags": 2,
+"kind": [
+"pipe_v"
+]
+}
+],
+"ends": [],
+"roster": [
+21,
+46
+],
+"behaviour": [],
+"anchor_sprites": [],
+"n_sprites": 9
+},
+{
+"members": [
+448
+],
+"hdr": "42c003a000",
+"spr_hdr": 0,
+"mode": 0,
+"tileset": 0,
+"screens": 3,
+"empty": false,
+"layer2": "bg",
+"exits": [
+{
+"screen": 2,
+"dest": 192,
+"flags": 2,
+"kind": [
+"pipe_v"
+]
+}
+],
+"ends": [],
+"roster": [
+155,
+156,
+196
+],
+"behaviour": [],
+"anchor_sprites": [],
+"n_sprites": 6
+},
+{
+"members": [
+449
+],
+"hdr": "8340d49949",
+"spr_hdr": 128,
+"mode": 0,
+"tileset": 9,
+"screens": 4,
+"empty": false,
+"layer2": "bg",
+"exits": [
+{
+"screen": 0,
+"dest": 193,
+"flags": 2,
+"kind": [
+"pipe_v"
+]
+}
+],
+"ends": [],
+"roster": [
+194
+],
+"behaviour": [],
+"anchor_sprites": [],
+"n_sprites": 12
+},
+{
+"members": [
+450
+],
+"hdr": "236013e543",
+"spr_hdr": 128,
+"mode": 0,
+"tileset": 3,
+"screens": 4,
+"empty": false,
+"layer2": "bg",
+"exits": [
+{
+"screen": 3,
+"dest": 247,
+"flags": 2,
+"kind": [
+"pipe_v"
+]
+}
+],
+"ends": [],
+"roster": [
+10,
+17,
+21
+],
+"behaviour": [],
+"anchor_sprites": [],
+"n_sprites": 8
+},
+{
+"members": [
+451
+],
+"hdr": "236013a543",
+"spr_hdr": 128,
+"mode": 0,
+"tileset": 3,
+"screens": 4,
+"empty": false,
+"layer2": "bg",
+"exits": [
+{
+"screen": 3,
+"dest": 195,
+"flags": 2,
+"kind": [
+"pipe_v"
+]
+}
+],
+"ends": [],
+"roster": [
+17,
+21,
+46
+],
+"behaviour": [],
+"anchor_sprites": [],
+"n_sprites": 7
+},
+{
+"members": [
+452,
+453
+],
+"hdr": "06c0a08020",
+"spr_hdr": 12,
+"mode": 0,
+"tileset": 0,
+"screens": 7,
+"empty": false,
+"layer2": "bg",
+"exits": [],
+"ends": [
+"goal"
+],
+"roster": [
+30,
+62,
+120,
+155,
+156,
+199
+],
+"behaviour": [
+210
+],
+"anchor_sprites": [],
+"n_sprites": 12
+},
+{
+"members": [
+454
+],
+"hdr": "23c0008047",
+"spr_hdr": 0,
+"mode": 0,
+"tileset": 7,
+"screens": 4,
+"empty": false,
+"layer2": "bg",
+"exits": [
+{
+"screen": 3,
+"dest": 198,
+"flags": 2,
+"kind": [
+"pipe_v"
+]
+}
+],
+"ends": [],
+"roster": [
+79,
+196
+],
+"behaviour": [],
+"anchor_sprites": [],
+"n_sprites": 8
+},
+{
+"members": [
+455
+],
+"hdr": "001060c000",
+"spr_hdr": 16,
+"mode": 16,
+"tileset": 0,
+"screens": 1,
+"empty": true,
+"layer2": "bg",
+"exits": [],
+"ends": [
+"bowser"
+],
+"roster": [],
+"behaviour": [],
+"anchor_sprites": [
+[
+160,
+0,
+0,
+0,
+0
+]
+],
+"n_sprites": 1,
+"anchor_pipes": []
+},
+{
+"members": [
+456
+],
+"hdr": "040072958c",
+"spr_hdr": 0,
+"mode": 0,
+"tileset": 12,
+"screens": 5,
+"empty": false,
+"layer2": "bg",
+"exits": [],
+"ends": [],
+"roster": [],
+"behaviour": [
+243
+],
+"anchor_sprites": [],
+"n_sprites": 1
+},
+{
+"members": [
+457
+],
+"hdr": "000022954c",
+"spr_hdr": 0,
+"mode": 0,
+"tileset": 12,
+"screens": 1,
+"empty": false,
+"layer2": "bg",
+"exits": [
+{
+"screen": 0,
+"dest": 201,
+"flags": 2,
+"kind": [
+"pipe_v"
+]
+}
+],
+"ends": [],
+"roster": [],
+"behaviour": [],
+"anchor_sprites": [],
+"n_sprites": 0
+},
+{
+"members": [
+458
+],
+"hdr": "c16015c243",
+"spr_hdr": 0,
+"mode": 0,
+"tileset": 3,
+"screens": 2,
+"empty": false,
+"layer2": "bg",
+"exits": [
+{
+"screen": 1,
+"dest": 202,
+"flags": 2,
+"kind": [
+"pipe_h"
+]
+}
+],
+"ends": [],
+"roster": [
+132
+],
+"behaviour": [],
+"anchor_sprites": [],
+"n_sprites": 6
+},
+{
+"members": [
+459
+],
+"hdr": "c160188243",
+"spr_hdr": 0,
+"mode": 0,
+"tileset": 3,
+"screens": 2,
+"empty": false,
+"layer2": "bg",
+"exits": [
+{
+"screen": 1,
+"dest": 203,
+"flags": 2,
+"kind": [
+"pipe_h"
+]
+}
+],
+"ends": [],
+"roster": [],
+"behaviour": [],
+"anchor_sprites": [],
+"n_sprites": 0
+},
+{
+"members": [
+460
+],
+"hdr": "636030c341",
+"spr_hdr": 0,
+"mode": 0,
+"tileset": 1,
+"screens": 4,
+"empty": false,
+"layer2": "bg",
+"exits": [
+{
+"screen": 3,
+"dest": 189,
+"flags": 0,
+"kind": [
+"door"
+]
+}
+],
+"ends": [],
+"roster": [
+147
+],
+"behaviour": [],
+"anchor_sprites": [],
+"n_sprites": 8
+},
+{
+"members": [
+461
+],
+"hdr": "e36031cf41",
+"spr_hdr": 143,
+"mode": 0,
+"tileset": 1,
+"screens": 4,
+"empty": false,
+"layer2": "bg",
+"exits": [
+{
+"screen": 3,
+"dest": 189,
+"flags": 0,
+"kind": [
+"door"
+]
+}
+],
+"ends": [],
+"roster": [
+51,
+188
+],
+"behaviour": [
+230
+],
+"anchor_sprites": [],
+"n_sprites": 11
+},
+{
+"members": [
+462
+],
+"hdr": "646831ca51",
+"spr_hdr": 142,
+"mode": 8,
+"tileset": 1,
+"screens": 5,
+"empty": false,
+"layer2": "objects",
+"exits": [
+{
+"screen": 0,
+"dest": 189,
+"flags": 0,
+"kind": [
+"pipe_h"
+]
+}
+],
+"ends": [],
+"roster": [
+50,
+158,
+170
+],
+"behaviour": [
+239
+],
+"anchor_sprites": [],
+"n_sprites": 15
+},
+{
+"members": [
+463
+],
+"hdr": "626231cb41",
+"spr_hdr": 0,
+"mode": 2,
+"tileset": 1,
+"screens": 3,
+"empty": false,
+"layer2": "objects",
+"exits": [
+{
+"screen": 2,
+"dest": 189,
+"flags": 0,
+"kind": [
+"door"
+]
+}
+],
+"ends": [],
+"roster": [
+38
+],
+"behaviour": [
+233
+],
+"anchor_sprites": [],
+"n_sprites": 9
+},
+{
+"members": [
+464
+],
+"hdr": "45e031cb41",
+"spr_hdr": 15,
+"mode": 0,
+"tileset": 1,
+"screens": 6,
+"empty": false,
+"layer2": "bg",
+"exits": [
+{
+"screen": 0,
+"dest": 207,
+"flags": 0,
+"kind": [
+"door"
+]
+},
+{
+"screen": 2,
+"dest": 206,
+"flags": 0,
+"kind": [
+"door"
+]
+},
+{
+"screen": 3,
+"dest": 205,
+"flags": 0,
+"kind": [
+"door"
+]
+},
+{
+"screen": 5,
+"dest": 204,
+"flags": 0,
+"kind": [
+"door"
+]
+}
+],
+"ends": [],
+"roster": [],
+"behaviour": [
+230
+],
+"anchor_sprites": [],
+"n_sprites": 1
+},
+{
+"members": [
+465
+],
+"hdr": "636031cb01",
+"spr_hdr": 0,
+"mode": 0,
+"tileset": 1,
+"screens": 4,
+"empty": false,
+"layer2": "bg",
+"exits": [
+{
+"screen": 3,
+"dest": 208,
+"flags": 0,
+"kind": [
+"door"
+]
+}
+],
+"ends": [],
+"roster": [
+120,
+165,
+166,
+187
+],
+"behaviour": [
+234
+],
+"anchor_sprites": [],
+"n_sprites": 14
+},
+{
+"members": [
+466
+],
+"hdr": "c4e03ccb5b",
+"spr_hdr": 128,
+"mode": 0,
+"tileset": 11,
+"screens": 5,
+"empty": false,
+"layer2": "bg",
+"exits": [
+{
+"screen": 4,
+"dest": 208,
+"flags": 0,
+"kind": [
+"door"
+]
+}
+],
+"ends": [],
+"roster": [
+119,
+120,
+162
+],
+"behaviour": [],
+"anchor_sprites": [],
+"n_sprites": 11
+},
+{
+"members": [
+467
+],
+"hdr": "626031cb01",
+"spr_hdr": 2,
+"mode": 0,
+"tileset": 1,
+"screens": 3,
+"empty": false,
+"layer2": "bg",
+"exits": [
+{
+"screen": 2,
+"dest": 208,
+"flags": 0,
+"kind": [
+"door"
+]
+}
+],
+"ends": [],
+"roster": [
+37,
+84,
+182
+],
+"behaviour": [],
+"anchor_sprites": [],
+"n_sprites": 18
+},
+{
+"members": [
+468
+],
+"hdr": "c26031cb01",
+"spr_hdr": 143,
+"mode": 0,
+"tileset": 1,
+"screens": 3,
+"empty": false,
+"layer2": "bg",
+"exits": [
+{
+"screen": 2,
+"dest": 208,
+"flags": 0,
+"kind": [
+"door"
+]
+}
+],
+"ends": [],
+"roster": [
+51
+],
+"behaviour": [
+230,
+243
+],
+"anchor_sprites": [
+[
+137,
+0,
+7,
+0,
+0
+]
+],
+"n_sprites": 12
+},
+{
+"members": [
+469
+],
+"hdr": "0120008040",
+"spr_hdr": 0,
+"mode": 0,
+"tileset": 0,
+"screens": 2,
+"empty": false,
+"layer2": "bg",
+"exits": [],
+"ends": [
+"goal"
+],
+"roster": [],
+"behaviour": [],
+"anchor_sprites": [],
+"n_sprites": 1
+},
+{
+"members": [
+470
+],
+"hdr": "0120008040",
+"spr_hdr": 0,
+"mode": 0,
+"tileset": 0,
+"screens": 2,
+"empty": false,
+"layer2": "bg",
+"exits": [],
+"ends": [
+"goal"
+],
+"roster": [],
+"behaviour": [],
+"anchor_sprites": [],
+"n_sprites": 1
+},
+{
+"members": [
+471
+],
+"hdr": "a2007b4144",
+"spr_hdr": 0,
+"mode": 0,
+"tileset": 4,
+"screens": 3,
+"empty": false,
+"layer2": "bg",
+"exits": [],
+"ends": [
+"switch"
+],
+"roster": [
+109
+],
+"behaviour": [],
+"anchor_sprites": [],
+"n_sprites": 1
+},
+{
+"members": [
+472
+],
+"hdr": "a2007b4144",
+"spr_hdr": 0,
+"mode": 0,
+"tileset": 4,
+"screens": 3,
+"empty": false,
+"layer2": "bg",
+"exits": [],
+"ends": [
+"switch"
+],
+"roster": [
+109
+],
+"behaviour": [],
+"anchor_sprites": [],
+"n_sprites": 1
+},
+{
+"members": [
+475,
+476
+],
+"hdr": "44e047ac95",
+"spr_hdr": 0,
+"mode": 0,
+"tileset": 5,
+"screens": 5,
+"empty": false,
+"layer2": "bg",
+"exits": [
+{
+"screen": 3,
+"dest": 221,
+"flags": 0,
+"kind": [
+"door"
+]
+}
+],
+"ends": [
+"key",
+"keyhole"
+],
+"roster": [
+55,
+62
+],
+"behaviour": [],
+"anchor_sprites": [],
+"n_sprites": 6
+},
+{
+"members": [
+477
+],
+"hdr": "49e047ac45",
+"spr_hdr": 0,
+"mode": 0,
+"tileset": 5,
+"screens": 10,
+"empty": false,
+"layer2": "bg",
+"exits": [
+{
+"screen": 0,
+"dest": 219,
+"flags": 0,
+"kind": [
+"door"
+]
+},
+{
+"screen": 3,
+"dest": 217,
+"flags": 0,
+"kind": [
+"door"
+]
+},
+{
+"screen": 6,
+"dest": 20,
+"flags": 0,
+"kind": [
+"door"
+]
+},
+{
+"screen": 7,
+"dest": 219,
+"flags": 0,
+"kind": [
+"door"
+]
+},
+{
+"screen": 8,
+"dest": 218,
+"flags": 0,
+"kind": [
+"door"
+]
+},
+{
+"screen": 9,
+"dest": 220,
+"flags": 0,
+"kind": [
+"door"
+]
+}
+],
+"ends": [],
+"roster": [
+55,
+57,
+62,
+118,
+120,
+176
+],
+"behaviour": [],
+"anchor_sprites": [],
+"n_sprites": 14
+},
+{
+"members": [
+479
+],
+"hdr": "c060108243",
+"spr_hdr": 0,
+"mode": 0,
+"tileset": 3,
+"screens": 1,
+"empty": false,
+"layer2": "bg",
+"exits": [],
+"ends": [
+"key",
+"keyhole"
+],
+"roster": [],
+"behaviour": [],
+"anchor_sprites": [],
+"n_sprites": 2
+},
+{
+"members": [
+480
+],
+"hdr": "042020851c",
+"spr_hdr": 0,
+"mode": 0,
+"tileset": 12,
+"screens": 5,
+"empty": false,
+"layer2": "bg",
+"exits": [
+{
+"screen": 4,
+"dest": 224,
+"flags": 2,
+"kind": [
+"pipe_v"
+]
+}
+],
+"ends": [],
+"roster": [],
+"behaviour": [],
+"anchor_sprites": [],
+"n_sprites": 0
+},
+{
+"members": [
+481
+],
+"hdr": "0120008000",
+"spr_hdr": 0,
+"mode": 0,
+"tileset": 0,
+"screens": 2,
+"empty": false,
+"layer2": "bg",
+"exits": [],
+"ends": [
+"goal"
+],
+"roster": [],
+"behaviour": [],
+"anchor_sprites": [],
+"n_sprites": 1
+},
+{
+"members": [
+482
+],
+"hdr": "c86218e103",
+"spr_hdr": 0,
+"mode": 2,
+"tileset": 3,
+"screens": 9,
+"empty": false,
+"layer2": "objects",
+"exits": [],
+"ends": [
+"goal",
+"key",
+"keyhole"
+],
+"roster": [
+191
+],
+"behaviour": [
+245
+],
+"anchor_sprites": [],
+"n_sprites": 7
+},
+{
+"members": [
+483
+],
+"hdr": "c96213e103",
+"spr_hdr": 0,
+"mode": 2,
+"tileset": 3,
+"screens": 10,
+"empty": false,
+"layer2": "objects",
+"exits": [
+{
+"screen": 9,
+"dest": 226,
+"flags": 0,
+"kind": [
+"pipe_h"
+]
+}
+],
+"ends": [],
+"roster": [],
+"behaviour": [
+234
+],
+"anchor_sprites": [],
+"n_sprites": 1
+},
+{
+"members": [
+484
+],
+"hdr": "2000760114",
+"spr_hdr": 0,
+"mode": 0,
+"tileset": 4,
+"screens": 1,
+"empty": false,
+"layer2": "bg",
+"exits": [
+{
+"screen": 0,
+"dest": 228,
+"flags": 2,
+"kind": [
+"pipe_h"
+]
+}
+],
+"ends": [],
+"roster": [],
+"behaviour": [],
+"anchor_sprites": [],
+"n_sprites": 0
+},
+{
+"members": [
+485
+],
+"hdr": "c16018e203",
+"spr_hdr": 0,
+"mode": 0,
+"tileset": 3,
+"screens": 2,
+"empty": false,
+"layer2": "bg",
+"exits": [],
+"ends": [
+"goal"
+],
+"roster": [],
+"behaviour": [],
+"anchor_sprites": [],
+"n_sprites": 1
+},
+{
+"members": [
+486
+],
+"hdr": "c1a1498405",
+"spr_hdr": 0,
+"mode": 1,
+"tileset": 5,
+"screens": 2,
+"empty": false,
+"layer2": "empty",
+"exits": [],
+"ends": [
+"ghost_exit",
+"goal"
+],
+"roster": [],
+"behaviour": [],
+"anchor_sprites": [
+[
+141,
+0,
+0,
+0,
+0
+]
+],
+"n_sprites": 2
+},
+{
+"members": [
+490
+],
+"hdr": "c7ac47ec25",
+"spr_hdr": 13,
+"mode": 12,
+"tileset": 5,
+"screens": 8,
+"empty": false,
+"layer2": "bg",
+"exits": [
+{
+"screen": 6,
+"dest": 251,
+"flags": 0,
+"kind": [
+"door"
+]
+},
+{
+"screen": 7,
+"dest": 249,
+"flags": 0,
+"kind": [
+"door"
+]
+}
+],
+"ends": [],
+"roster": [
+144
+],
+"behaviour": [],
+"anchor_sprites": [],
+"n_sprites": 6
+},
+{
+"members": [
+491
+],
+"hdr": "000b60c000",
+"spr_hdr": 146,
+"mode": 11,
+"tileset": 0,
+"screens": 1,
+"empty": true,
+"layer2": "bg",
+"exits": [],
+"ends": [
+"koopakid"
+],
+"roster": [
+51
+],
+"behaviour": [],
+"anchor_sprites": [
+[
+41,
+0,
+12,
+4,
+0
+]
+],
+"n_sprites": 4,
+"anchor_pipes": []
+},
+{
+"members": [
+492
+],
+"hdr": "6f6213e703",
+"spr_hdr": 128,
+"mode": 2,
+"tileset": 3,
+"screens": 16,
+"empty": false,
+"layer2": "objects",
+"exits": [
+{
+"screen": 15,
+"dest": 238,
+"flags": 0,
+"kind": [
+"pipe_h"
+]
+}
+],
+"ends": [],
+"roster": [
+46,
+145
+],
+"behaviour": [
+245
+],
+"anchor_sprites": [],
+"n_sprites": 19
+},
+{
+"members": [
+493
+],
+"hdr": "c96a13a713",
+"spr_hdr": 0,
+"mode": 10,
+"tileset": 3,
+"screens": 10,
+"empty": false,
+"layer2": "bg",
+"exits": [
+{
+"screen": 9,
+"dest": 236,
+"flags": 0,
+"kind": [
+"pipe_h"
+]
+}
+],
+"ends": [],
+"roster": [
+17
+],
+"behaviour": [],
+"anchor_sprites": [],
+"n_sprites": 16
+},
+{
+"members": [
+494
+],
+"hdr": "c16013e703",
+"spr_hdr": 0,
+"mode": 0,
+"tileset": 3,
+"screens": 2,
+"empty": false,
+"layer2": "bg",
+"exits": [],
+"ends": [
+"goal"
+],
+"roster": [],
+"behaviour": [],
+"anchor_sprites": [],
+"n_sprites": 1
+},
+{
+"members": [
+495
+],
+"hdr": "656213e203",
+"spr_hdr": 128,
+"mode": 2,
+"tileset": 3,
+"screens": 6,
+"empty": false,
+"layer2": "objects",
+"exits": [
+{
+"screen": 5,
+"dest": 239,
+"flags": 2,
+"kind": [
+"pipe_h"
+]
+}
+],
+"ends": [],
+"roster": [
+9,
+17,
+168
+],
+"behaviour": [
+245
+],
+"anchor_sprites": [],
+"n_sprites": 13
+},
+{
+"members": [
+496
+],
+"hdr": "c26013a203",
+"spr_hdr": 0,
+"mode": 0,
+"tileset": 3,
+"screens": 3,
+"empty": false,
+"layer2": "bg",
+"exits": [],
+"ends": [
+"goal"
+],
+"roster": [
+151
+],
+"behaviour": [],
+"anchor_sprites": [],
+"n_sprites": 2
+},
+{
+"members": [
+497
+],
+"hdr": "c26013a203",
+"spr_hdr": 0,
+"mode": 0,
+"tileset": 3,
+"screens": 3,
+"empty": false,
+"layer2": "bg",
+"exits": [],
+"ends": [
+"goal"
+],
+"roster": [
+151
+],
+"behaviour": [],
+"anchor_sprites": [],
+"n_sprites": 2
+},
+{
+"members": [
+498
+],
+"hdr": "6060edcb01",
+"spr_hdr": 14,
+"mode": 0,
+"tileset": 1,
+"screens": 1,
+"empty": false,
+"layer2": "bg",
+"exits": [],
+"ends": [
+"koopakid"
+],
+"roster": [
+182
+],
+"behaviour": [],
+"anchor_sprites": [
+[
+41,
+0,
+12,
+5,
+0
+]
+],
+"n_sprites": 2,
+"anchor_pipes": [
+[
+1,
+19,
+4
+],
+[
+3,
+20,
+3
+],
+[
+5,
+20,
+3
+],
+[
+7,
+19,
+4
+],
+[
+9,
+18,
+5
+],
+[
+11,
+19,
+4
+],
+[
+13,
+20,
+3
+]
+]
+},
+{
+"members": [
+499
+],
+"hdr": "6b62318b41",
+"spr_hdr": 128,
+"mode": 2,
+"tileset": 1,
+"screens": 12,
+"empty": false,
+"layer2": "objects",
+"exits": [
+{
+"screen": 11,
+"dest": 242,
+"flags": 0,
+"kind": [
+"other"
+]
+}
+],
+"ends": [],
+"roster": [
+50,
+51,
+116
+],
+"behaviour": [
+234
+],
+"anchor_sprites": [],
+"n_sprites": 14
+},
+{
+"members": [
+500
+],
+"hdr": "6160318b01",
+"spr_hdr": 0,
+"mode": 0,
+"tileset": 1,
+"screens": 2,
+"empty": false,
+"layer2": "bg",
+"exits": [
+{
+"screen": 1,
+"dest": 243,
+"flags": 0,
+"kind": [
+"door"
+]
+}
+],
+"ends": [],
+"roster": [],
+"behaviour": [],
+"anchor_sprites": [],
+"n_sprites": 0
+},
+{
+"members": [
+501
+],
+"hdr": "c56013a243",
+"spr_hdr": 0,
+"mode": 0,
+"tileset": 3,
+"screens": 6,
+"empty": false,
+"layer2": "bg",
+"exits": [
+{
+"screen": 5,
+"dest": 245,
+"flags": 2,
+"kind": [
+"pipe_h"
+]
+}
+],
+"ends": [],
+"roster": [
+97
+],
+"behaviour": [],
+"anchor_sprites": [],
+"n_sprites": 1
+},
+{
+"members": [
+502
+],
+"hdr": "000b60c000",
+"spr_hdr": 146,
+"mode": 11,
+"tileset": 0,
+"screens": 1,
+"empty": true,
+"layer2": "bg",
+"exits": [],
+"ends": [
+"koopakid"
+],
+"roster": [],
+"behaviour": [],
+"anchor_sprites": [
+[
+41,
+0,
+12,
+3,
+0
+]
+],
+"n_sprites": 1,
+"anchor_pipes": []
+},
+{
+"members": [
+503
+],
+"hdr": "2000732114",
+"spr_hdr": 0,
+"mode": 0,
+"tileset": 4,
+"screens": 1,
+"empty": false,
+"layer2": "bg",
+"exits": [
+{
+"screen": 0,
+"dest": 247,
+"flags": 2,
+"kind": [
+"pipe_h"
+]
+}
+],
+"ends": [],
+"roster": [],
+"behaviour": [],
+"anchor_sprites": [],
+"n_sprites": 0
+},
+{
+"members": [
+504
+],
+"hdr": "c06010a243",
+"spr_hdr": 0,
+"mode": 0,
+"tileset": 3,
+"screens": 1,
+"empty": false,
+"layer2": "bg",
+"exits": [
+{
+"screen": 0,
+"dest": 248,
+"flags": 2,
+"kind": [
+"pipe_h"
+]
+}
+],
+"ends": [
+"key",
+"keyhole"
+],
+"roster": [],
+"behaviour": [],
+"anchor_sprites": [],
+"n_sprites": 2
+},
+{
+"members": [
+506
+],
+"hdr": "c7ac47ac05",
+"spr_hdr": 7,
+"mode": 12,
+"tileset": 5,
+"screens": 8,
+"empty": false,
+"layer2": "bg",
+"exits": [
+{
+"screen": 6,
+"dest": 232,
+"flags": 0,
+"kind": [
+"door"
+]
+},
+{
+"screen": 7,
+"dest": 233,
+"flags": 0,
+"kind": [
+"door"
+]
+}
+],
+"ends": [],
+"roster": [
+62,
+131
+],
+"behaviour": [
+225
+],
+"anchor_sprites": [],
+"n_sprites": 3
+},
+{
+"members": [
+508
+],
+"hdr": "6360318b31",
+"spr_hdr": 15,
+"mode": 0,
+"tileset": 1,
+"screens": 4,
+"empty": false,
+"layer2": "bg",
+"exits": [
+{
+"screen": 3,
+"dest": 246,
+"flags": 0,
+"kind": [
+"other"
+]
+}
+],
+"ends": [],
+"roster": [
+90,
+131
+],
+"behaviour": [
+230,
+243
+],
+"anchor_sprites": [
+[
+137,
+1,
+2,
+0,
+0
+]
+],
+"n_sprites": 5
+},
+{
+"members": [
+509
+],
+"hdr": "c16013a243",
+"spr_hdr": 128,
+"mode": 0,
+"tileset": 3,
+"screens": 2,
+"empty": false,
+"layer2": "bg",
+"exits": [
+{
+"screen": 1,
+"dest": 253,
+"flags": 2,
+"kind": [
+"pipe_h"
+]
+}
+],
+"ends": [],
+"roster": [
+62
+],
+"behaviour": [],
+"anchor_sprites": [],
+"n_sprites": 1
+},
+{
+"members": [
+510
+],
+"hdr": "6960318b01",
+"spr_hdr": 128,
+"mode": 0,
+"tileset": 1,
+"screens": 10,
+"empty": false,
+"layer2": "bg",
+"exits": [
+{
+"screen": 9,
+"dest": 235,
+"flags": 0,
+"kind": [
+"other"
+]
+}
+],
+"ends": [],
+"roster": [
+31,
+50,
+51,
+172,
+173
+],
+"behaviour": [],
+"anchor_sprites": [],
+"n_sprites": 22
+},
+{
+"members": [
+511
+],
+"hdr": "e1c0a29108",
+"spr_hdr": 0,
+"mode": 0,
+"tileset": 8,
+"screens": 2,
+"empty": false,
+"layer2": "bg",
+"exits": [],
+"ends": [
+"goal"
+],
+"roster": [],
+"behaviour": [],
+"anchor_sprites": [
+[
+185,
+0,
+6,
+21,
+0
+]
+],
+"n_sprites": 2
+}
+],
+"special_sprite_lists": {
+"07C3EE": {
+"spr_hdr": 0,
+"roster": [],
+"anchor_sprites": []
+},
+"07D899": {
+"spr_hdr": 0,
+"roster": [
+62,
+123
+],
+"anchor_sprites": []
+},
+"07D8A1": {
+"spr_hdr": 0,
+"roster": [
+47,
+123,
+171
+],
+"anchor_sprites": []
+},
+"07D7E5": {
+"spr_hdr": 0,
+"roster": [
+119
+],
+"anchor_sprites": []
+},
+"07D7EA": {
+"spr_hdr": 0,
+"roster": [
+47,
+79,
+171
+],
+"anchor_sprites": []
+},
+"07D825": {
+"spr_hdr": 0,
+"roster": [
+10,
+11
+],
+"anchor_sprites": []
+},
+"07D84B": {
+"spr_hdr": 142,
+"roster": [
+157
+],
+"anchor_sprites": []
+},
+"07D86E": {
+"spr_hdr": 0,
+"roster": [
+110,
+111,
+199
+],
+"anchor_sprites": []
+},
+"07D888": {
+"spr_hdr": 0,
+"roster": [
+14,
+128,
+152
+],
+"anchor_sprites": []
+}
+},
+"entrance_scenes": [
+{
+"hdr": "c06f490405",
+"screens": 1,
+"tileset": 5,
+"mode": 15,
+"floor": 25,
+"empty": false,
+"buildings": [
+[
+128,
+6,
+11
+]
+],
+"exits": []
+},
+{
+"hdr": "204e390b01",
+"screens": 1,
+"tileset": 1,
+"mode": 14,
+"floor": 25,
+"empty": false,
+"buildings": [
+[
+132,
+7,
+11
+]
+],
+"exits": []
+},
+{
+"hdr": "204e291102",
+"screens": 1,
+"tileset": 2,
+"mode": 14,
+"floor": 25,
+"empty": false,
+"buildings": [],
+"exits": []
+},
+{
+"hdr": "204e291106",
+"screens": 1,
+"tileset": 6,
+"mode": 14,
+"floor": 25,
+"empty": false,
+"buildings": [],
+"exits": []
+},
+{
+"hdr": "204e291108",
+"screens": 1,
+"tileset": 8,
+"mode": 14,
+"floor": 25,
+"empty": false,
+"buildings": [],
+"exits": []
+},
+{
+"hdr": "206e390b01",
+"screens": 1,
+"tileset": 1,
+"mode": 14,
+"floor": 25,
+"empty": false,
+"buildings": [
+[
+132,
+7,
+11
+]
+],
+"exits": []
+}
+],
+"choco2": [
+{
+"hdr": "c3c0008000",
+"screens": 4,
+"tileset": 0,
+"mode": 0,
+"floor": 24,
+"empty": false,
+"buildings": [
+[
+134,
+41,
+22
+]
+],
+"exits": []
+},
+{
+"hdr": "c3c0088000",
+"screens": 4,
+"tileset": 0,
+"mode": 0,
+"floor": 24,
+"empty": false,
+"buildings": [
+[
+134,
+41,
+22
+]
+],
+"exits": []
+},
+{
+"hdr": "c3c0088000",
+"screens": 4,
+"tileset": 0,
+"mode": 0,
+"floor": 24,
+"empty": false,
+"buildings": [
+[
+134,
+41,
+22
+]
+],
+"exits": []
+},
+{
+"hdr": "66c0008460",
+"screens": 7,
+"tileset": 0,
+"mode": 0,
+"floor": 24,
+"empty": false,
+"buildings": [],
+"exits": [
+{
+"screen": 6,
+"dest": 206,
+"flags": 0
+}
+]
+},
+{
+"hdr": "66c0088460",
+"screens": 7,
+"tileset": 0,
+"mode": 0,
+"floor": 24,
+"empty": false,
+"buildings": [],
+"exits": [
+{
+"screen": 6,
+"dest": 206,
+"flags": 0
+}
+]
+},
+{
+"hdr": "66c0008460",
+"screens": 7,
+"tileset": 0,
+"mode": 0,
+"floor": 24,
+"empty": false,
+"buildings": [],
+"exits": [
+{
+"screen": 6,
+"dest": 206,
+"flags": 0
+}
+]
+},
+{
+"hdr": "4340008480",
+"screens": 4,
+"tileset": 0,
+"mode": 0,
+"floor": 21,
+"empty": false,
+"buildings": [],
+"exits": [
+{
+"screen": 3,
+"dest": 205,
+"flags": 0
+}
+]
+},
+{
+"hdr": "43400a8480",
+"screens": 4,
+"tileset": 0,
+"mode": 0,
+"floor": 24,
+"empty": false,
+"buildings": [],
+"exits": [
+{
+"screen": 3,
+"dest": 205,
+"flags": 0
+}
+]
+},
+{
+"hdr": "4340058480",
+"screens": 4,
+"tileset": 0,
+"mode": 0,
+"floor": 24,
+"empty": false,
+"buildings": [],
+"exits": []
+}
+],
+"rollcall": [
+{
+"hdr": "e000000000",
+"screens": 1,
+"tileset": 0,
+"mode": 0,
+"floor": 12,
+"empty": false,
+"buildings": [],
+"exits": []
+},
+{
+"hdr": "0020050100",
+"screens": 1,
+"tileset": 0,
+"mode": 0,
+"floor": 12,
+"empty": false,
+"buildings": [],
+"exits": []
+},
+{
+"hdr": "4040050000",
+"screens": 1,
+"tileset": 0,
+"mode": 0,
+"floor": 7,
+"empty": false,
+"buildings": [],
+"exits": []
+},
+{
+"hdr": "20c0080707",
+"screens": 1,
+"tileset": 7,
+"mode": 0,
+"floor": 13,
+"empty": false,
+"buildings": [],
+"exits": []
+},
+{
+"hdr": "00200a0100",
+"screens": 1,
+"tileset": 0,
+"mode": 0,
+"floor": 12,
+"empty": false,
+"buildings": [],
+"exits": []
+},
+{
+"hdr": "c060032203",
+"screens": 1,
+"tileset": 3,
+"mode": 0,
+"floor": 12,
+"empty": false,
+"buildings": [],
+"exits": []
+},
+{
+"hdr": "8040041a09",
+"screens": 1,
+"tileset": 9,
+"mode": 0,
+"floor": 12,
+"empty": false,
+"buildings": [],
+"exits": []
+},
+{
+"hdr": "6040072c05",
+"screens": 1,
+"tileset": 5,
+"mode": 0,
+"floor": 11,
+"empty": false,
+"buildings": [],
+"exits": []
+},
+{
+"hdr": "c080010b01",
+"screens": 1,
+"tileset": 1,
+"mode": 0,
+"floor": 11,
+"empty": false,
+"buildings": [],
+"exits": []
+},
+{
+"hdr": "60a0010b01",
+"screens": 1,
+"tileset": 1,
+"mode": 0,
+"floor": 10,
+"empty": false,
+"buildings": [],
+"exits": []
+},
+{
+"hdr": "c020011301",
+"screens": 1,
+"tileset": 1,
+"mode": 0,
+"floor": 12,
+"empty": false,
+"buildings": [],
+"exits": []
+},
+{
+"hdr": "a0600c0b01",
+"screens": 1,
+"tileset": 1,
+"mode": 0,
+"floor": 8,
+"empty": false,
+"buildings": [],
+"exits": []
+},
+{
+"hdr": "0160002001",
+"screens": 2,
+"tileset": 1,
+"mode": 0,
+"floor": 24,
+"empty": true,
+"buildings": [],
+"exits": []
+}
+]
+}

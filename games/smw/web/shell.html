@@ -1,0 +1,268 @@
+<!-- Dev hooks: ?dump=5,10 ?keys=t:Code:dur ?audiolog=1 ?hb=1 ?autostart ?touch=1|0 -->
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover">
+<title>Bramble Isles</title>
+<style>
+  :root { --bg: #101318; --fg: #e8e6e1; --dim: #9aa0a8; --accent: #f2c14e; }
+  html, body { margin: 0; height: 100%; background: var(--bg); color: var(--fg);
+    font: 14px/1.45 system-ui, -apple-system, "Segoe UI", sans-serif; overflow: hidden;
+    touch-action: none; -webkit-user-select: none; user-select: none; -webkit-touch-callout: none; }
+  #wrap { position: fixed; inset: 0; display: flex; align-items: center; justify-content: center; }
+  canvas { display: block; background: #000; image-rendering: pixelated; outline: none;
+    width: min(100vw, calc(100vh * 8 / 7)) !important; height: min(100vh, calc(100vw * 7 / 8)) !important; }
+  #start { position: fixed; inset: 0; display: flex; flex-direction: column; gap: 14px; z-index: 20;
+    align-items: center; justify-content: center; background: rgba(10, 12, 16, .94); cursor: pointer;
+    text-align: center; padding: 16px; }
+  #start h1 { margin: 0; font-size: 28px; letter-spacing: .02em; }
+  #start .go { background: var(--accent); color: #1a1400; font-weight: 700; border-radius: 999px;
+    padding: 10px 26px; font-size: 16px; }
+  #start p { margin: 0; color: var(--dim); max-width: 560px; }
+  kbd { border: 1px solid #555; border-bottom-width: 2px; border-radius: 4px; padding: 0 5px;
+    font: 12px ui-monospace, monospace; color: var(--fg); }
+  #status { position: fixed; left: 12px; bottom: 10px; color: var(--dim); font-size: 12px; z-index: 30; }
+
+  /* touch pad */
+  #pad { display: none; position: fixed; inset: 0; z-index: 10; pointer-events: none; }
+  body.touch #pad { display: block; }
+  .pb { position: absolute; pointer-events: auto; display: flex; align-items: center; justify-content: center;
+    color: rgba(255, 255, 255, .85); font-weight: 700; background: rgba(120, 126, 140, .34);
+    border: 2px solid rgba(255, 255, 255, .35); box-sizing: border-box; border-radius: 50%; }
+  .pb.on { background: rgba(242, 193, 78, .6); }
+  #dpad { left: 14px; bottom: 54px; width: 150px; height: 150px; border-radius: 50%; }
+  #dpad::before, #dpad::after { content: ""; position: absolute; background: rgba(255, 255, 255, .4); border-radius: 6px; }
+  #dpad::before { left: 38%; right: 38%; top: 10%; bottom: 10%; }
+  #dpad::after { top: 38%; bottom: 38%; left: 10%; right: 10%; }
+  #face { position: absolute; right: 10px; bottom: 50px; width: 168px; height: 168px; }
+  #face .pb { width: 62px; height: 62px; font-size: 20px; }
+  #bB { left: 53px; bottom: 0; } #bA { right: 0; top: 53px; } #bY { left: 0; top: 53px; } #bX { left: 53px; top: 0; }
+  .pill { border-radius: 14px; height: 30px; width: 76px; font-size: 12px; }
+  #bL { left: 14px; bottom: 214px; } #bR { right: 14px; bottom: 228px; }
+  #bSel { left: calc(50% - 84px); bottom: 10px; } #bSta { left: calc(50% + 8px); bottom: 10px; }
+  @media (orientation: portrait) {
+    body.touch #wrap { align-items: flex-start; }
+    body.touch canvas { width: 100vw !important; height: calc(100vw * 7 / 8) !important; }
+  }
+  @media (orientation: landscape) {
+    body.touch canvas { width: min(100vw - 340px, calc(100vh * 8 / 7)) !important; height: min(100vh, calc((100vw - 340px) * 7 / 8)) !important; }
+    #dpad { bottom: 30px; left: 10px; } #face { bottom: 26px; right: 4px; }
+    #bL { bottom: 190px; } #bR { bottom: 204px; }
+    #bSel { left: 10px; bottom: auto; top: 8px; } #bSta { left: auto; right: 10px; bottom: auto; top: 8px; }
+  }
+</style>
+</head>
+<body>
+<div id="wrap"><canvas id="canvas" tabindex="-1" oncontextmenu="event.preventDefault()"></canvas></div>
+<div id="pad">
+  <div class="pb" id="dpad"></div>
+  <div id="face">
+    <div class="pb" id="bX" data-k="KeyS">X</div><div class="pb" id="bY" data-k="KeyA">Y</div>
+    <div class="pb" id="bA" data-k="KeyX">A</div><div class="pb" id="bB" data-k="KeyZ">B</div>
+  </div>
+  <div class="pb pill" id="bL" data-k="KeyC">L</div><div class="pb pill" id="bR" data-k="KeyV">R</div>
+  <div class="pb pill" id="bSel" data-k="ShiftRight">SELECT</div><div class="pb pill" id="bSta" data-k="Enter">START</div>
+</div>
+<div id="start">
+  <h1>Bramble Isles</h1>
+  <div class="go">Click or tap to play</div>
+  <p>An original platformer built on the snesrev/smw decomp: the code is the community reimplementation; every
+     level, map, picture, tune, sound and line of text is new. No original game files are needed or included.</p>
+  <p><kbd>Arrows</kbd> move &middot; <kbd>Z</kbd> jump (B) &middot; <kbd>X</kbd> spin jump (A) &middot; <kbd>A</kbd>/<kbd>S</kbd> run, grab (Y/X)
+     &middot; <kbd>C</kbd>/<kbd>V</kbd> L/R &middot; <kbd>Enter</kbd> Start &middot; <kbd>Right Shift</kbd> Select.
+     Controllers and touch are supported.</p>
+</div>
+<div id="status"></div>
+<script>
+var Q = new URLSearchParams(location.search);
+var statusEl = document.getElementById('status');
+var Module = {
+  canvas: document.getElementById('canvas'),
+  print: function (t) { console.log(t); },
+  printErr: function (t) { console.log(t); },
+  setStatus: function (t) { statusEl.textContent = t || ''; },
+  onRuntimeInitialized: function () { statusEl.textContent = ''; }
+};
+
+window.addEventListener('unhandledrejection', function (e) { console.log('REJ ' + String(e.reason && e.reason.stack).replace(/\s+/g, ' ').slice(0, 1500)); });
+// ---- keys: one path for the touch pad and the dev hook -------------------------------------------------
+var KC = { ArrowUp: 38, ArrowDown: 40, ArrowLeft: 37, ArrowRight: 39, Enter: 13, ShiftRight: 16, Tab: 9, Space: 32 };
+var KN = { ShiftRight: 'Shift', Space: ' ' };
+function sendKey(code, down) {
+  var m = /^Key([A-Z])$/.exec(code);
+  var kc = m ? m[1].charCodeAt(0) : (KC[code] || 0);
+  var key = m ? m[1].toLowerCase() : (KN[code] || code);
+  var ev = new KeyboardEvent(down ? 'keydown' : 'keyup',
+    { code: code, key: key, keyCode: kc, which: kc, location: code === 'ShiftRight' ? 2 : 0, bubbles: true, cancelable: true });
+  window.dispatchEvent(ev);
+}
+
+// ---- touch pad (SNES layout), shown on touch devices while no controller is connected -------------------
+(function () {
+  var forced = Q.get('touch');
+  var coarse = !!(window.matchMedia && matchMedia('(pointer: coarse)').matches);
+  var want = forced === '1' || (forced !== '0' && coarse);
+  function hasPad() {
+    var l = navigator.getGamepads ? navigator.getGamepads() : [];
+    for (var i = 0; i < l.length; i++) if (l[i] && l[i].connected) return true;
+    return false;
+  }
+  function refresh() { document.body.classList.toggle('touch', want && !hasPad()); }
+  window.addEventListener('gamepadconnected', refresh);
+  window.addEventListener('gamepaddisconnected', refresh);
+  refresh();
+  var held = {};
+  function set(code, on) {
+    if (!!held[code] === on) return;
+    held[code] = on;
+    sendKey(code, on);
+  }
+  document.querySelectorAll('.pb[data-k]').forEach(function (el) {
+    var code = el.dataset.k;
+    function on(e) { e.preventDefault(); el.classList.add('on'); set(code, true); }
+    function off(e) { e.preventDefault(); el.classList.remove('on'); set(code, false); }
+    el.addEventListener('pointerdown', function (e) { el.setPointerCapture(e.pointerId); on(e); });
+    el.addEventListener('pointerup', off);
+    el.addEventListener('pointercancel', off);
+  });
+  var dp = document.getElementById('dpad'), DIRS = ['ArrowUp', 'ArrowDown', 'ArrowLeft', 'ArrowRight'];
+  function dmove(e) {
+    e.preventDefault();
+    var r = dp.getBoundingClientRect();
+    var x = (e.clientX - r.left) / r.width * 2 - 1, y = (e.clientY - r.top) / r.height * 2 - 1;
+    var dead = 0.22, st = [y < -dead, y > dead, x < -dead, x > dead];
+    if (Math.abs(x) > 2.2 * Math.abs(y)) st[0] = st[1] = false;       // 8-way with wide cardinals
+    if (Math.abs(y) > 2.2 * Math.abs(x)) st[2] = st[3] = false;
+    for (var i = 0; i < 4; i++) set(DIRS[i], st[i]);
+  }
+  function dend(e) { e.preventDefault(); for (var i = 0; i < 4; i++) set(DIRS[i], false); }
+  dp.addEventListener('pointerdown', function (e) { dp.setPointerCapture(e.pointerId); dmove(e); });
+  dp.addEventListener('pointermove', function (e) { if (e.buttons || e.pointerType === 'touch') dmove(e); });
+  dp.addEventListener('pointerup', dend);
+  dp.addEventListener('pointercancel', dend);
+})();
+
+// ---- dev hooks (headless tests) --------------------------------------------------------------------------
+// DEV-BEGIN (make_page.py --publish replaces everything up to DEV-END with an empty devHooks)
+function devHooks(t0) {
+  if (Q.has('dump') || Q.has('fdump')) {
+    var gc = HTMLCanvasElement.prototype.getContext;
+    HTMLCanvasElement.prototype.getContext = function (t, o) { o = o || {}; o.preserveDrawingBuffer = true; return gc.call(this, t, o); };
+  }
+  if (Q.has('audiolog')) {
+    var csp = AudioContext.prototype.createScriptProcessor;
+    AudioContext.prototype.createScriptProcessor = function () {
+      var node = csp.apply(this, arguments), acc = 0, n = 0, last = performance.now();
+      var desc = Object.getOwnPropertyDescriptor(ScriptProcessorNode.prototype, 'onaudioprocess');
+      Object.defineProperty(node, 'onaudioprocess', {
+        set: function (fn) {
+          desc.set.call(node, function (ev) {
+            fn(ev);
+            var d = ev.outputBuffer.getChannelData(0);
+            for (var i = 0; i < d.length; i++) { acc += d[i] * d[i]; }
+            n += d.length;
+            var t = performance.now();
+            if (t - last > 250) {
+              console.log('AUDIO ' + Math.round(t - t0) + ' ' + (10 * Math.log10(acc / Math.max(n, 1) + 1e-12)).toFixed(1));
+              acc = 0; n = 0; last = t;
+            }
+          });
+        }
+      });
+      return node;
+    };
+  }
+  if (Q.has('hb')) setInterval(function () { console.log('hb ' + Math.round(performance.now() - t0) + ' f=' + (Module.__fw ? Module.__fw.n : -1)); }, 1000);
+  var dumps = (Q.get('dump') || '').split(',').filter(Boolean).map(Number);
+  dumps.forEach(function (s, k) {
+    setTimeout(function () {
+      var done = false;
+      function dump() {
+        if (done) return; done = true;
+        var url = Module.canvas.toDataURL('image/png');
+        for (var i = 0; i < url.length; i += 4000) console.log('PW64PNG:' + k + ':' + url.slice(i, i + 4000));
+        console.log('PW64PNG:' + k + ':END');
+      }
+      requestAnimationFrame(dump);
+      setTimeout(dump, 300);
+    }, s * 1000);
+  });
+  // deterministic variants counted in game frames: ?fkeys=600:Enter:10,...  ?fdump=900,1500  ?turbo=8
+  if (Q.has('turbo')) Module.__turbo = +Q.get('turbo');
+  var fev = [];
+  (Q.get('fkeys') || '').split(',').filter(Boolean).forEach(function (e) {
+    var p = e.split(':'), f = +p[0], d = +(p[2] || 8);
+    fev.push([f, function () { sendKey(p[1], true); }], [f + d, function () { sendKey(p[1], false); }]);
+  });
+  (Q.get('fdump') || '').split(',').filter(Boolean).map(Number).forEach(function (f, k) {
+    fev.push([f, function () {
+      var url = Module.canvas.toDataURL('image/png');
+      for (var i = 0; i < url.length; i += 4000) console.log('PW64PNG:' + k + ':' + url.slice(i, i + 4000));
+      console.log('PW64PNG:' + k + ':END');
+    }]);
+  });
+  (Q.get('fvram') || '').split(',').filter(Boolean).map(Number).forEach(function (f, k) {   // PPU snapshot for look_vram
+    fev.push([f, function () {
+      var p = Module._web_ppu_dump(), n = 32 + 0x10000 + 0x200 + 0x220, b = '', h = Module.HEAPU8;
+      for (var i = 0; i < n; i++) b += String.fromCharCode(h[p + i]);
+      b = btoa(b);
+      for (var j = 0; j < b.length; j += 4000) console.log('VRAM:' + k + ':' + b.slice(j, j + 4000));
+      console.log('VRAM:' + k + ':END');
+    }]);
+  });
+  // dev: ?fram=frame,...  logs the 128 KB work RAM (RAM:k:base64);  ?fpoke=frame:addrhex:hexbytes,...
+  //      ?ffill=frame:addrhex:len:valhex,...  (e.g. fill the overworld level-number table to enter any level)
+  (Q.get('fram') || '').split(',').filter(Boolean).map(Number).forEach(function (f, k) {
+    fev.push([f, function () {
+      var p = Module._web_ram(), b = '', h = Module.HEAPU8;
+      for (var i = 0; i < 0x20000; i++) b += String.fromCharCode(h[p + i]);
+      b = btoa(b);
+      for (var j = 0; j < b.length; j += 4000) console.log('RAM:' + k + ':' + b.slice(j, j + 4000));
+      console.log('RAM:' + k + ':END');
+    }]);
+  });
+  (Q.get('fpoke') || '').split(',').filter(Boolean).forEach(function (e) {
+    var p = e.split(':');
+    fev.push([+p[0], function () {
+      var a = Module._web_ram() + parseInt(p[1], 16);
+      for (var i = 0; i < p[2].length; i += 2) Module.HEAPU8[a + i / 2] = parseInt(p[2].substr(i, 2), 16);
+    }]);
+  });
+  (Q.get('ffill') || '').split(',').filter(Boolean).forEach(function (e) {
+    var p = e.split(':');
+    fev.push([+p[0], function () {
+      var a = Module._web_ram() + parseInt(p[1], 16);
+      Module.HEAPU8.fill(parseInt(p[3], 16), a, a + (+p[2]));
+    }]);
+  });
+  if (Q.has('bot')) {            // dev: ?bot=devbot.js (a file next to the page that sets Module.devBot(frame))
+    var bs = document.createElement('script');
+    bs.src = Q.get('bot');
+    document.body.appendChild(bs);
+  }
+  if (fev.length || Q.has('bot')) Module.onGameFrame = function (n) {
+    for (var i = 0; i < fev.length; i++) if (fev[i][0] === n) fev[i][1]();
+    if (Module.devBot) Module.devBot(n);
+  };
+  (Q.get('keys') || '').split(',').filter(Boolean).forEach(function (e) {
+    var p = e.split(':'), t = +p[0], code = p[1], d = +(p[2] || 0.15);
+    setTimeout(function () { sendKey(code, true); }, t * 1000);
+    setTimeout(function () { sendKey(code, false); }, (t + d) * 1000);
+  });
+}
+// DEV-END
+
+function start() {
+  document.getElementById('start').remove();
+  var s = document.createElement('script');
+  s.src = 'smw.js';
+  document.body.appendChild(s);
+  devHooks(performance.now());
+  Module.canvas.focus();
+}
+document.getElementById('start').addEventListener('click', start, { once: true });
+if (Q.has('autostart') || Q.has('dump') || Q.has('fdump')) start();
+</script>
+</body>
+</html>

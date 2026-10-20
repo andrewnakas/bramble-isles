@@ -1,0 +1,50 @@
+{
+  "game": "smw (Bramble Isles)",
+  "thresholds": {
+    "geometry": {
+      "voxel": 0.5
+    }
+  },
+  "images": [
+    {
+      "retail": "images/units/*.png",
+      "clean": "images/units/*.png"
+    },
+    {
+      "retail": "images/sheets/*.png",
+      "clean": "images/sheets/*.png"
+    },
+    {
+      "retail": "bg/images/bg/*.png",
+      "clean": "bg/images/bg/*.png"
+    }
+  ],
+  "text": [
+    {
+      "retail": "text/*.json",
+      "clean": "text/*.json"
+    }
+  ],
+  "names": "names.json",
+  "music": [
+    {
+      "retail": "music/*.mid",
+      "clean": "music/*.mid"
+    }
+  ],
+  "geometry": [
+    {
+      "retail": "levels/*.obj",
+      "clean": "levels/*.obj",
+      "anchors": "level_anchors.json"
+    },
+    {
+      "retail": "overworld/*.obj",
+      "clean": "overworld/*.obj",
+      "anchors": "ow_anchors.json",
+      "thresholds": {
+        "voxel": null
+      }
+    }
+  ]
+}

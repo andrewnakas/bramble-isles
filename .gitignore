@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+*.z64
+*.n64
+*.v64
+*.zip
+baserom*
+*.nes
+*.sfc
+*.smc
+*.gb
+*.gbc
+*.gba
+*.sfc
+*.smc
+smw_assets.dat

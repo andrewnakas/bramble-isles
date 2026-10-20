@@ -1,0 +1,8898 @@
+{
+"standard": {
+"01": {
+"grassland": {
+"routine": "StdObj05_Coins",
+"blocks": [
+"002",
+"003",
+"013",
+"01E",
+"021",
+"023",
+"024",
+"02A",
+"02B",
+"02E",
+"02F",
+"030",
+"032",
+"03F",
+"065",
+"102",
+"103",
+"113",
+"11E",
+"121",
+"123",
+"124",
+"12A",
+"12B",
+"12E",
+"12F",
+"130",
+"132",
+"13F",
+"165"
+],
+"partial": true
+},
+"castle": {
+"routine": "StdObj05_Coins",
+"blocks": [
+"002",
+"003",
+"013",
+"01E",
+"021",
+"023",
+"024",
+"02A",
+"02B",
+"02E",
+"02F",
+"030",
+"032",
+"03F",
+"065",
+"102",
+"103",
+"113",
+"11E",
+"121",
+"123",
+"124",
+"12A",
+"12B",
+"12E",
+"12F",
+"130",
+"132",
+"13F",
+"165"
+],
+"partial": true
+},
+"rope": {
+"routine": "StdObj05_Coins",
+"blocks": [
+"002",
+"003",
+"013",
+"01E",
+"021",
+"023",
+"024",
+"02A",
+"02B",
+"02E",
+"02F",
+"030",
+"032",
+"03F",
+"065",
+"102",
+"103",
+"113",
+"11E",
+"121",
+"123",
+"124",
+"12A",
+"12B",
+"12E",
+"12F",
+"130",
+"132",
+"13F",
+"165"
+],
+"partial": true
+},
+"underground": {
+"routine": "StdObj05_Coins",
+"blocks": [
+"002",
+"003",
+"013",
+"01E",
+"021",
+"023",
+"024",
+"02A",
+"02B",
+"02E",
+"02F",
+"030",
+"032",
+"03F",
+"065",
+"102",
+"103",
+"113",
+"11E",
+"121",
+"123",
+"124",
+"12A",
+"12B",
+"12E",
+"12F",
+"130",
+"132",
+"13F",
+"165"
+],
+"partial": true
+},
+"ghosthouse": {
+"routine": "StdObj05_Coins",
+"blocks": [
+"002",
+"003",
+"013",
+"01E",
+"021",
+"023",
+"024",
+"02A",
+"02B",
+"02E",
+"02F",
+"030",
+"032",
+"03F",
+"065",
+"102",
+"103",
+"113",
+"11E",
+"121",
+"123",
+"124",
+"12A",
+"12B",
+"12E",
+"12F",
+"130",
+"132",
+"13F",
+"165"
+],
+"partial": true
+}
+},
+"02": {
+"grassland": {
+"routine": "StdObj05_Coins",
+"blocks": [
+"002",
+"003",
+"013",
+"01E",
+"021",
+"023",
+"024",
+"02A",
+"02B",
+"02E",
+"02F",
+"030",
+"032",
+"03F",
+"065",
+"102",
+"103",
+"113",
+"11E",
+"121",
+"123",
+"124",
+"12A",
+"12B",
+"12E",
+"12F",
+"130",
+"132",
+"13F",
+"165"
+],
+"partial": true
+},
+"castle": {
+"routine": "StdObj05_Coins",
+"blocks": [
+"002",
+"003",
+"013",
+"01E",
+"021",
+"023",
+"024",
+"02A",
+"02B",
+"02E",
+"02F",
+"030",
+"032",
+"03F",
+"065",
+"102",
+"103",
+"113",
+"11E",
+"121",
+"123",
+"124",
+"12A",
+"12B",
+"12E",
+"12F",
+"130",
+"132",
+"13F",
+"165"
+],
+"partial": true
+},
+"rope": {
+"routine": "StdObj05_Coins",
+"blocks": [
+"002",
+"003",
+"013",
+"01E",
+"021",
+"023",
+"024",
+"02A",
+"02B",
+"02E",
+"02F",
+"030",
+"032",
+"03F",
+"065",
+"102",
+"103",
+"113",
+"11E",
+"121",
+"123",
+"124",
+"12A",
+"12B",
+"12E",
+"12F",
+"130",
+"132",
+"13F",
+"165"
+],
+"partial": true
+},
+"underground": {
+"routine": "StdObj05_Coins",
+"blocks": [
+"002",
+"003",
+"013",
+"01E",
+"021",
+"023",
+"024",
+"02A",
+"02B",
+"02E",
+"02F",
+"030",
+"032",
+"03F",
+"065",
+"102",
+"103",
+"113",
+"11E",
+"121",
+"123",
+"124",
+"12A",
+"12B",
+"12E",
+"12F",
+"130",
+"132",
+"13F",
+"165"
+],
+"partial": true
+},
+"ghosthouse": {
+"routine": "StdObj05_Coins",
+"blocks": [
+"002",
+"003",
+"013",
+"01E",
+"021",
+"023",
+"024",
+"02A",
+"02B",
+"02E",
+"02F",
+"030",
+"032",
+"03F",
+"065",
+"102",
+"103",
+"113",
+"11E",
+"121",
+"123",
+"124",
+"12A",
+"12B",
+"12E",
+"12F",
+"130",
+"132",
+"13F",
+"165"
+],
+"partial": true
+}
+},
+"03": {
+"grassland": {
+"routine": "StdObj05_Coins",
+"blocks": [
+"002",
+"003",
+"013",
+"01E",
+"021",
+"023",
+"024",
+"02A",
+"02B",
+"02E",
+"02F",
+"030",
+"032",
+"03F",
+"065",
+"102",
+"103",
+"113",
+"11E",
+"121",
+"123",
+"124",
+"12A",
+"12B",
+"12E",
+"12F",
+"130",
+"132",
+"13F",
+"165"
+],
+"partial": true
+},
+"castle": {
+"routine": "StdObj05_Coins",
+"blocks": [
+"002",
+"003",
+"013",
+"01E",
+"021",
+"023",
+"024",
+"02A",
+"02B",
+"02E",
+"02F",
+"030",
+"032",
+"03F",
+"065",
+"102",
+"103",
+"113",
+"11E",
+"121",
+"123",
+"124",
+"12A",
+"12B",
+"12E",
+"12F",
+"130",
+"132",
+"13F",
+"165"
+],
+"partial": true
+},
+"rope": {
+"routine": "StdObj05_Coins",
+"blocks": [
+"002",
+"003",
+"013",
+"01E",
+"021",
+"023",
+"024",
+"02A",
+"02B",
+"02E",
+"02F",
+"030",
+"032",
+"03F",
+"065",
+"102",
+"103",
+"113",
+"11E",
+"121",
+"123",
+"124",
+"12A",
+"12B",
+"12E",
+"12F",
+"130",
+"132",
+"13F",
+"165"
+],
+"partial": true
+},
+"underground": {
+"routine": "StdObj05_Coins",
+"blocks": [
+"002",
+"003",
+"013",
+"01E",
+"021",
+"023",
+"024",
+"02A",
+"02B",
+"02E",
+"02F",
+"030",
+"032",
+"03F",
+"065",
+"102",
+"103",
+"113",
+"11E",
+"121",
+"123",
+"124",
+"12A",
+"12B",
+"12E",
+"12F",
+"130",
+"132",
+"13F",
+"165"
+],
+"partial": true
+},
+"ghosthouse": {
+"routine": "StdObj05_Coins",
+"blocks": [
+"002",
+"003",
+"013",
+"01E",
+"021",
+"023",
+"024",
+"02A",
+"02B",
+"02E",
+"02F",
+"030",
+"032",
+"03F",
+"065",
+"102",
+"103",
+"113",
+"11E",
+"121",
+"123",
+"124",
+"12A",
+"12B",
+"12E",
+"12F",
+"130",
+"132",
+"13F",
+"165"
+],
+"partial": true
+}
+},
+"04": {
+"grassland": {
+"routine": "StdObj05_Coins",
+"blocks": [
+"002",
+"003",
+"013",
+"01E",
+"021",
+"023",
+"024",
+"02A",
+"02B",
+"02E",
+"02F",
+"030",
+"032",
+"03F",
+"065",
+"102",
+"103",
+"113",
+"11E",
+"121",
+"123",
+"124",
+"12A",
+"12B",
+"12E",
+"12F",
+"130",
+"132",
+"13F",
+"165"
+],
+"partial": true
+},
+"castle": {
+"routine": "StdObj05_Coins",
+"blocks": [
+"002",
+"003",
+"013",
+"01E",
+"021",
+"023",
+"024",
+"02A",
+"02B",
+"02E",
+"02F",
+"030",
+"032",
+"03F",
+"065",
+"102",
+"103",
+"113",
+"11E",
+"121",
+"123",
+"124",
+"12A",
+"12B",
+"12E",
+"12F",
+"130",
+"132",
+"13F",
+"165"
+],
+"partial": true
+},
+"rope": {
+"routine": "StdObj05_Coins",
+"blocks": [
+"002",
+"003",
+"013",
+"01E",
+"021",
+"023",
+"024",
+"02A",
+"02B",
+"02E",
+"02F",
+"030",
+"032",
+"03F",
+"065",
+"102",
+"103",
+"113",
+"11E",
+"121",
+"123",
+"124",
+"12A",
+"12B",
+"12E",
+"12F",
+"130",
+"132",
+"13F",
+"165"
+],
+"partial": true
+},
+"underground": {
+"routine": "StdObj05_Coins",
+"blocks": [
+"002",
+"003",
+"013",
+"01E",
+"021",
+"023",
+"024",
+"02A",
+"02B",
+"02E",
+"02F",
+"030",
+"032",
+"03F",
+"065",
+"102",
+"103",
+"113",
+"11E",
+"121",
+"123",
+"124",
+"12A",
+"12B",
+"12E",
+"12F",
+"130",
+"132",
+"13F",
+"165"
+],
+"partial": true
+},
+"ghosthouse": {
+"routine": "StdObj05_Coins",
+"blocks": [
+"002",
+"003",
+"013",
+"01E",
+"021",
+"023",
+"024",
+"02A",
+"02B",
+"02E",
+"02F",
+"030",
+"032",
+"03F",
+"065",
+"102",
+"103",
+"113",
+"11E",
+"121",
+"123",
+"124",
+"12A",
+"12B",
+"12E",
+"12F",
+"130",
+"132",
+"13F",
+"165"
+],
+"partial": true
+}
+},
+"05": {
+"grassland": {
+"routine": "StdObj05_Coins",
+"blocks": [
+"002",
+"003",
+"013",
+"01E",
+"021",
+"023",
+"024",
+"02A",
+"02B",
+"02E",
+"02F",
+"030",
+"032",
+"03F",
+"065",
+"102",
+"103",
+"113",
+"11E",
+"121",
+"123",
+"124",
+"12A",
+"12B",
+"12E",
+"12F",
+"130",
+"132",
+"13F",
+"165"
+],
+"partial": true
+},
+"castle": {
+"routine": "StdObj05_Coins",
+"blocks": [
+"002",
+"003",
+"013",
+"01E",
+"021",
+"023",
+"024",
+"02A",
+"02B",
+"02E",
+"02F",
+"030",
+"032",
+"03F",
+"065",
+"102",
+"103",
+"113",
+"11E",
+"121",
+"123",
+"124",
+"12A",
+"12B",
+"12E",
+"12F",
+"130",
+"132",
+"13F",
+"165"
+],
+"partial": true
+},
+"rope": {
+"routine": "StdObj05_Coins",
+"blocks": [
+"002",
+"003",
+"013",
+"01E",
+"021",
+"023",
+"024",
+"02A",
+"02B",
+"02E",
+"02F",
+"030",
+"032",
+"03F",
+"065",
+"102",
+"103",
+"113",
+"11E",
+"121",
+"123",
+"124",
+"12A",
+"12B",
+"12E",
+"12F",
+"130",
+"132",
+"13F",
+"165"
+],
+"partial": true
+},
+"underground": {
+"routine": "StdObj05_Coins",
+"blocks": [
+"002",
+"003",
+"013",
+"01E",
+"021",
+"023",
+"024",
+"02A",
+"02B",
+"02E",
+"02F",
+"030",
+"032",
+"03F",
+"065",
+"102",
+"103",
+"113",
+"11E",
+"121",
+"123",
+"124",
+"12A",
+"12B",
+"12E",
+"12F",
+"130",
+"132",
+"13F",
+"165"
+],
+"partial": true
+},
+"ghosthouse": {
+"routine": "StdObj05_Coins",
+"blocks": [
+"002",
+"003",
+"013",
+"01E",
+"021",
+"023",
+"024",
+"02A",
+"02B",
+"02E",
+"02F",
+"030",
+"032",
+"03F",
+"065",
+"102",
+"103",
+"113",
+"11E",
+"121",
+"123",
+"124",
+"12A",
+"12B",
+"12E",
+"12F",
+"130",
+"132",
+"13F",
+"165"
+],
+"partial": true
+}
+},
+"06": {
+"grassland": {
+"routine": "StdObj05_Coins",
+"blocks": [
+"002",
+"003",
+"013",
+"01E",
+"021",
+"023",
+"024",
+"02A",
+"02B",
+"02E",
+"02F",
+"030",
+"032",
+"03F",
+"065",
+"102",
+"103",
+"113",
+"11E",
+"121",
+"123",
+"124",
+"12A",
+"12B",
+"12E",
+"12F",
+"130",
+"132",
+"13F",
+"165"
+],
+"partial": true
+},
+"castle": {
+"routine": "StdObj05_Coins",
+"blocks": [
+"002",
+"003",
+"013",
+"01E",
+"021",
+"023",
+"024",
+"02A",
+"02B",
+"02E",
+"02F",
+"030",
+"032",
+"03F",
+"065",
+"102",
+"103",
+"113",
+"11E",
+"121",
+"123",
+"124",
+"12A",
+"12B",
+"12E",
+"12F",
+"130",
+"132",
+"13F",
+"165"
+],
+"partial": true
+},
+"rope": {
+"routine": "StdObj05_Coins",
+"blocks": [
+"002",
+"003",
+"013",
+"01E",
+"021",
+"023",
+"024",
+"02A",
+"02B",
+"02E",
+"02F",
+"030",
+"032",
+"03F",
+"065",
+"102",
+"103",
+"113",
+"11E",
+"121",
+"123",
+"124",
+"12A",
+"12B",
+"12E",
+"12F",
+"130",
+"132",
+"13F",
+"165"
+],
+"partial": true
+},
+"underground": {
+"routine": "StdObj05_Coins",
+"blocks": [
+"002",
+"003",
+"013",
+"01E",
+"021",
+"023",
+"024",
+"02A",
+"02B",
+"02E",
+"02F",
+"030",
+"032",
+"03F",
+"065",
+"102",
+"103",
+"113",
+"11E",
+"121",
+"123",
+"124",
+"12A",
+"12B",
+"12E",
+"12F",
+"130",
+"132",
+"13F",
+"165"
+],
+"partial": true
+},
+"ghosthouse": {
+"routine": "StdObj05_Coins",
+"blocks": [
+"002",
+"003",
+"013",
+"01E",
+"021",
+"023",
+"024",
+"02A",
+"02B",
+"02E",
+"02F",
+"030",
+"032",
+"03F",
+"065",
+"102",
+"103",
+"113",
+"11E",
+"121",
+"123",
+"124",
+"12A",
+"12B",
+"12E",
+"12F",
+"130",
+"132",
+"13F",
+"165"
+],
+"partial": true
+}
+},
+"07": {
+"grassland": {
+"routine": "StdObj05_Coins",
+"blocks": [
+"002",
+"003",
+"013",
+"01E",
+"021",
+"023",
+"024",
+"02A",
+"02B",
+"02E",
+"02F",
+"030",
+"032",
+"03F",
+"065",
+"102",
+"103",
+"113",
+"11E",
+"121",
+"123",
+"124",
+"12A",
+"12B",
+"12E",
+"12F",
+"130",
+"132",
+"13F",
+"165"
+],
+"partial": true
+},
+"castle": {
+"routine": "StdObj05_Coins",
+"blocks": [
+"002",
+"003",
+"013",
+"01E",
+"021",
+"023",
+"024",
+"02A",
+"02B",
+"02E",
+"02F",
+"030",
+"032",
+"03F",
+"065",
+"102",
+"103",
+"113",
+"11E",
+"121",
+"123",
+"124",
+"12A",
+"12B",
+"12E",
+"12F",
+"130",
+"132",
+"13F",
+"165"
+],
+"partial": true
+},
+"rope": {
+"routine": "StdObj05_Coins",
+"blocks": [
+"002",
+"003",
+"013",
+"01E",
+"021",
+"023",
+"024",
+"02A",
+"02B",
+"02E",
+"02F",
+"030",
+"032",
+"03F",
+"065",
+"102",
+"103",
+"113",
+"11E",
+"121",
+"123",
+"124",
+"12A",
+"12B",
+"12E",
+"12F",
+"130",
+"132",
+"13F",
+"165"
+],
+"partial": true
+},
+"underground": {
+"routine": "StdObj05_Coins",
+"blocks": [
+"002",
+"003",
+"013",
+"01E",
+"021",
+"023",
+"024",
+"02A",
+"02B",
+"02E",
+"02F",
+"030",
+"032",
+"03F",
+"065",
+"102",
+"103",
+"113",
+"11E",
+"121",
+"123",
+"124",
+"12A",
+"12B",
+"12E",
+"12F",
+"130",
+"132",
+"13F",
+"165"
+],
+"partial": true
+},
+"ghosthouse": {
+"routine": "StdObj05_Coins",
+"blocks": [
+"002",
+"003",
+"013",
+"01E",
+"021",
+"023",
+"024",
+"02A",
+"02B",
+"02E",
+"02F",
+"030",
+"032",
+"03F",
+"065",
+"102",
+"103",
+"113",
+"11E",
+"121",
+"123",
+"124",
+"12A",
+"12B",
+"12E",
+"12F",
+"130",
+"132",
+"13F",
+"165"
+],
+"partial": true
+}
+},
+"08": {
+"grassland": {
+"routine": "StdObj05_Coins",
+"blocks": [
+"002",
+"003",
+"013",
+"01E",
+"021",
+"023",
+"024",
+"02A",
+"02B",
+"02E",
+"02F",
+"030",
+"032",
+"03F",
+"065",
+"102",
+"103",
+"113",
+"11E",
+"121",
+"123",
+"124",
+"12A",
+"12B",
+"12E",
+"12F",
+"130",
+"132",
+"13F",
+"165"
+],
+"partial": true
+},
+"castle": {
+"routine": "StdObj05_Coins",
+"blocks": [
+"002",
+"003",
+"013",
+"01E",
+"021",
+"023",
+"024",
+"02A",
+"02B",
+"02E",
+"02F",
+"030",
+"032",
+"03F",
+"065",
+"102",
+"103",
+"113",
+"11E",
+"121",
+"123",
+"124",
+"12A",
+"12B",
+"12E",
+"12F",
+"130",
+"132",
+"13F",
+"165"
+],
+"partial": true
+},
+"rope": {
+"routine": "StdObj05_Coins",
+"blocks": [
+"002",
+"003",
+"013",
+"01E",
+"021",
+"023",
+"024",
+"02A",
+"02B",
+"02E",
+"02F",
+"030",
+"032",
+"03F",
+"065",
+"102",
+"103",
+"113",
+"11E",
+"121",
+"123",
+"124",
+"12A",
+"12B",
+"12E",
+"12F",
+"130",
+"132",
+"13F",
+"165"
+],
+"partial": true
+},
+"underground": {
+"routine": "StdObj05_Coins",
+"blocks": [
+"002",
+"003",
+"013",
+"01E",
+"021",
+"023",
+"024",
+"02A",
+"02B",
+"02E",
+"02F",
+"030",
+"032",
+"03F",
+"065",
+"102",
+"103",
+"113",
+"11E",
+"121",
+"123",
+"124",
+"12A",
+"12B",
+"12E",
+"12F",
+"130",
+"132",
+"13F",
+"165"
+],
+"partial": true
+},
+"ghosthouse": {
+"routine": "StdObj05_Coins",
+"blocks": [
+"002",
+"003",
+"013",
+"01E",
+"021",
+"023",
+"024",
+"02A",
+"02B",
+"02E",
+"02F",
+"030",
+"032",
+"03F",
+"065",
+"102",
+"103",
+"113",
+"11E",
+"121",
+"123",
+"124",
+"12A",
+"12B",
+"12E",
+"12F",
+"130",
+"132",
+"13F",
+"165"
+],
+"partial": true
+}
+},
+"09": {
+"grassland": {
+"routine": "StdObj05_Coins",
+"blocks": [
+"002",
+"003",
+"013",
+"01E",
+"021",
+"023",
+"024",
+"02A",
+"02B",
+"02E",
+"02F",
+"030",
+"032",
+"03F",
+"065",
+"102",
+"103",
+"113",
+"11E",
+"121",
+"123",
+"124",
+"12A",
+"12B",
+"12E",
+"12F",
+"130",
+"132",
+"13F",
+"165"
+],
+"partial": true
+},
+"castle": {
+"routine": "StdObj05_Coins",
+"blocks": [
+"002",
+"003",
+"013",
+"01E",
+"021",
+"023",
+"024",
+"02A",
+"02B",
+"02E",
+"02F",
+"030",
+"032",
+"03F",
+"065",
+"102",
+"103",
+"113",
+"11E",
+"121",
+"123",
+"124",
+"12A",
+"12B",
+"12E",
+"12F",
+"130",
+"132",
+"13F",
+"165"
+],
+"partial": true
+},
+"rope": {
+"routine": "StdObj05_Coins",
+"blocks": [
+"002",
+"003",
+"013",
+"01E",
+"021",
+"023",
+"024",
+"02A",
+"02B",
+"02E",
+"02F",
+"030",
+"032",
+"03F",
+"065",
+"102",
+"103",
+"113",
+"11E",
+"121",
+"123",
+"124",
+"12A",
+"12B",
+"12E",
+"12F",
+"130",
+"132",
+"13F",
+"165"
+],
+"partial": true
+},
+"underground": {
+"routine": "StdObj05_Coins",
+"blocks": [
+"002",
+"003",
+"013",
+"01E",
+"021",
+"023",
+"024",
+"02A",
+"02B",
+"02E",
+"02F",
+"030",
+"032",
+"03F",
+"065",
+"102",
+"103",
+"113",
+"11E",
+"121",
+"123",
+"124",
+"12A",
+"12B",
+"12E",
+"12F",
+"130",
+"132",
+"13F",
+"165"
+],
+"partial": true
+},
+"ghosthouse": {
+"routine": "StdObj05_Coins",
+"blocks": [
+"002",
+"003",
+"013",
+"01E",
+"021",
+"023",
+"024",
+"02A",
+"02B",
+"02E",
+"02F",
+"030",
+"032",
+"03F",
+"065",
+"102",
+"103",
+"113",
+"11E",
+"121",
+"123",
+"124",
+"12A",
+"12B",
+"12E",
+"12F",
+"130",
+"132",
+"13F",
+"165"
+],
+"partial": true
+}
+},
+"0A": {
+"grassland": {
+"routine": "StdObj05_Coins",
+"blocks": [
+"002",
+"003",
+"013",
+"01E",
+"021",
+"023",
+"024",
+"02A",
+"02B",
+"02E",
+"02F",
+"030",
+"032",
+"03F",
+"065",
+"102",
+"103",
+"113",
+"11E",
+"121",
+"123",
+"124",
+"12A",
+"12B",
+"12E",
+"12F",
+"130",
+"132",
+"13F",
+"165"
+],
+"partial": true
+},
+"castle": {
+"routine": "StdObj05_Coins",
+"blocks": [
+"002",
+"003",
+"013",
+"01E",
+"021",
+"023",
+"024",
+"02A",
+"02B",
+"02E",
+"02F",
+"030",
+"032",
+"03F",
+"065",
+"102",
+"103",
+"113",
+"11E",
+"121",
+"123",
+"124",
+"12A",
+"12B",
+"12E",
+"12F",
+"130",
+"132",
+"13F",
+"165"
+],
+"partial": true
+},
+"rope": {
+"routine": "StdObj05_Coins",
+"blocks": [
+"002",
+"003",
+"013",
+"01E",
+"021",
+"023",
+"024",
+"02A",
+"02B",
+"02E",
+"02F",
+"030",
+"032",
+"03F",
+"065",
+"102",
+"103",
+"113",
+"11E",
+"121",
+"123",
+"124",
+"12A",
+"12B",
+"12E",
+"12F",
+"130",
+"132",
+"13F",
+"165"
+],
+"partial": true
+},
+"underground": {
+"routine": "StdObj05_Coins",
+"blocks": [
+"002",
+"003",
+"013",
+"01E",
+"021",
+"023",
+"024",
+"02A",
+"02B",
+"02E",
+"02F",
+"030",
+"032",
+"03F",
+"065",
+"102",
+"103",
+"113",
+"11E",
+"121",
+"123",
+"124",
+"12A",
+"12B",
+"12E",
+"12F",
+"130",
+"132",
+"13F",
+"165"
+],
+"partial": true
+},
+"ghosthouse": {
+"routine": "StdObj05_Coins",
+"blocks": [
+"002",
+"003",
+"013",
+"01E",
+"021",
+"023",
+"024",
+"02A",
+"02B",
+"02E",
+"02F",
+"030",
+"032",
+"03F",
+"065",
+"102",
+"103",
+"113",
+"11E",
+"121",
+"123",
+"124",
+"12A",
+"12B",
+"12E",
+"12F",
+"130",
+"132",
+"13F",
+"165"
+],
+"partial": true
+}
+},
+"0B": {
+"grassland": {
+"routine": "StdObj05_Coins",
+"blocks": [
+"002",
+"003",
+"013",
+"01E",
+"021",
+"023",
+"024",
+"02A",
+"02B",
+"02E",
+"02F",
+"030",
+"032",
+"03F",
+"065",
+"102",
+"103",
+"113",
+"11E",
+"121",
+"123",
+"124",
+"12A",
+"12B",
+"12E",
+"12F",
+"130",
+"132",
+"13F",
+"165"
+],
+"partial": true
+},
+"castle": {
+"routine": "StdObj05_Coins",
+"blocks": [
+"002",
+"003",
+"013",
+"01E",
+"021",
+"023",
+"024",
+"02A",
+"02B",
+"02E",
+"02F",
+"030",
+"032",
+"03F",
+"065",
+"102",
+"103",
+"113",
+"11E",
+"121",
+"123",
+"124",
+"12A",
+"12B",
+"12E",
+"12F",
+"130",
+"132",
+"13F",
+"165"
+],
+"partial": true
+},
+"rope": {
+"routine": "StdObj05_Coins",
+"blocks": [
+"002",
+"003",
+"013",
+"01E",
+"021",
+"023",
+"024",
+"02A",
+"02B",
+"02E",
+"02F",
+"030",
+"032",
+"03F",
+"065",
+"102",
+"103",
+"113",
+"11E",
+"121",
+"123",
+"124",
+"12A",
+"12B",
+"12E",
+"12F",
+"130",
+"132",
+"13F",
+"165"
+],
+"partial": true
+},
+"underground": {
+"routine": "StdObj05_Coins",
+"blocks": [
+"002",
+"003",
+"013",
+"01E",
+"021",
+"023",
+"024",
+"02A",
+"02B",
+"02E",
+"02F",
+"030",
+"032",
+"03F",
+"065",
+"102",
+"103",
+"113",
+"11E",
+"121",
+"123",
+"124",
+"12A",
+"12B",
+"12E",
+"12F",
+"130",
+"132",
+"13F",
+"165"
+],
+"partial": true
+},
+"ghosthouse": {
+"routine": "StdObj05_Coins",
+"blocks": [
+"002",
+"003",
+"013",
+"01E",
+"021",
+"023",
+"024",
+"02A",
+"02B",
+"02E",
+"02F",
+"030",
+"032",
+"03F",
+"065",
+"102",
+"103",
+"113",
+"11E",
+"121",
+"123",
+"124",
+"12A",
+"12B",
+"12E",
+"12F",
+"130",
+"132",
+"13F",
+"165"
+],
+"partial": true
+}
+},
+"0C": {
+"grassland": {
+"routine": "StdObj05_Coins",
+"blocks": [
+"002",
+"003",
+"013",
+"01E",
+"021",
+"023",
+"024",
+"02A",
+"02B",
+"02E",
+"02F",
+"030",
+"032",
+"03F",
+"065",
+"102",
+"103",
+"113",
+"11E",
+"121",
+"123",
+"124",
+"12A",
+"12B",
+"12E",
+"12F",
+"130",
+"132",
+"13F",
+"165"
+],
+"partial": true
+},
+"castle": {
+"routine": "StdObj05_Coins",
+"blocks": [
+"002",
+"003",
+"013",
+"01E",
+"021",
+"023",
+"024",
+"02A",
+"02B",
+"02E",
+"02F",
+"030",
+"032",
+"03F",
+"065",
+"102",
+"103",
+"113",
+"11E",
+"121",
+"123",
+"124",
+"12A",
+"12B",
+"12E",
+"12F",
+"130",
+"132",
+"13F",
+"165"
+],
+"partial": true
+},
+"rope": {
+"routine": "StdObj05_Coins",
+"blocks": [
+"002",
+"003",
+"013",
+"01E",
+"021",
+"023",
+"024",
+"02A",
+"02B",
+"02E",
+"02F",
+"030",
+"032",
+"03F",
+"065",
+"102",
+"103",
+"113",
+"11E",
+"121",
+"123",
+"124",
+"12A",
+"12B",
+"12E",
+"12F",
+"130",
+"132",
+"13F",
+"165"
+],
+"partial": true
+},
+"underground": {
+"routine": "StdObj05_Coins",
+"blocks": [
+"002",
+"003",
+"013",
+"01E",
+"021",
+"023",
+"024",
+"02A",
+"02B",
+"02E",
+"02F",
+"030",
+"032",
+"03F",
+"065",
+"102",
+"103",
+"113",
+"11E",
+"121",
+"123",
+"124",
+"12A",
+"12B",
+"12E",
+"12F",
+"130",
+"132",
+"13F",
+"165"
+],
+"partial": true
+},
+"ghosthouse": {
+"routine": "StdObj05_Coins",
+"blocks": [
+"002",
+"003",
+"013",
+"01E",
+"021",
+"023",
+"024",
+"02A",
+"02B",
+"02E",
+"02F",
+"030",
+"032",
+"03F",
+"065",
+"102",
+"103",
+"113",
+"11E",
+"121",
+"123",
+"124",
+"12A",
+"12B",
+"12E",
+"12F",
+"130",
+"132",
+"13F",
+"165"
+],
+"partial": true
+}
+},
+"0D": {
+"grassland": {
+"routine": "StdObj05_Coins",
+"blocks": [
+"002",
+"003",
+"013",
+"01E",
+"021",
+"023",
+"024",
+"02A",
+"02B",
+"02E",
+"02F",
+"030",
+"032",
+"03F",
+"065",
+"102",
+"103",
+"113",
+"11E",
+"121",
+"123",
+"124",
+"12A",
+"12B",
+"12E",
+"12F",
+"130",
+"132",
+"13F",
+"165"
+],
+"partial": true
+},
+"castle": {
+"routine": "StdObj05_Coins",
+"blocks": [
+"002",
+"003",
+"013",
+"01E",
+"021",
+"023",
+"024",
+"02A",
+"02B",
+"02E",
+"02F",
+"030",
+"032",
+"03F",
+"065",
+"102",
+"103",
+"113",
+"11E",
+"121",
+"123",
+"124",
+"12A",
+"12B",
+"12E",
+"12F",
+"130",
+"132",
+"13F",
+"165"
+],
+"partial": true
+},
+"rope": {
+"routine": "StdObj05_Coins",
+"blocks": [
+"002",
+"003",
+"013",
+"01E",
+"021",
+"023",
+"024",
+"02A",
+"02B",
+"02E",
+"02F",
+"030",
+"032",
+"03F",
+"065",
+"102",
+"103",
+"113",
+"11E",
+"121",
+"123",
+"124",
+"12A",
+"12B",
+"12E",
+"12F",
+"130",
+"132",
+"13F",
+"165"
+],
+"partial": true
+},
+"underground": {
+"routine": "StdObj05_Coins",
+"blocks": [
+"002",
+"003",
+"013",
+"01E",
+"021",
+"023",
+"024",
+"02A",
+"02B",
+"02E",
+"02F",
+"030",
+"032",
+"03F",
+"065",
+"102",
+"103",
+"113",
+"11E",
+"121",
+"123",
+"124",
+"12A",
+"12B",
+"12E",
+"12F",
+"130",
+"132",
+"13F",
+"165"
+],
+"partial": true
+},
+"ghosthouse": {
+"routine": "StdObj05_Coins",
+"blocks": [
+"002",
+"003",
+"013",
+"01E",
+"021",
+"023",
+"024",
+"02A",
+"02B",
+"02E",
+"02F",
+"030",
+"032",
+"03F",
+"065",
+"102",
+"103",
+"113",
+"11E",
+"121",
+"123",
+"124",
+"12A",
+"12B",
+"12E",
+"12F",
+"130",
+"132",
+"13F",
+"165"
+],
+"partial": true
+}
+},
+"0E": {
+"grassland": {
+"routine": "StdObj05_Coins",
+"blocks": [
+"002",
+"003",
+"013",
+"01E",
+"021",
+"023",
+"024",
+"02A",
+"02B",
+"02E",
+"02F",
+"030",
+"032",
+"03F",
+"065",
+"102",
+"103",
+"113",
+"11E",
+"121",
+"123",
+"124",
+"12A",
+"12B",
+"12E",
+"12F",
+"130",
+"132",
+"13F",
+"165"
+],
+"partial": true
+},
+"castle": {
+"routine": "StdObj05_Coins",
+"blocks": [
+"002",
+"003",
+"013",
+"01E",
+"021",
+"023",
+"024",
+"02A",
+"02B",
+"02E",
+"02F",
+"030",
+"032",
+"03F",
+"065",
+"102",
+"103",
+"113",
+"11E",
+"121",
+"123",
+"124",
+"12A",
+"12B",
+"12E",
+"12F",
+"130",
+"132",
+"13F",
+"165"
+],
+"partial": true
+},
+"rope": {
+"routine": "StdObj05_Coins",
+"blocks": [
+"002",
+"003",
+"013",
+"01E",
+"021",
+"023",
+"024",
+"02A",
+"02B",
+"02E",
+"02F",
+"030",
+"032",
+"03F",
+"065",
+"102",
+"103",
+"113",
+"11E",
+"121",
+"123",
+"124",
+"12A",
+"12B",
+"12E",
+"12F",
+"130",
+"132",
+"13F",
+"165"
+],
+"partial": true
+},
+"underground": {
+"routine": "StdObj05_Coins",
+"blocks": [
+"002",
+"003",
+"013",
+"01E",
+"021",
+"023",
+"024",
+"02A",
+"02B",
+"02E",
+"02F",
+"030",
+"032",
+"03F",
+"065",
+"102",
+"103",
+"113",
+"11E",
+"121",
+"123",
+"124",
+"12A",
+"12B",
+"12E",
+"12F",
+"130",
+"132",
+"13F",
+"165"
+],
+"partial": true
+},
+"ghosthouse": {
+"routine": "StdObj05_Coins",
+"blocks": [
+"002",
+"003",
+"013",
+"01E",
+"021",
+"023",
+"024",
+"02A",
+"02B",
+"02E",
+"02F",
+"030",
+"032",
+"03F",
+"065",
+"102",
+"103",
+"113",
+"11E",
+"121",
+"123",
+"124",
+"12A",
+"12B",
+"12E",
+"12F",
+"130",
+"132",
+"13F",
+"165"
+],
+"partial": true
+}
+},
+"0F": {
+"grassland": {
+"routine": "StdObj0F_VerticalPipes",
+"blocks": [
+"100",
+"133",
+"134",
+"135",
+"136",
+"137",
+"138",
+"139",
+"13A",
+"168",
+"169"
+],
+"partial": false
+},
+"castle": {
+"routine": "StdObj0F_VerticalPipes",
+"blocks": [
+"100",
+"133",
+"134",
+"135",
+"136",
+"137",
+"138",
+"139",
+"13A",
+"168",
+"169"
+],
+"partial": false
+},
+"rope": {
+"routine": "StdObj0F_VerticalPipes",
+"blocks": [
+"100",
+"133",
+"134",
+"135",
+"136",
+"137",
+"138",
+"139",
+"13A",
+"168",
+"169"
+],
+"partial": false
+},
+"underground": {
+"routine": "StdObj0F_VerticalPipes",
+"blocks": [
+"100",
+"133",
+"134",
+"135",
+"136",
+"137",
+"138",
+"139",
+"13A",
+"168",
+"169"
+],
+"partial": false
+},
+"ghosthouse": {
+"routine": "StdObj0F_VerticalPipes",
+"blocks": [
+"100",
+"133",
+"134",
+"135",
+"136",
+"137",
+"138",
+"139",
+"13A",
+"168",
+"169"
+],
+"partial": false
+}
+},
+"10": {
+"grassland": {
+"routine": "StdObj10_HorizontalPipes",
+"blocks": [
+"13B",
+"13C",
+"13D",
+"13E",
+"13F"
+],
+"partial": false
+},
+"castle": {
+"routine": "StdObj10_HorizontalPipes",
+"blocks": [
+"13B",
+"13C",
+"13D",
+"13E",
+"13F"
+],
+"partial": false
+},
+"rope": {
+"routine": "StdObj10_HorizontalPipes",
+"blocks": [
+"13B",
+"13C",
+"13D",
+"13E",
+"13F"
+],
+"partial": false
+},
+"underground": {
+"routine": "StdObj10_HorizontalPipes",
+"blocks": [
+"13B",
+"13C",
+"13D",
+"13E",
+"13F"
+],
+"partial": false
+},
+"ghosthouse": {
+"routine": "StdObj10_HorizontalPipes",
+"blocks": [
+"13B",
+"13C",
+"13D",
+"13E",
+"13F"
+],
+"partial": false
+}
+},
+"11": {
+"grassland": {
+"routine": "StdObj11_BulletShooter",
+"blocks": [
+"141",
+"142",
+"143"
+],
+"partial": false
+},
+"castle": {
+"routine": "StdObj11_BulletShooter",
+"blocks": [
+"141",
+"142",
+"143"
+],
+"partial": false
+},
+"rope": {
+"routine": "StdObj11_BulletShooter",
+"blocks": [
+"141",
+"142",
+"143"
+],
+"partial": false
+},
+"underground": {
+"routine": "StdObj11_BulletShooter",
+"blocks": [
+"141",
+"142",
+"143"
+],
+"partial": false
+},
+"ghosthouse": {
+"routine": "StdObj11_BulletShooter",
+"blocks": [
+"141",
+"142",
+"143"
+],
+"partial": false
+}
+},
+"12": {
+"grassland": {
+"routine": "StdObj12_Slopes",
+"blocks": [
+"03F",
+"165",
+"1C4",
+"1C5",
+"1C6",
+"1C7",
+"1C8",
+"1C9",
+"1D8",
+"1DA",
+"1DB",
+"1DC",
+"1DE",
+"1E0",
+"1E2",
+"1E4",
+"1E6",
+"1EC",
+"1ED",
+"1EE",
+"1EF",
+"1F0"
+],
+"partial": true
+},
+"castle": {
+"routine": "StdObj12_Slopes",
+"blocks": [
+"03F",
+"165",
+"1C4",
+"1C5",
+"1C6",
+"1C7",
+"1C8",
+"1C9",
+"1D8",
+"1DA",
+"1DB",
+"1DC",
+"1DE",
+"1E0",
+"1E2",
+"1E4",
+"1E6",
+"1EC",
+"1ED",
+"1EE",
+"1EF",
+"1F0"
+],
+"partial": true
+},
+"rope": {
+"routine": "StdObj12_Slopes",
+"blocks": [
+"03F",
+"165",
+"1C4",
+"1C5",
+"1C6",
+"1C7",
+"1C8",
+"1C9",
+"1D8",
+"1DA",
+"1DB",
+"1DC",
+"1DE",
+"1E0",
+"1E2",
+"1E4",
+"1E6",
+"1EC",
+"1ED",
+"1EE",
+"1EF",
+"1F0"
+],
+"partial": true
+},
+"underground": {
+"routine": "StdObj12_Slopes",
+"blocks": [
+"03F",
+"165",
+"1C4",
+"1C5",
+"1C6",
+"1C7",
+"1C8",
+"1C9",
+"1D8",
+"1DA",
+"1DB",
+"1DC",
+"1DE",
+"1E0",
+"1E2",
+"1E4",
+"1E6",
+"1EC",
+"1ED",
+"1EE",
+"1EF",
+"1F0"
+],
+"partial": true
+},
+"ghosthouse": {
+"routine": "StdObj12_Slopes",
+"blocks": [
+"03F",
+"165",
+"1C4",
+"1C5",
+"1C6",
+"1C7",
+"1C8",
+"1C9",
+"1D8",
+"1DA",
+"1DB",
+"1DC",
+"1DE",
+"1E0",
+"1E2",
+"1E4",
+"1E6",
+"1EC",
+"1ED",
+"1EE",
+"1EF",
+"1F0"
+],
+"partial": true
+}
+},
+"13": {
+"grassland": {
+"routine": "StdObj13_GroundEdgesAndVine",
+"blocks": [
+"001",
+"003",
+"006",
+"040",
+"041",
+"045",
+"048",
+"04B",
+"04C",
+"0B6",
+"0B7",
+"0E2",
+"0E4",
+"0FF",
+"101",
+"103",
+"106",
+"140",
+"141",
+"145",
+"148",
+"14B",
+"14C",
+"1B6",
+"1B7",
+"1E2",
+"1E4",
+"1FF"
+],
+"partial": true
+},
+"castle": {
+"routine": "StdObj13_GroundEdgesAndVine",
+"blocks": [
+"001",
+"003",
+"006",
+"040",
+"041",
+"045",
+"048",
+"04B",
+"04C",
+"0B6",
+"0B7",
+"0E2",
+"0E4",
+"0FF",
+"101",
+"103",
+"106",
+"140",
+"141",
+"145",
+"148",
+"14B",
+"14C",
+"1B6",
+"1B7",
+"1E2",
+"1E4",
+"1FF"
+],
+"partial": true
+},
+"rope": {
+"routine": "StdObj13_GroundEdgesAndVine",
+"blocks": [
+"001",
+"003",
+"006",
+"040",
+"041",
+"045",
+"048",
+"04B",
+"04C",
+"0B6",
+"0B7",
+"0E2",
+"0E4",
+"0FF",
+"101",
+"103",
+"106",
+"140",
+"141",
+"145",
+"148",
+"14B",
+"14C",
+"1B6",
+"1B7",
+"1E2",
+"1E4",
+"1FF"
+],
+"partial": true
+},
+"underground": {
+"routine": "StdObj13_GroundEdgesAndVine",
+"blocks": [
+"001",
+"003",
+"006",
+"040",
+"041",
+"045",
+"048",
+"04B",
+"04C",
+"0B6",
+"0B7",
+"0E2",
+"0E4",
+"0FF",
+"101",
+"103",
+"106",
+"140",
+"141",
+"145",
+"148",
+"14B",
+"14C",
+"1B6",
+"1B7",
+"1E2",
+"1E4",
+"1FF"
+],
+"partial": true
+},
+"ghosthouse": {
+"routine": "StdObj13_GroundEdgesAndVine",
+"blocks": [
+"001",
+"003",
+"006",
+"040",
+"041",
+"045",
+"048",
+"04B",
+"04C",
+"0B6",
+"0B7",
+"0E2",
+"0E4",
+"0FF",
+"101",
+"103",
+"106",
+"140",
+"141",
+"145",
+"148",
+"14B",
+"14C",
+"1B6",
+"1B7",
+"1E2",
+"1E4",
+"1FF"
+],
+"partial": true
+}
+},
+"14": {
+"grassland": {
+"routine": "StdObj21_WideScaleGroundLedge_StandardLedgeEntry",
+"blocks": [
+"03F",
+"100"
+],
+"partial": false
+},
+"castle": {
+"routine": "StdObj21_WideScaleGroundLedge_StandardLedgeEntry",
+"blocks": [
+"03F",
+"100"
+],
+"partial": false
+},
+"rope": {
+"routine": "StdObj21_WideScaleGroundLedge_StandardLedgeEntry",
+"blocks": [
+"03F",
+"100"
+],
+"partial": false
+},
+"underground": {
+"routine": "StdObj21_WideScaleGroundLedge_StandardLedgeEntry",
+"blocks": [
+"03F",
+"100"
+],
+"partial": false
+},
+"ghosthouse": {
+"routine": "StdObj21_WideScaleGroundLedge_StandardLedgeEntry",
+"blocks": [
+"03F",
+"100"
+],
+"partial": false
+}
+},
+"15": {
+"grassland": {
+"routine": "StdObj15_MidwayAndGoalPoint",
+"blocks": [
+"025",
+"02F",
+"030",
+"031",
+"032",
+"033",
+"034",
+"039",
+"03A",
+"03B",
+"03C",
+"03D",
+"03E"
+],
+"partial": true
+},
+"castle": {
+"routine": "StdObj15_MidwayAndGoalPoint",
+"blocks": [
+"025",
+"02F",
+"030",
+"031",
+"032",
+"033",
+"034",
+"039",
+"03A",
+"03B",
+"03C",
+"03D",
+"03E"
+],
+"partial": true
+},
+"rope": {
+"routine": "StdObj15_MidwayAndGoalPoint",
+"blocks": [
+"025",
+"02F",
+"030",
+"031",
+"032",
+"033",
+"034",
+"039",
+"03A",
+"03B",
+"03C",
+"03D",
+"03E"
+],
+"partial": true
+},
+"underground": {
+"routine": "StdObj15_MidwayAndGoalPoint",
+"blocks": [
+"025",
+"02F",
+"030",
+"031",
+"032",
+"033",
+"034",
+"039",
+"03A",
+"03B",
+"03C",
+"03D",
+"03E"
+],
+"partial": true
+},
+"ghosthouse": {
+"routine": "StdObj15_MidwayAndGoalPoint",
+"blocks": [
+"025",
+"02F",
+"030",
+"031",
+"032",
+"033",
+"034",
+"039",
+"03A",
+"03B",
+"03C",
+"03D",
+"03E"
+],
+"partial": true
+}
+},
+"16": {
+"grassland": {
+"routine": "StdObj16_PurpleCoins",
+"blocks": [],
+"partial": true
+},
+"castle": {
+"routine": "StdObj16_PurpleCoins",
+"blocks": [],
+"partial": true
+},
+"rope": {
+"routine": "StdObj16_PurpleCoins",
+"blocks": [],
+"partial": true
+},
+"underground": {
+"routine": "StdObj16_PurpleCoins",
+"blocks": [],
+"partial": true
+},
+"ghosthouse": {
+"routine": "StdObj16_PurpleCoins",
+"blocks": [],
+"partial": true
+}
+},
+"17": {
+"grassland": {
+"routine": "StdObj17_RopeAndCloudLine",
+"blocks": [
+"105",
+"106"
+],
+"partial": false
+},
+"castle": {
+"routine": "StdObj17_RopeAndCloudLine",
+"blocks": [
+"105",
+"106"
+],
+"partial": false
+},
+"rope": {
+"routine": "StdObj17_RopeAndCloudLine",
+"blocks": [
+"105",
+"106"
+],
+"partial": false
+},
+"underground": {
+"routine": "StdObj17_RopeAndCloudLine",
+"blocks": [
+"105",
+"106"
+],
+"partial": false
+},
+"ghosthouse": {
+"routine": "StdObj17_RopeAndCloudLine",
+"blocks": [
+"105",
+"106"
+],
+"partial": false
+}
+},
+"18": {
+"grassland": {
+"routine": "RopeObj2E_Unused",
+"blocks": [
+"000",
+"001",
+"002",
+"003",
+"004",
+"005",
+"008",
+"00B"
+],
+"partial": false
+},
+"castle": {
+"routine": "RopeObj2E_Unused",
+"blocks": [
+"000",
+"001",
+"002",
+"003",
+"004",
+"005",
+"008",
+"00B"
+],
+"partial": false
+},
+"rope": {
+"routine": "RopeObj2E_Unused",
+"blocks": [
+"000",
+"001",
+"002",
+"003",
+"004",
+"005",
+"008",
+"00B"
+],
+"partial": false
+},
+"underground": {
+"routine": "RopeObj2E_Unused",
+"blocks": [
+"000",
+"001",
+"002",
+"003",
+"004",
+"005",
+"008",
+"00B"
+],
+"partial": false
+},
+"ghosthouse": {
+"routine": "RopeObj2E_Unused",
+"blocks": [
+"000",
+"001",
+"002",
+"003",
+"004",
+"005",
+"008",
+"00B"
+],
+"partial": false
+}
+},
+"19": {
+"grassland": {
+"routine": "RopeObj2E_Unused",
+"blocks": [
+"000",
+"001",
+"002",
+"003",
+"004",
+"005",
+"008",
+"00B"
+],
+"partial": false
+},
+"castle": {
+"routine": "RopeObj2E_Unused",
+"blocks": [
+"000",
+"001",
+"002",
+"003",
+"004",
+"005",
+"008",
+"00B"
+],
+"partial": false
+},
+"rope": {
+"routine": "RopeObj2E_Unused",
+"blocks": [
+"000",
+"001",
+"002",
+"003",
+"004",
+"005",
+"008",
+"00B"
+],
+"partial": false
+},
+"underground": {
+"routine": "RopeObj2E_Unused",
+"blocks": [
+"000",
+"001",
+"002",
+"003",
+"004",
+"005",
+"008",
+"00B"
+],
+"partial": false
+},
+"ghosthouse": {
+"routine": "RopeObj2E_Unused",
+"blocks": [
+"000",
+"001",
+"002",
+"003",
+"004",
+"005",
+"008",
+"00B"
+],
+"partial": false
+}
+},
+"1A": {
+"grassland": {
+"routine": "RopeObj2E_Unused",
+"blocks": [
+"000",
+"001",
+"002",
+"003",
+"004",
+"005",
+"008",
+"00B"
+],
+"partial": false
+},
+"castle": {
+"routine": "RopeObj2E_Unused",
+"blocks": [
+"000",
+"001",
+"002",
+"003",
+"004",
+"005",
+"008",
+"00B"
+],
+"partial": false
+},
+"rope": {
+"routine": "RopeObj2E_Unused",
+"blocks": [
+"000",
+"001",
+"002",
+"003",
+"004",
+"005",
+"008",
+"00B"
+],
+"partial": false
+},
+"underground": {
+"routine": "RopeObj2E_Unused",
+"blocks": [
+"000",
+"001",
+"002",
+"003",
+"004",
+"005",
+"008",
+"00B"
+],
+"partial": false
+},
+"ghosthouse": {
+"routine": "RopeObj2E_Unused",
+"blocks": [
+"000",
+"001",
+"002",
+"003",
+"004",
+"005",
+"008",
+"00B"
+],
+"partial": false
+}
+},
+"1B": {
+"grassland": {
+"routine": "RopeObj2E_Unused",
+"blocks": [
+"000",
+"001",
+"002",
+"003",
+"004",
+"005",
+"008",
+"00B"
+],
+"partial": false
+},
+"castle": {
+"routine": "RopeObj2E_Unused",
+"blocks": [
+"000",
+"001",
+"002",
+"003",
+"004",
+"005",
+"008",
+"00B"
+],
+"partial": false
+},
+"rope": {
+"routine": "RopeObj2E_Unused",
+"blocks": [
+"000",
+"001",
+"002",
+"003",
+"004",
+"005",
+"008",
+"00B"
+],
+"partial": false
+},
+"underground": {
+"routine": "RopeObj2E_Unused",
+"blocks": [
+"000",
+"001",
+"002",
+"003",
+"004",
+"005",
+"008",
+"00B"
+],
+"partial": false
+},
+"ghosthouse": {
+"routine": "RopeObj2E_Unused",
+"blocks": [
+"000",
+"001",
+"002",
+"003",
+"004",
+"005",
+"008",
+"00B"
+],
+"partial": false
+}
+},
+"1C": {
+"grassland": {
+"routine": "StdObj1C_DonutBridge",
+"blocks": [
+"026",
+"044",
+"126",
+"144"
+],
+"partial": false
+},
+"castle": {
+"routine": "StdObj1C_DonutBridge",
+"blocks": [
+"026",
+"044",
+"126",
+"144"
+],
+"partial": false
+},
+"rope": {
+"routine": "StdObj1C_DonutBridge",
+"blocks": [
+"026",
+"044",
+"126",
+"144"
+],
+"partial": false
+},
+"underground": {
+"routine": "StdObj1C_DonutBridge",
+"blocks": [
+"026",
+"044",
+"126",
+"144"
+],
+"partial": false
+},
+"ghosthouse": {
+"routine": "StdObj1C_DonutBridge",
+"blocks": [
+"026",
+"044",
+"126",
+"144"
+],
+"partial": false
+}
+},
+"1D": {
+"grassland": {
+"routine": "StdObj1D_ClimbingNetWithBottomEdge",
+"blocks": [
+"00B",
+"00E"
+],
+"partial": false
+},
+"castle": {
+"routine": "StdObj1D_ClimbingNetWithBottomEdge",
+"blocks": [
+"00B",
+"00E"
+],
+"partial": false
+},
+"rope": {
+"routine": "StdObj1D_ClimbingNetWithBottomEdge",
+"blocks": [
+"00B",
+"00E"
+],
+"partial": false
+},
+"underground": {
+"routine": "StdObj1D_ClimbingNetWithBottomEdge",
+"blocks": [
+"00B",
+"00E"
+],
+"partial": false
+},
+"ghosthouse": {
+"routine": "StdObj1D_ClimbingNetWithBottomEdge",
+"blocks": [
+"00B",
+"00E"
+],
+"partial": false
+}
+},
+"1E": {
+"grassland": {
+"routine": "StdObj1E_ClimbingNetWithSideEdge",
+"blocks": [
+"007",
+"009",
+"00A",
+"00C",
+"00D",
+"00F",
+"019",
+"01A",
+"01B",
+"01C"
+],
+"partial": true
+},
+"castle": {
+"routine": "StdObj1E_ClimbingNetWithSideEdge",
+"blocks": [
+"007",
+"009",
+"00A",
+"00C",
+"00D",
+"00F",
+"019",
+"01A",
+"01B",
+"01C"
+],
+"partial": true
+},
+"rope": {
+"routine": "StdObj1E_ClimbingNetWithSideEdge",
+"blocks": [
+"007",
+"009",
+"00A",
+"00C",
+"00D",
+"00F",
+"019",
+"01A",
+"01B",
+"01C"
+],
+"partial": true
+},
+"underground": {
+"routine": "StdObj1E_ClimbingNetWithSideEdge",
+"blocks": [
+"007",
+"009",
+"00A",
+"00C",
+"00D",
+"00F",
+"019",
+"01A",
+"01B",
+"01C"
+],
+"partial": true
+},
+"ghosthouse": {
+"routine": "StdObj1E_ClimbingNetWithSideEdge",
+"blocks": [
+"007",
+"009",
+"00A",
+"00C",
+"00D",
+"00F",
+"019",
+"01A",
+"01B",
+"01C"
+],
+"partial": true
+}
+},
+"1F": {
+"grassland": {
+"routine": "StdObj1F_SkinnyVerticalPipeBoneLog",
+"blocks": [
+"155"
+],
+"partial": true
+},
+"castle": {
+"routine": "StdObj1F_SkinnyVerticalPipeBoneLog",
+"blocks": [
+"155"
+],
+"partial": true
+},
+"rope": {
+"routine": "StdObj1F_SkinnyVerticalPipeBoneLog",
+"blocks": [
+"155"
+],
+"partial": true
+},
+"underground": {
+"routine": "StdObj1F_SkinnyVerticalPipeBoneLog",
+"blocks": [
+"155"
+],
+"partial": true
+},
+"ghosthouse": {
+"routine": "StdObj1F_SkinnyVerticalPipeBoneLog",
+"blocks": [
+"155"
+],
+"partial": true
+}
+},
+"20": {
+"grassland": {
+"routine": "StdObj20_SkinnyHorizontalPipeBoneLog",
+"blocks": [
+"158"
+],
+"partial": true
+},
+"castle": {
+"routine": "StdObj20_SkinnyHorizontalPipeBoneLog",
+"blocks": [
+"158"
+],
+"partial": true
+},
+"rope": {
+"routine": "StdObj20_SkinnyHorizontalPipeBoneLog",
+"blocks": [
+"158"
+],
+"partial": true
+},
+"underground": {
+"routine": "StdObj20_SkinnyHorizontalPipeBoneLog",
+"blocks": [
+"158"
+],
+"partial": true
+},
+"ghosthouse": {
+"routine": "StdObj20_SkinnyHorizontalPipeBoneLog",
+"blocks": [
+"158"
+],
+"partial": true
+}
+},
+"21": {
+"grassland": {
+"routine": "StdObj21_WideScaleGroundLedge",
+"blocks": [
+"03F",
+"100"
+],
+"partial": false
+},
+"castle": {
+"routine": "StdObj21_WideScaleGroundLedge",
+"blocks": [
+"03F",
+"100"
+],
+"partial": false
+},
+"rope": {
+"routine": "StdObj21_WideScaleGroundLedge",
+"blocks": [
+"03F",
+"100"
+],
+"partial": false
+},
+"underground": {
+"routine": "StdObj21_WideScaleGroundLedge",
+"blocks": [
+"03F",
+"100"
+],
+"partial": false
+},
+"ghosthouse": {
+"routine": "StdObj21_WideScaleGroundLedge",
+"blocks": [
+"03F",
+"100"
+],
+"partial": false
+}
+},
+"22": {
+"grassland": {
+"routine": "LmStdObj22_DirectMap16",
+"blocks": [],
+"partial": false
+},
+"castle": {
+"routine": "LmStdObj22_DirectMap16",
+"blocks": [],
+"partial": false
+},
+"rope": {
+"routine": "LmStdObj22_DirectMap16",
+"blocks": [],
+"partial": false
+},
+"underground": {
+"routine": "LmStdObj22_DirectMap16",
+"blocks": [],
+"partial": false
+},
+"ghosthouse": {
+"routine": "LmStdObj22_DirectMap16",
+"blocks": [],
+"partial": false
+}
+},
+"23": {
+"grassland": {
+"routine": "LmStdObj23",
+"blocks": [],
+"partial": false
+},
+"castle": {
+"routine": "LmStdObj23",
+"blocks": [],
+"partial": false
+},
+"rope": {
+"routine": "LmStdObj23",
+"blocks": [],
+"partial": false
+},
+"underground": {
+"routine": "LmStdObj23",
+"blocks": [],
+"partial": false
+},
+"ghosthouse": {
+"routine": "LmStdObj23",
+"blocks": [],
+"partial": false
+}
+},
+"24": {
+"grassland": {
+"routine": "LmStdObj24",
+"blocks": [],
+"partial": false
+},
+"castle": {
+"routine": "LmStdObj24",
+"blocks": [],
+"partial": false
+},
+"rope": {
+"routine": "LmStdObj24",
+"blocks": [],
+"partial": false
+},
+"underground": {
+"routine": "LmStdObj24",
+"blocks": [],
+"partial": false
+},
+"ghosthouse": {
+"routine": "LmStdObj24",
+"blocks": [],
+"partial": false
+}
+},
+"25": {
+"grassland": {
+"routine": "LmStdObj25",
+"blocks": [],
+"partial": false
+},
+"castle": {
+"routine": "LmStdObj25",
+"blocks": [],
+"partial": false
+},
+"rope": {
+"routine": "LmStdObj25",
+"blocks": [],
+"partial": false
+},
+"underground": {
+"routine": "LmStdObj25",
+"blocks": [],
+"partial": false
+},
+"ghosthouse": {
+"routine": "LmStdObj25",
+"blocks": [],
+"partial": false
+}
+},
+"26": {
+"grassland": {
+"routine": "LmStdObj26_MusicBypass",
+"blocks": [],
+"partial": false
+},
+"castle": {
+"routine": "LmStdObj26_MusicBypass",
+"blocks": [],
+"partial": false
+},
+"rope": {
+"routine": "LmStdObj26_MusicBypass",
+"blocks": [],
+"partial": false
+},
+"underground": {
+"routine": "LmStdObj26_MusicBypass",
+"blocks": [],
+"partial": false
+},
+"ghosthouse": {
+"routine": "LmStdObj26_MusicBypass",
+"blocks": [],
+"partial": false
+}
+},
+"27": {
+"grassland": {
+"routine": "LmStdObj27",
+"blocks": [],
+"partial": false
+},
+"castle": {
+"routine": "LmStdObj27",
+"blocks": [],
+"partial": false
+},
+"rope": {
+"routine": "LmStdObj27",
+"blocks": [],
+"partial": false
+},
+"underground": {
+"routine": "LmStdObj27",
+"blocks": [],
+"partial": false
+},
+"ghosthouse": {
+"routine": "LmStdObj27",
+"blocks": [],
+"partial": false
+}
+},
+"28": {
+"grassland": {
+"routine": "LmStdObj28",
+"blocks": [],
+"partial": false
+},
+"castle": {
+"routine": "LmStdObj28",
+"blocks": [],
+"partial": false
+},
+"rope": {
+"routine": "LmStdObj28",
+"blocks": [],
+"partial": false
+},
+"underground": {
+"routine": "LmStdObj28",
+"blocks": [],
+"partial": false
+},
+"ghosthouse": {
+"routine": "LmStdObj28",
+"blocks": [],
+"partial": false
+}
+},
+"29": {
+"grassland": {
+"routine": "LmStdObj29",
+"blocks": [],
+"partial": false
+},
+"castle": {
+"routine": "LmStdObj29",
+"blocks": [],
+"partial": false
+},
+"rope": {
+"routine": "LmStdObj29",
+"blocks": [],
+"partial": false
+},
+"underground": {
+"routine": "LmStdObj29",
+"blocks": [],
+"partial": false
+},
+"ghosthouse": {
+"routine": "LmStdObj29",
+"blocks": [],
+"partial": false
+}
+},
+"2A": {
+"grassland": {
+"routine": "RopeObj2E_Unused",
+"blocks": [
+"000",
+"001",
+"002",
+"003",
+"004",
+"005",
+"008",
+"00B"
+],
+"partial": true
+},
+"castle": {
+"routine": "RopeObj2E_Unused",
+"blocks": [
+"000",
+"001",
+"002",
+"003",
+"004",
+"005",
+"008",
+"00B"
+],
+"partial": true
+},
+"rope": {
+"routine": "RopeObj2E_Unused",
+"blocks": [
+"000",
+"001",
+"002",
+"003",
+"004",
+"005",
+"008",
+"00B"
+],
+"partial": true
+},
+"underground": {
+"routine": "RopeObj2E_Unused",
+"blocks": [
+"000",
+"001",
+"002",
+"003",
+"004",
+"005",
+"008",
+"00B"
+],
+"partial": true
+},
+"ghosthouse": {
+"routine": "RopeObj2E_Unused",
+"blocks": [
+"000",
+"001",
+"002",
+"003",
+"004",
+"005",
+"008",
+"00B"
+],
+"partial": true
+}
+},
+"2B": {
+"grassland": {
+"routine": "RopeObj2E_Unused",
+"blocks": [
+"000",
+"001",
+"002",
+"003",
+"004",
+"005",
+"008",
+"00B"
+],
+"partial": true
+},
+"castle": {
+"routine": "RopeObj2E_Unused",
+"blocks": [
+"000",
+"001",
+"002",
+"003",
+"004",
+"005",
+"008",
+"00B"
+],
+"partial": true
+},
+"rope": {
+"routine": "RopeObj2E_Unused",
+"blocks": [
+"000",
+"001",
+"002",
+"003",
+"004",
+"005",
+"008",
+"00B"
+],
+"partial": true
+},
+"underground": {
+"routine": "RopeObj2E_Unused",
+"blocks": [
+"000",
+"001",
+"002",
+"003",
+"004",
+"005",
+"008",
+"00B"
+],
+"partial": true
+},
+"ghosthouse": {
+"routine": "RopeObj2E_Unused",
+"blocks": [
+"000",
+"001",
+"002",
+"003",
+"004",
+"005",
+"008",
+"00B"
+],
+"partial": true
+}
+},
+"2C": {
+"grassland": {
+"routine": "RopeObj2E_Unused",
+"blocks": [
+"000",
+"001",
+"002",
+"003",
+"004",
+"005",
+"008",
+"00B"
+],
+"partial": true
+},
+"castle": {
+"routine": "RopeObj2E_Unused",
+"blocks": [
+"000",
+"001",
+"002",
+"003",
+"004",
+"005",
+"008",
+"00B"
+],
+"partial": true
+},
+"rope": {
+"routine": "RopeObj2E_Unused",
+"blocks": [
+"000",
+"001",
+"002",
+"003",
+"004",
+"005",
+"008",
+"00B"
+],
+"partial": true
+},
+"underground": {
+"routine": "RopeObj2E_Unused",
+"blocks": [
+"000",
+"001",
+"002",
+"003",
+"004",
+"005",
+"008",
+"00B"
+],
+"partial": true
+},
+"ghosthouse": {
+"routine": "RopeObj2E_Unused",
+"blocks": [
+"000",
+"001",
+"002",
+"003",
+"004",
+"005",
+"008",
+"00B"
+],
+"partial": true
+}
+},
+"2D": {
+"grassland": {
+"routine": "RopeObj2E_Unused",
+"blocks": [
+"000",
+"001",
+"002",
+"003",
+"004",
+"005",
+"008",
+"00B"
+],
+"partial": true
+},
+"castle": {
+"routine": "RopeObj2E_Unused",
+"blocks": [
+"000",
+"001",
+"002",
+"003",
+"004",
+"005",
+"008",
+"00B"
+],
+"partial": true
+},
+"rope": {
+"routine": "RopeObj2E_Unused",
+"blocks": [
+"000",
+"001",
+"002",
+"003",
+"004",
+"005",
+"008",
+"00B"
+],
+"partial": true
+},
+"underground": {
+"routine": "RopeObj2E_Unused",
+"blocks": [
+"000",
+"001",
+"002",
+"003",
+"004",
+"005",
+"008",
+"00B"
+],
+"partial": true
+},
+"ghosthouse": {
+"routine": "RopeObj2E_Unused",
+"blocks": [
+"000",
+"001",
+"002",
+"003",
+"004",
+"005",
+"008",
+"00B"
+],
+"partial": true
+}
+},
+"2E": {
+"grassland": {
+"routine": "RopeObj2E_Unused",
+"blocks": [
+"000",
+"001",
+"002",
+"003",
+"004",
+"005",
+"008",
+"00B"
+],
+"partial": true
+},
+"castle": {
+"routine": "RopeObj2E_Unused",
+"blocks": [
+"000",
+"001",
+"002",
+"003",
+"004",
+"005",
+"008",
+"00B"
+],
+"partial": true
+},
+"rope": {
+"routine": "RopeObj2E_Unused",
+"blocks": [
+"000",
+"001",
+"002",
+"003",
+"004",
+"005",
+"008",
+"00B"
+],
+"partial": true
+},
+"underground": {
+"routine": "RopeObj2E_Unused",
+"blocks": [
+"000",
+"001",
+"002",
+"003",
+"004",
+"005",
+"008",
+"00B"
+],
+"partial": true
+},
+"ghosthouse": {
+"routine": "GhostHouseObj2E_HorizontalLineOfSpikes",
+"blocks": [
+"159"
+],
+"partial": false
+}
+},
+"2F": {
+"grassland": {
+"routine": "RopeObj2E_Unused",
+"blocks": [
+"000",
+"001",
+"002",
+"003",
+"004",
+"005",
+"008",
+"00B"
+],
+"partial": true
+},
+"castle": {
+"routine": "RopeObj2E_Unused",
+"blocks": [
+"000",
+"001",
+"002",
+"003",
+"004",
+"005",
+"008",
+"00B"
+],
+"partial": true
+},
+"rope": {
+"routine": "RopeObj2E_Unused",
+"blocks": [
+"000",
+"001",
+"002",
+"003",
+"004",
+"005",
+"008",
+"00B"
+],
+"partial": true
+},
+"underground": {
+"routine": "RopeObj2E_Unused",
+"blocks": [
+"000",
+"001",
+"002",
+"003",
+"004",
+"005",
+"008",
+"00B"
+],
+"partial": true
+},
+"ghosthouse": {
+"routine": "GhostHouseObj35_BrickBackground_LogBackgroundEntry",
+"blocks": [
+"05E",
+"082",
+"092",
+"15E",
+"182",
+"192"
+],
+"partial": true
+}
+},
+"30": {
+"grassland": {
+"routine": "GrassObj30_IcyVerticalPipe",
+"blocks": [
+"161",
+"162",
+"163",
+"164"
+],
+"partial": false
+},
+"castle": {
+"routine": "RopeObj2E_Unused",
+"blocks": [
+"000",
+"001",
+"002",
+"003",
+"004",
+"005",
+"008",
+"00B"
+],
+"partial": true
+},
+"rope": {
+"routine": "RopeObj2E_Unused",
+"blocks": [
+"000",
+"001",
+"002",
+"003",
+"004",
+"005",
+"008",
+"00B"
+],
+"partial": true
+},
+"underground": {
+"routine": "RopeObj2E_Unused",
+"blocks": [
+"000",
+"001",
+"002",
+"003",
+"004",
+"005",
+"008",
+"00B"
+],
+"partial": true
+},
+"ghosthouse": {
+"routine": "GhostHouseObj30_GrassLedge1",
+"blocks": [
+"0EA",
+"10F"
+],
+"partial": false
+}
+},
+"31": {
+"grassland": {
+"routine": "StdObjXX_Generic1RepeatedTileObject_IcyTurnBlockEntry",
+"blocks": [
+"002",
+"003",
+"013",
+"01E",
+"021",
+"023",
+"024",
+"02A",
+"02B",
+"02E",
+"02F",
+"030",
+"032",
+"03F",
+"065",
+"102",
+"103",
+"113",
+"11E",
+"121",
+"123",
+"124",
+"12A",
+"12B",
+"12E",
+"12F",
+"130",
+"132",
+"13F",
+"165"
+],
+"partial": true
+},
+"castle": {
+"routine": "RopeObj2E_Unused",
+"blocks": [
+"000",
+"001",
+"002",
+"003",
+"004",
+"005",
+"008",
+"00B"
+],
+"partial": true
+},
+"rope": {
+"routine": "RopeObj2E_Unused",
+"blocks": [
+"000",
+"001",
+"002",
+"003",
+"004",
+"005",
+"008",
+"00B"
+],
+"partial": true
+},
+"underground": {
+"routine": "RopeObj2E_Unused",
+"blocks": [
+"000",
+"001",
+"002",
+"003",
+"004",
+"005",
+"008",
+"00B"
+],
+"partial": true
+},
+"ghosthouse": {
+"routine": "GhostHouseObj31_WoodCrate",
+"blocks": [
+"063",
+"064",
+"065",
+"06A",
+"0C7",
+"0C8",
+"162",
+"163",
+"164",
+"165",
+"16A",
+"16D",
+"1C7",
+"1C8"
+],
+"partial": true
+}
+},
+"32": {
+"grassland": {
+"routine": "RopeObj33_BlueSwitchBlocks",
+"blocks": [
+"06C",
+"06D",
+"16C",
+"16D"
+],
+"partial": true
+},
+"castle": {
+"routine": "RopeObj2E_Unused",
+"blocks": [
+"000",
+"001",
+"002",
+"003",
+"004",
+"005",
+"008",
+"00B"
+],
+"partial": true
+},
+"rope": {
+"routine": "RopeObj32_LogBridge",
+"blocks": [
+"00E",
+"0A3",
+"10E",
+"1A3"
+],
+"partial": false
+},
+"underground": {
+"routine": "RopeObj2E_Unused",
+"blocks": [
+"000",
+"001",
+"002",
+"003",
+"004",
+"005",
+"008",
+"00B"
+],
+"partial": true
+},
+"ghosthouse": {
+"routine": "GhostHouseObj32_GrassLedge2",
+"blocks": [
+"0A3",
+"10E"
+],
+"partial": false
+}
+},
+"33": {
+"grassland": {
+"routine": "GrassObj33_ForestTreeTop",
+"blocks": [
+"025",
+"0B1",
+"0B3",
+"0B4",
+"0B5",
+"0B6",
+"125",
+"1B1",
+"1B3",
+"1B4",
+"1B5",
+"1B6"
+],
+"partial": false
+},
+"castle": {
+"routine": "RopeObj2E_Unused",
+"blocks": [
+"000",
+"001",
+"002",
+"003",
+"004",
+"005",
+"008",
+"00B"
+],
+"partial": true
+},
+"rope": {
+"routine": "RopeObj33_BlueSwitchBlocks",
+"blocks": [
+"06C",
+"06D",
+"16C",
+"16D"
+],
+"partial": true
+},
+"underground": {
+"routine": "RopeObj2E_Unused",
+"blocks": [
+"000",
+"001",
+"002",
+"003",
+"004",
+"005",
+"008",
+"00B"
+],
+"partial": true
+},
+"ghosthouse": {
+"routine": "GhostHouseObj33_Cloud",
+"blocks": [
+"0A2"
+],
+"partial": true
+}
+},
+"34": {
+"grassland": {
+"routine": "GrassObj34_ForestGroundEdges",
+"blocks": [
+"10F",
+"110",
+"15D",
+"15E",
+"15F",
+"160",
+"1C4",
+"1C5"
+],
+"partial": false
+},
+"castle": {
+"routine": "CastleObj34_VerticalDoubleEndedPipe",
+"blocks": [
+"09D",
+"09E",
+"133",
+"134"
+],
+"partial": false
+},
+"rope": {
+"routine": "GrassObj32_BlueSwitchBlocks_RedSwitchBlockEntry",
+"blocks": [
+"06C",
+"06D",
+"16C",
+"16D"
+],
+"partial": true
+},
+"underground": {
+"routine": "RopeObj33_BlueSwitchBlocks",
+"blocks": [
+"06C",
+"06D",
+"16C",
+"16D"
+],
+"partial": true
+},
+"ghosthouse": {
+"routine": "GhostHouseObj34_WoodLedgeOnColumn",
+"blocks": [
+"10C"
+],
+"partial": true
+}
+},
+"35": {
+"grassland": {
+"routine": "GrassObj35_ForestGround",
+"blocks": [
+"0B8",
+"10E"
+],
+"partial": false
+},
+"castle": {
+"routine": "CastleObj35_RockWallBackground",
+"blocks": [
+"094",
+"095",
+"096",
+"097"
+],
+"partial": false
+},
+"rope": {
+"routine": "RopeObj35_ColumnWithPlantOnTop",
+"blocks": [
+"061",
+"062",
+"063",
+"064",
+"065",
+"066",
+"09A",
+"09B",
+"09C",
+"09D",
+"09E",
+"09F",
+"0A0",
+"0A1",
+"15F",
+"160",
+"161",
+"162",
+"163",
+"164",
+"165",
+"166",
+"19A",
+"19B",
+"19C",
+"19D",
+"19E",
+"19F",
+"1A0",
+"1A1"
+],
+"partial": false
+},
+"underground": {
+"routine": "GrassObj32_BlueSwitchBlocks_RedSwitchBlockEntry",
+"blocks": [
+"06C",
+"06D",
+"16C",
+"16D"
+],
+"partial": true
+},
+"ghosthouse": {
+"routine": "GhostHouseObj36_WoodenBlocks",
+"blocks": [
+"05E",
+"082",
+"092",
+"15E",
+"182",
+"192"
+],
+"partial": true
+}
+},
+"36": {
+"grassland": {
+"routine": "GrassObj36_LargeTreeTrunk",
+"blocks": [
+"0BB",
+"0BC"
+],
+"partial": true
+},
+"castle": {
+"routine": "CastleObj36_LargeSpikedPillar",
+"blocks": [
+"087",
+"088",
+"089",
+"08A",
+"08B",
+"08C",
+"08D",
+"08E",
+"166",
+"167",
+"168",
+"169"
+],
+"partial": false
+},
+"rope": {
+"routine": "RopeObj36_HorizontalConveyorRope",
+"blocks": [
+"10C",
+"10D"
+],
+"partial": false
+},
+"underground": {
+"routine": "UndergroundObj36_4SidedGround",
+"blocks": [
+"100",
+"145",
+"148",
+"14D",
+"14E",
+"14F",
+"150",
+"151",
+"1F0"
+],
+"partial": false
+},
+"ghosthouse": {
+"routine": "GhostHouseObj36_WoodenBlocks",
+"blocks": [
+"05E",
+"082",
+"092",
+"15E",
+"182",
+"192"
+],
+"partial": true
+}
+},
+"37": {
+"grassland": {
+"routine": "GrassObj37_SmallTreeTrunk",
+"blocks": [
+"0BD",
+"0BE",
+"0BF",
+"0C0"
+],
+"partial": false
+},
+"castle": {
+"routine": "RopeObj38_HorizontalLineGuide",
+"blocks": [
+"092",
+"093"
+],
+"partial": false
+},
+"rope": {
+"routine": "CastleObj3D_Escalator",
+"blocks": [
+"03F",
+"0CE",
+"0CF",
+"0D0",
+"0D1",
+"0F3",
+"0F4",
+"0F5",
+"0F6",
+"1CE",
+"1CF",
+"1D0",
+"1D1",
+"1F3",
+"1F4",
+"1F5",
+"1F6"
+],
+"partial": false
+},
+"underground": {
+"routine": "UndergroundObj37_LargeCanvas",
+"blocks": [
+"05C",
+"05D",
+"05E",
+"05F",
+"060",
+"062",
+"063",
+"064",
+"073",
+"074",
+"075",
+"076",
+"15C",
+"15D",
+"15E",
+"15F",
+"160",
+"161",
+"162",
+"163",
+"164",
+"173",
+"174",
+"175",
+"176"
+],
+"partial": false
+},
+"ghosthouse": {
+"routine": "GhostHouseObj37_HorizontalBackgroundLogAndRailing",
+"blocks": [
+"082",
+"088",
+"089",
+"08A",
+"08B"
+],
+"partial": true
+}
+},
+"38": {
+"grassland": {
+"routine": "GrassObj32_BlueSwitchBlocks_RedSwitchBlockEntry",
+"blocks": [
+"06C",
+"06D",
+"16C",
+"16D"
+],
+"partial": true
+},
+"castle": {
+"routine": "CastleObj38_VerticalLineGuide",
+"blocks": [
+"090",
+"091",
+"0A2"
+],
+"partial": false
+},
+"rope": {
+"routine": "RopeObj38_HorizontalLineGuide",
+"blocks": [
+"092",
+"093"
+],
+"partial": false
+},
+"underground": {
+"routine": "UndergroundObj38_RightLavaEdge",
+"blocks": [
+"15A",
+"15B"
+],
+"partial": true
+},
+"ghosthouse": {
+"routine": "GhostHouseObj38_WoodenLedge",
+"blocks": [
+"10C"
+],
+"partial": true
+}
+},
+"39": {
+"grassland": {
+"routine": "GrassObj39_RightFacingDiagonalPipe",
+"blocks": [
+"159",
+"15A",
+"15B",
+"15C",
+"1C4",
+"1C5",
+"1C6",
+"1C7",
+"1EB",
+"1EC",
+"1ED",
+"1EE",
+"1EF"
+],
+"partial": false
+},
+"castle": {
+"routine": "RopeObj33_BlueSwitchBlocks",
+"blocks": [
+"06C",
+"06D",
+"16C",
+"16D"
+],
+"partial": true
+},
+"rope": {
+"routine": "CastleObj38_VerticalLineGuide",
+"blocks": [
+"090",
+"091",
+"0A2"
+],
+"partial": false
+},
+"underground": {
+"routine": "UndergroundObj39_SlopedCaveLava",
+"blocks": [
+"1D2",
+"1D3",
+"1D4",
+"1D5",
+"1D6",
+"1D7",
+"1FB",
+"1FC",
+"1FD",
+"1FE",
+"1FF"
+],
+"partial": false
+},
+"ghosthouse": {
+"routine": "GhostHouseObj39_VerticalBackgroundLog",
+"blocks": [
+"078",
+"079",
+"083"
+],
+"partial": true
+}
+},
+"3A": {
+"grassland": {
+"routine": "GrassObjXX_DiagonalLedge_LeftFacingDiagonalLedgeEntry",
+"blocks": [
+"03F",
+"1E2"
+],
+"partial": true
+},
+"castle": {
+"routine": "GrassObj32_BlueSwitchBlocks_RedSwitchBlockEntry",
+"blocks": [
+"06C",
+"06D",
+"16C",
+"16D"
+],
+"partial": true
+},
+"rope": {
+"routine": "RopeObj3A_SlopedLineGuide",
+"blocks": [
+"08C",
+"08D",
+"08E",
+"08F"
+],
+"partial": true
+},
+"underground": {
+"routine": "UndergroundObj3B_CaveLava",
+"blocks": [
+"159",
+"1FF"
+],
+"partial": false
+},
+"ghosthouse": {
+"routine": "GhostHouseObj3A_SolidBrickWallAndVerticalLineOfSpikes",
+"blocks": [
+"15A",
+"15B",
+"15F",
+"160"
+],
+"partial": false
+}
+},
+"3B": {
+"grassland": {
+"routine": "GrassObjXX_DiagonalLedge_RightFacingDiagonalLedgeEntry",
+"blocks": [
+"03F",
+"1E4"
+],
+"partial": true
+},
+"castle": {
+"routine": "CastleObj3B_GrassLedge",
+"blocks": [
+"086",
+"109"
+],
+"partial": false
+},
+"rope": {
+"routine": "RopeObj3B_VerySteepSlopedLineGuide",
+"blocks": [
+"088",
+"089",
+"08A",
+"08B"
+],
+"partial": false
+},
+"underground": {
+"routine": "UndergroundObj3B_CaveLava",
+"blocks": [
+"159",
+"1FF"
+],
+"partial": false
+},
+"ghosthouse": {
+"routine": "GhostHouseObj3B_BonusGameLedge",
+"blocks": [
+"109"
+],
+"partial": true
+}
+},
+"3C": {
+"grassland": {
+"routine": "GrassObj3C_ArchLedge",
+"blocks": [
+"007",
+"008",
+"009",
+"00A",
+"025",
+"081",
+"082",
+"083",
+"084",
+"107",
+"108",
+"109",
+"10A",
+"125",
+"181",
+"182",
+"183",
+"184"
+],
+"partial": false
+},
+"castle": {
+"routine": "CastleObj3C_StoneBlock",
+"blocks": [
+"15D",
+"15E",
+"15F",
+"160",
+"161",
+"162",
+"163",
+"164",
+"165"
+],
+"partial": false
+},
+"rope": {
+"routine": "RopeObj3C_MushroomTop",
+"blocks": [
+"108"
+],
+"partial": true
+},
+"underground": {
+"routine": "UndergroundObj3C_VerySteepSlope",
+"blocks": [
+"03F",
+"1CA",
+"1CB",
+"1CC",
+"1CD",
+"1F1",
+"1F2"
+],
+"partial": false
+},
+"ghosthouse": {
+"routine": "GhostHouseObj3C_SwitchPalaceCeiling",
+"blocks": [
+"153",
+"154"
+],
+"partial": false
+}
+},
+"3D": {
+"grassland": {
+"routine": "GrassObj3D_TopCloudFridge",
+"blocks": [
+"093",
+"09C"
+],
+"partial": false
+},
+"castle": {
+"routine": "CastleObj3D_Escalator",
+"blocks": [
+"03F",
+"0CE",
+"0CF",
+"0D0",
+"0D1",
+"0F3",
+"0F4",
+"0F5",
+"0F6",
+"1CE",
+"1CF",
+"1D0",
+"1D1",
+"1F3",
+"1F4",
+"1F5",
+"1F6"
+],
+"partial": false
+},
+"rope": {
+"routine": "RopeObj3D_MushroomColumn",
+"blocks": [
+"075"
+],
+"partial": true
+},
+"underground": {
+"routine": "UndergroundObj3D_CeilingLedge",
+"blocks": [
+"14E",
+"165"
+],
+"partial": false
+},
+"ghosthouse": {
+"routine": "GhostHouseObj3D_SwitchPalaceLedge",
+"blocks": [
+"153",
+"15D"
+],
+"partial": false
+}
+},
+"3E": {
+"grassland": {
+"routine": "GrassObj3E_SideCloudFridges",
+"blocks": [
+"08F",
+"090",
+"094",
+"095",
+"098",
+"099",
+"09D",
+"09E"
+],
+"partial": true
+},
+"castle": {
+"routine": "CastleObj3E_HorizontalLineOfSpikes",
+"blocks": [
+"159",
+"15A"
+],
+"partial": false
+},
+"rope": {
+"routine": "RopeObj3E_HorizontalLog",
+"blocks": [
+"15B"
+],
+"partial": true
+},
+"underground": {
+"routine": "UndergroundObj3E_CeilingEdges",
+"blocks": [
+"14D",
+"14F",
+"150",
+"151"
+],
+"partial": false
+},
+"ghosthouse": {
+"routine": "GhostHouseObj3E_SwitchPalaceRightFacingWall",
+"blocks": [
+"153",
+"155"
+],
+"partial": false
+}
+},
+"3F": {
+"grassland": {
+"routine": "GrassObj3F_SmallBushes",
+"blocks": [
+"073",
+"074",
+"079",
+"07A",
+"07B",
+"080",
+"085",
+"086",
+"087",
+"088",
+"089",
+"08E",
+"0C3"
+],
+"partial": true
+},
+"castle": {
+"routine": "CastleObj3F_VerticalLineOfSpikes",
+"blocks": [
+"153",
+"15B",
+"15C"
+],
+"partial": false
+},
+"rope": {
+"routine": "RopeObj3F_VerticalLog",
+"blocks": [
+"15E"
+],
+"partial": true
+},
+"underground": {
+"routine": "UndergroundObj3F_SolidDirt",
+"blocks": [
+"165"
+],
+"partial": false
+},
+"ghosthouse": {
+"routine": "GhostHouseObj3F_SwitchPalaceLeftFacingWall",
+"blocks": [
+"153",
+"15C"
+],
+"partial": false
+}
+}
+},
+"extended": {
+"00": {
+"routine": "ExtObj00_ScreenExit",
+"blocks": [],
+"partial": false
+},
+"01": {
+"routine": "ExtObj01_ScreenJump",
+"blocks": [],
+"partial": false
+},
+"10": {
+"routine": "ExtObj18_3upMoon",
+"blocks": [
+"01F"
+],
+"partial": false
+},
+"11": {
+"routine": "ExtObj18_3upMoon",
+"blocks": [
+"022"
+],
+"partial": false
+},
+"12": {
+"routine": "ExtObj18_3upMoon",
+"blocks": [
+"024"
+],
+"partial": false
+},
+"13": {
+"routine": "ExtObj18_3upMoon",
+"blocks": [
+"042"
+],
+"partial": false
+},
+"14": {
+"routine": "ExtObj18_3upMoon",
+"blocks": [
+"043"
+],
+"partial": false
+},
+"15": {
+"routine": "ExtObj18_3upMoon",
+"blocks": [
+"027"
+],
+"partial": false
+},
+"16": {
+"routine": "ExtObj18_3upMoon",
+"blocks": [
+"029"
+],
+"partial": false
+},
+"17": {
+"routine": "ExtObjXX_Generic1TileObject_GreenStarBlockEntry",
+"blocks": [
+"12D"
+],
+"partial": false
+},
+"18": {
+"routine": "ExtObj18_3upMoon",
+"blocks": [
+"06E"
+],
+"partial": false
+},
+"19": {
+"routine": "ExtObj18_3upMoon",
+"blocks": [
+"06F"
+],
+"partial": false
+},
+"1A": {
+"routine": "ExtObj18_3upMoon",
+"blocks": [
+"070"
+],
+"partial": false
+},
+"1B": {
+"routine": "ExtObj18_3upMoon",
+"blocks": [
+"071"
+],
+"partial": false
+},
+"1C": {
+"routine": "ExtObj18_3upMoon",
+"blocks": [
+"072"
+],
+"partial": false
+},
+"1D": {
+"routine": "ExtObj18_3upMoon",
+"blocks": [
+"045"
+],
+"partial": false
+},
+"1E": {
+"routine": "ExtObj18_3upMoon",
+"blocks": [
+"046"
+],
+"partial": false
+},
+"1F": {
+"routine": "ExtObj18_3upMoon",
+"blocks": [
+"047"
+],
+"partial": false
+},
+"20": {
+"routine": "ExtObj18_3upMoon",
+"blocks": [
+"048"
+],
+"partial": false
+},
+"21": {
+"routine": "ExtObj18_3upMoon",
+"blocks": [
+"036"
+],
+"partial": false
+},
+"22": {
+"routine": "ExtObj18_3upMoon",
+"blocks": [
+"037"
+],
+"partial": false
+},
+"23": {
+"routine": "ExtObj18_3upMoon",
+"blocks": [
+"111"
+],
+"partial": false
+},
+"24": {
+"routine": "ExtObj18_3upMoon",
+"blocks": [
+"112"
+],
+"partial": false
+},
+"25": {
+"routine": "ExtObj18_3upMoon",
+"blocks": [
+"114"
+],
+"partial": false
+},
+"26": {
+"routine": "ExtObj18_3upMoon",
+"blocks": [
+"115"
+],
+"partial": false
+},
+"27": {
+"routine": "ExtObj18_3upMoon",
+"blocks": [
+"116"
+],
+"partial": false
+},
+"28": {
+"routine": "ExtObj18_3upMoon",
+"blocks": [
+"117"
+],
+"partial": false
+},
+"29": {
+"routine": "ExtObj18_3upMoon",
+"blocks": [
+"118"
+],
+"partial": false
+},
+"2A": {
+"routine": "ExtObj18_3upMoon",
+"blocks": [
+"119"
+],
+"partial": false
+},
+"2B": {
+"routine": "ExtObj18_3upMoon",
+"blocks": [
+"11A"
+],
+"partial": false
+},
+"2C": {
+"routine": "ExtObj18_3upMoon",
+"blocks": [
+"11B"
+],
+"partial": false
+},
+"2D": {
+"routine": "ExtObj18_3upMoon",
+"blocks": [
+"11C"
+],
+"partial": false
+},
+"2E": {
+"routine": "ExtObj18_3upMoon",
+"blocks": [
+"129"
+],
+"partial": false
+},
+"2F": {
+"routine": "ExtObj18_3upMoon",
+"blocks": [
+"11D"
+],
+"partial": false
+},
+"30": {
+"routine": "ExtObj18_3upMoon",
+"blocks": [
+"11F"
+],
+"partial": false
+},
+"31": {
+"routine": "ExtObj18_3upMoon",
+"blocks": [
+"120"
+],
+"partial": false
+},
+"32": {
+"routine": "ExtObj18_3upMoon",
+"blocks": [
+"121"
+],
+"partial": false
+},
+"33": {
+"routine": "ExtObj18_3upMoon",
+"blocks": [
+"122"
+],
+"partial": false
+},
+"34": {
+"routine": "ExtObj18_3upMoon",
+"blocks": [
+"123"
+],
+"partial": false
+},
+"35": {
+"routine": "ExtObj18_3upMoon",
+"blocks": [
+"125"
+],
+"partial": false
+},
+"36": {
+"routine": "ExtObj18_3upMoon",
+"blocks": [
+"126"
+],
+"partial": false
+},
+"37": {
+"routine": "ExtObj18_3upMoon",
+"blocks": [
+"127"
+],
+"partial": false
+},
+"38": {
+"routine": "ExtObj18_3upMoon",
+"blocks": [
+"128"
+],
+"partial": false
+},
+"39": {
+"routine": "ExtObj18_3upMoon",
+"blocks": [
+"12A"
+],
+"partial": false
+},
+"3A": {
+"routine": "ExtObj18_3upMoon",
+"blocks": [
+"1DE"
+],
+"partial": false
+},
+"3B": {
+"routine": "ExtObj18_3upMoon",
+"blocks": [
+"1E0"
+],
+"partial": false
+},
+"3C": {
+"routine": "ExtObj18_3upMoon",
+"blocks": [
+"1E2"
+],
+"partial": false
+},
+"3D": {
+"routine": "ExtObj18_3upMoon",
+"blocks": [
+"1E4"
+],
+"partial": false
+},
+"3E": {
+"routine": "ExtObj18_3upMoon",
+"blocks": [
+"1EC"
+],
+"partial": false
+},
+"3F": {
+"routine": "ExtObj18_3upMoon",
+"blocks": [
+"1ED"
+],
+"partial": false
+},
+"40": {
+"routine": "ExtObj18_3upMoon",
+"blocks": [
+"12C"
+],
+"partial": false
+},
+"41": {
+"routine": "ExtObj41_YoshiCoin",
+"blocks": [
+"02D",
+"02E"
+],
+"partial": false
+},
+"42": {
+"routine": "ExtObj42_TopLeftSlope",
+"blocks": [
+"1D8",
+"1DA",
+"1DB",
+"1DC"
+],
+"partial": false
+},
+"43": {
+"routine": "ExtObj42_TopLeftSlope",
+"blocks": [
+"1D8",
+"1DA",
+"1DB",
+"1DC"
+],
+"partial": false
+},
+"44": {
+"routine": "ExtObjXX_PurpleTriangle",
+"blocks": [
+"1B4",
+"1B5",
+"1EB"
+],
+"partial": false
+},
+"45": {
+"routine": "ExtObjXX_PurpleTriangle",
+"blocks": [
+"1B4",
+"1B5",
+"1EB"
+],
+"partial": false
+},
+"46": {
+"routine": "ExtObj46_MidwayBar",
+"blocks": [
+"035",
+"038"
+],
+"partial": false
+},
+"47": {
+"routine": "ExtObj47_Door",
+"blocks": [
+"01F",
+"020",
+"027",
+"028"
+],
+"partial": false
+},
+"48": {
+"routine": "ExtObj47_Door",
+"blocks": [
+"01F",
+"020",
+"027",
+"028"
+],
+"partial": false
+},
+"49": {
+"routine": "ExtObj49_GhostHouseExit",
+"blocks": [
+"0A4",
+"0A5",
+"0A7",
+"0A8",
+"0AC",
+"0AD",
+"0AE",
+"0AF",
+"0B0",
+"0B1",
+"0B2",
+"0B3",
+"0B4",
+"0C1",
+"0C2",
+"0C6"
+],
+"partial": false
+},
+"4A": {
+"routine": "ExtObj4A_ClimbingNetDoor",
+"blocks": [
+"00B",
+"010",
+"011",
+"012",
+"013",
+"015",
+"016",
+"017",
+"018",
+"10B",
+"110",
+"111",
+"112",
+"113",
+"115",
+"116",
+"117",
+"118"
+],
+"partial": false
+},
+"4B": {
+"routine": "ExtObj4B_ConveyorEndTile1",
+"blocks": [
+"107",
+"108"
+],
+"partial": false
+},
+"4C": {
+"routine": "ExtObj4B_ConveyorEndTile1",
+"blocks": [
+"107",
+"108"
+],
+"partial": false
+},
+"4D": {
+"routine": "ExtObjXX_LineGuideQuarterLargeCircle",
+"blocks": [
+"025",
+"07A",
+"07B",
+"07C",
+"07D",
+"07E",
+"07F",
+"080",
+"081",
+"082",
+"083",
+"084",
+"085"
+],
+"partial": false
+},
+"4E": {
+"routine": "ExtObjXX_LineGuideQuarterLargeCircle",
+"blocks": [
+"025",
+"07A",
+"07B",
+"07C",
+"07D",
+"07E",
+"07F",
+"080",
+"081",
+"082",
+"083",
+"084",
+"085"
+],
+"partial": false
+},
+"4F": {
+"routine": "ExtObjXX_LineGuideQuarterLargeCircle",
+"blocks": [
+"025",
+"07A",
+"07B",
+"07C",
+"07D",
+"07E",
+"07F",
+"080",
+"081",
+"082",
+"083",
+"084",
+"085"
+],
+"partial": false
+},
+"50": {
+"routine": "ExtObjXX_LineGuideQuarterLargeCircle",
+"blocks": [
+"025",
+"07A",
+"07B",
+"07C",
+"07D",
+"07E",
+"07F",
+"080",
+"081",
+"082",
+"083",
+"084",
+"085"
+],
+"partial": false
+},
+"51": {
+"routine": "ExtObjXX_LineGuideQuarterSmallCircle",
+"blocks": [
+"076",
+"077",
+"078",
+"079"
+],
+"partial": false
+},
+"52": {
+"routine": "ExtObjXX_LineGuideQuarterSmallCircle",
+"blocks": [
+"076",
+"077",
+"078",
+"079"
+],
+"partial": false
+},
+"53": {
+"routine": "ExtObjXX_LineGuideQuarterSmallCircle",
+"blocks": [
+"076",
+"077",
+"078",
+"079"
+],
+"partial": false
+},
+"54": {
+"routine": "ExtObjXX_LineGuideQuarterSmallCircle",
+"blocks": [
+"076",
+"077",
+"078",
+"079"
+],
+"partial": false
+},
+"55": {
+"routine": "ExtObj55_HorizontalLineGuideEnd",
+"blocks": [
+"096",
+"097"
+],
+"partial": false
+},
+"56": {
+"routine": "ExtObj56_VerticalLineGuideEnd",
+"blocks": [
+"098",
+"099"
+],
+"partial": false
+},
+"57": {
+"routine": "ExtObj5B_BitOfBrickBackground1",
+"blocks": [
+"073",
+"074",
+"075",
+"076",
+"093",
+"094",
+"095",
+"096"
+],
+"partial": false
+},
+"58": {
+"routine": "ExtObj5B_BitOfBrickBackground1",
+"blocks": [
+"073",
+"074",
+"075",
+"076",
+"093",
+"094",
+"095",
+"096"
+],
+"partial": false
+},
+"59": {
+"routine": "ExtObj5B_BitOfBrickBackground1",
+"blocks": [
+"073",
+"074",
+"075",
+"076",
+"093",
+"094",
+"095",
+"096"
+],
+"partial": false
+},
+"5A": {
+"routine": "ExtObj5B_BitOfBrickBackground1",
+"blocks": [
+"073",
+"074",
+"075",
+"076",
+"093",
+"094",
+"095",
+"096"
+],
+"partial": false
+},
+"5B": {
+"routine": "ExtObj5B_BitOfBrickBackground1",
+"blocks": [
+"073",
+"074",
+"075",
+"076",
+"093",
+"094",
+"095",
+"096"
+],
+"partial": false
+},
+"5C": {
+"routine": "ExtObj5B_BitOfBrickBackground1",
+"blocks": [
+"073",
+"074",
+"075",
+"076",
+"093",
+"094",
+"095",
+"096"
+],
+"partial": false
+},
+"5D": {
+"routine": "ExtObj5B_BitOfBrickBackground1",
+"blocks": [
+"073",
+"074",
+"075",
+"076",
+"093",
+"094",
+"095",
+"096"
+],
+"partial": false
+},
+"5E": {
+"routine": "ExtObj5B_BitOfBrickBackground1",
+"blocks": [
+"073",
+"074",
+"075",
+"076",
+"093",
+"094",
+"095",
+"096"
+],
+"partial": false
+},
+"5F": {
+"routine": "ExtObj5F_LargeBackgroundArea",
+"blocks": [
+"077"
+],
+"partial": false
+},
+"60": {
+"routine": "ExtObj60_CaveLavaInnerCorner",
+"blocks": [
+"1FE"
+],
+"partial": false
+},
+"61": {
+"routine": "ExtObj61_GhostHouseClock",
+"blocks": [
+"025",
+"084",
+"085",
+"086",
+"087",
+"097",
+"098",
+"099",
+"09A",
+"09B",
+"09C",
+"09D",
+"09E",
+"09F"
+],
+"partial": false
+},
+"62": {
+"routine": "ExtObj61_GhostHouseClock",
+"blocks": [
+"025",
+"084",
+"085",
+"086",
+"087",
+"097",
+"098",
+"099",
+"09A",
+"09B",
+"09C",
+"09D",
+"09E",
+"09F"
+],
+"partial": false
+},
+"63": {
+"routine": "ExtObj61_GhostHouseClock",
+"blocks": [
+"025",
+"084",
+"085",
+"086",
+"087",
+"097",
+"098",
+"099",
+"09A",
+"09B",
+"09C",
+"09D",
+"09E",
+"09F"
+],
+"partial": false
+},
+"64": {
+"routine": "ExtObj65_TopLeftCobweb",
+"blocks": [
+"025",
+"08C",
+"08D",
+"08E",
+"08F",
+"090",
+"091",
+"0FC",
+"0FD",
+"0FE",
+"0FF"
+],
+"partial": false
+},
+"65": {
+"routine": "ExtObj65_TopLeftCobweb",
+"blocks": [
+"025",
+"08C",
+"08D",
+"08E",
+"08F",
+"090",
+"091",
+"0FC",
+"0FD",
+"0FE",
+"0FF"
+],
+"partial": false
+},
+"66": {
+"routine": "ExtObj66_GhostHouseTopRightToBottomLeftBeam2",
+"blocks": [
+"025",
+"07A",
+"07B",
+"07C",
+"07D",
+"07E",
+"07F",
+"080",
+"081"
+],
+"partial": false
+},
+"67": {
+"routine": "ExtObj66_GhostHouseTopRightToBottomLeftBeam2",
+"blocks": [
+"025",
+"07A",
+"07B",
+"07C",
+"07D",
+"07E",
+"07F",
+"080",
+"081"
+],
+"partial": false
+},
+"68": {
+"routine": "ExtObj6B_CloudFringeBottomLeft",
+"blocks": [
+"091",
+"092",
+"096",
+"097",
+"09A",
+"09B",
+"09F",
+"0A0"
+],
+"partial": false
+},
+"69": {
+"routine": "ExtObj6B_CloudFringeBottomLeft",
+"blocks": [
+"091",
+"092",
+"096",
+"097",
+"09A",
+"09B",
+"09F",
+"0A0"
+],
+"partial": false
+},
+"6A": {
+"routine": "ExtObj6B_CloudFringeBottomLeft",
+"blocks": [
+"091",
+"092",
+"096",
+"097",
+"09A",
+"09B",
+"09F",
+"0A0"
+],
+"partial": false
+},
+"6B": {
+"routine": "ExtObj6B_CloudFringeBottomLeft",
+"blocks": [
+"091",
+"092",
+"096",
+"097",
+"09A",
+"09B",
+"09F",
+"0A0"
+],
+"partial": false
+},
+"6C": {
+"routine": "ExtObj6B_CloudFringeBottomLeft",
+"blocks": [
+"091",
+"092",
+"096",
+"097",
+"09A",
+"09B",
+"09F",
+"0A0"
+],
+"partial": false
+},
+"6D": {
+"routine": "ExtObj6B_CloudFringeBottomLeft",
+"blocks": [
+"091",
+"092",
+"096",
+"097",
+"09A",
+"09B",
+"09F",
+"0A0"
+],
+"partial": false
+},
+"6E": {
+"routine": "ExtObj6B_CloudFringeBottomLeft",
+"blocks": [
+"091",
+"092",
+"096",
+"097",
+"09A",
+"09B",
+"09F",
+"0A0"
+],
+"partial": false
+},
+"6F": {
+"routine": "ExtObj6B_CloudFringeBottomLeft",
+"blocks": [
+"091",
+"092",
+"096",
+"097",
+"09A",
+"09B",
+"09F",
+"0A0"
+],
+"partial": false
+},
+"70": {
+"routine": "ExtObj70_BitOfCanvas1",
+"blocks": [
+"084",
+"085"
+],
+"partial": false
+},
+"71": {
+"routine": "ExtObj71_Canvas1",
+"blocks": [
+"05C",
+"05D",
+"05E",
+"060",
+"073",
+"074",
+"075",
+"076",
+"15C",
+"15D",
+"15E",
+"15F",
+"160",
+"173",
+"174",
+"175",
+"176"
+],
+"partial": false
+},
+"72": {
+"routine": "ExtObj71_Canvas1",
+"blocks": [
+"05C",
+"05D",
+"05E",
+"060",
+"073",
+"074",
+"075",
+"076",
+"15C",
+"15D",
+"15E",
+"15F",
+"160",
+"173",
+"174",
+"175",
+"176"
+],
+"partial": false
+},
+"73": {
+"routine": "ExtObj71_Canvas1",
+"blocks": [
+"05C",
+"05D",
+"05E",
+"060",
+"073",
+"074",
+"075",
+"076",
+"15C",
+"15D",
+"15E",
+"15F",
+"160",
+"173",
+"174",
+"175",
+"176"
+],
+"partial": false
+},
+"74": {
+"routine": "ExtObj71_Canvas1",
+"blocks": [
+"05C",
+"05D",
+"05E",
+"060",
+"073",
+"074",
+"075",
+"076",
+"15C",
+"15D",
+"15E",
+"15F",
+"160",
+"173",
+"174",
+"175",
+"176"
+],
+"partial": false
+},
+"75": {
+"routine": "ExtObj75_CanvasTile1",
+"blocks": [
+"07D",
+"07E",
+"07F",
+"080",
+"081",
+"082",
+"083"
+],
+"partial": false
+},
+"76": {
+"routine": "ExtObj75_CanvasTile1",
+"blocks": [
+"07D",
+"07E",
+"07F",
+"080",
+"081",
+"082",
+"083"
+],
+"partial": false
+},
+"77": {
+"routine": "ExtObj75_CanvasTile1",
+"blocks": [
+"07D",
+"07E",
+"07F",
+"080",
+"081",
+"082",
+"083"
+],
+"partial": false
+},
+"78": {
+"routine": "ExtObj75_CanvasTile1",
+"blocks": [
+"07D",
+"07E",
+"07F",
+"080",
+"081",
+"082",
+"083"
+],
+"partial": false
+},
+"79": {
+"routine": "ExtObj75_CanvasTile1",
+"blocks": [
+"07D",
+"07E",
+"07F",
+"080",
+"081",
+"082",
+"083"
+],
+"partial": false
+},
+"7A": {
+"routine": "ExtObj75_CanvasTile1",
+"blocks": [
+"07D",
+"07E",
+"07F",
+"080",
+"081",
+"082",
+"083"
+],
+"partial": false
+},
+"7B": {
+"routine": "ExtObj75_CanvasTile1",
+"blocks": [
+"07D",
+"07E",
+"07F",
+"080",
+"081",
+"082",
+"083"
+],
+"partial": false
+},
+"7C": {
+"routine": "ExtObj7C_BitOfCanvas1",
+"blocks": [
+"081",
+"082",
+"083",
+"084",
+"085",
+"086"
+],
+"partial": false
+},
+"7D": {
+"routine": "ExtObj7C_BitOfCanvas1",
+"blocks": [
+"081",
+"082",
+"083",
+"084",
+"085",
+"086"
+],
+"partial": false
+},
+"7E": {
+"routine": "ExtObj7C_BitOfCanvas1",
+"blocks": [
+"081",
+"082",
+"083",
+"084",
+"085",
+"086"
+],
+"partial": false
+},
+"7F": {
+"routine": "ExtObj7F_TorpedoLauncher",
+"blocks": [
+"166",
+"167",
+"168",
+"169"
+],
+"partial": false
+},
+"80": {
+"routine": "ExtObj80_GhostHouseEntrance",
+"blocks": [
+"0A4",
+"0A5",
+"0A6",
+"0A7",
+"0A8",
+"0A9",
+"0AB",
+"0AC",
+"0AD",
+"0AE",
+"0AF",
+"0B0",
+"0B1",
+"0B2",
+"0B3",
+"0B4",
+"0B5",
+"0B6",
+"0B7",
+"0B8",
+"0B9",
+"0BA",
+"0BB",
+"0BC",
+"0BD",
+"0BE",
+"0BF",
+"0C0",
+"0C1",
+"0C2",
+"0C3",
+"0C4",
+"0C5"
+],
+"partial": false
+},
+"81": {
+"routine": "ExtObj81_Seaweed",
+"blocks": [
+"0C9",
+"0CA"
+],
+"partial": false
+},
+"82": {
+"routine": "ExtObjXX_LargeBush_BigBushEntry",
+"blocks": [
+"025",
+"049",
+"04A",
+"04B",
+"04D",
+"04E",
+"050",
+"051",
+"052",
+"053",
+"054",
+"057",
+"05A",
+"05D",
+"05F",
+"060",
+"063"
+],
+"partial": true
+},
+"83": {
+"routine": "ExtObjXX_LargeBush_SmallBushEntry",
+"blocks": [
+"025",
+"049",
+"04A",
+"04B",
+"04C",
+"04F",
+"052",
+"054",
+"057",
+"05A",
+"05D",
+"05F",
+"060",
+"063"
+],
+"partial": true
+},
+"84": {
+"routine": "ExtObj84_CastleEntrance",
+"blocks": [
+"025",
+"073",
+"074",
+"075",
+"076",
+"077",
+"078",
+"079",
+"07A",
+"07B",
+"07C",
+"07D",
+"07E",
+"07F",
+"080",
+"081",
+"082",
+"083",
+"084",
+"085"
+],
+"partial": false
+},
+"85": {
+"routine": "ExtObj85_YoshisHouse",
+"blocks": [
+"025",
+"0CB",
+"0CC",
+"0CD",
+"0CE",
+"0CF",
+"0D0",
+"0D1",
+"0D2",
+"0D3",
+"0D4",
+"0D5",
+"0D6",
+"0D7",
+"0D8",
+"0D9",
+"0DA",
+"0DB",
+"0DC",
+"0DD",
+"0DE",
+"0DF",
+"0E0",
+"0E1",
+"0E2",
+"0E3",
+"0E4",
+"0E5",
+"0E6",
+"0E7",
+"0E8",
+"0E9",
+"0EB"
+],
+"partial": false
+},
+"86": {
+"routine": "ExtObj86_GoalSign",
+"blocks": [
+"066",
+"067",
+"068",
+"069"
+],
+"partial": false
+},
+"87": {
+"routine": "ExtObj8E_YellowSwitchBlock_GreenSwitchBlockEntry",
+"blocks": [
+"06A",
+"06B",
+"16A",
+"16B"
+],
+"partial": true
+},
+"88": {
+"routine": "ExtObj89_LeftTreeBranch",
+"blocks": [
+"0C1",
+"0C2"
+],
+"partial": false
+},
+"89": {
+"routine": "ExtObj89_LeftTreeBranch",
+"blocks": [
+"0C1",
+"0C2"
+],
+"partial": false
+},
+"8A": {
+"routine": "ExtObj8D_SwitchPalaceSwitch",
+"blocks": [
+"0EC",
+"0ED",
+"0EE",
+"0EF",
+"0F0",
+"0F1",
+"0F2",
+"0F3",
+"0F4",
+"0F5",
+"0F6",
+"0F7",
+"0F8",
+"0F9",
+"0FA",
+"0FB"
+],
+"partial": false
+},
+"8B": {
+"routine": "ExtObj8D_SwitchPalaceSwitch",
+"blocks": [
+"0EC",
+"0ED",
+"0EE",
+"0EF",
+"0F0",
+"0F1",
+"0F2",
+"0F3",
+"0F4",
+"0F5",
+"0F6",
+"0F7",
+"0F8",
+"0F9",
+"0FA",
+"0FB"
+],
+"partial": false
+},
+"8C": {
+"routine": "ExtObj8D_SwitchPalaceSwitch",
+"blocks": [
+"0EC",
+"0ED",
+"0EE",
+"0EF",
+"0F0",
+"0F1",
+"0F2",
+"0F3",
+"0F4",
+"0F5",
+"0F6",
+"0F7",
+"0F8",
+"0F9",
+"0FA",
+"0FB"
+],
+"partial": false
+},
+"8D": {
+"routine": "ExtObj8D_SwitchPalaceSwitch",
+"blocks": [
+"0EC",
+"0ED",
+"0EE",
+"0EF",
+"0F0",
+"0F1",
+"0F2",
+"0F3",
+"0F4",
+"0F5",
+"0F6",
+"0F7",
+"0F8",
+"0F9",
+"0FA",
+"0FB"
+],
+"partial": false
+},
+"8E": {
+"routine": "ExtObj8E_YellowSwitchBlock",
+"blocks": [
+"06A",
+"06B",
+"16A",
+"16B"
+],
+"partial": true
+},
+"8F": {
+"routine": "ExtObj8F_GhostHouseWindow",
+"blocks": [
+"025",
+"08C",
+"08D",
+"08E",
+"08F",
+"090",
+"091",
+"0FC",
+"0FD",
+"0FE",
+"0FF"
+],
+"partial": false
+},
+"90": {
+"routine": "ExtObj90_LargeBossDoor",
+"blocks": [
+"098",
+"099",
+"09A",
+"09B",
+"09C"
+],
+"partial": false
+},
+"91": {
+"routine": "ExtObj91_VerticalLevelSteepLeftSlope",
+"blocks": [
+"1AA",
+"1AF",
+"1E2",
+"1E4"
+],
+"partial": false
+},
+"92": {
+"routine": "ExtObj91_VerticalLevelSteepLeftSlope",
+"blocks": [
+"1AA",
+"1AF",
+"1E2",
+"1E4"
+],
+"partial": false
+},
+"93": {
+"routine": "ExtObj93_VerticalLevelNormalLeftSlope",
+"blocks": [
+"196",
+"19B",
+"1A0",
+"1A5",
+"1DE",
+"1E0",
+"1E6"
+],
+"partial": false
+},
+"94": {
+"routine": "ExtObj93_VerticalLevelNormalLeftSlope",
+"blocks": [
+"196",
+"19B",
+"1A0",
+"1A5",
+"1DE",
+"1E0",
+"1E6"
+],
+"partial": false
+},
+"95": {
+"routine": "ExtObj95_VerticalLevelVerySteepLeftSlope",
+"blocks": [
+"1CA",
+"1CB",
+"1CC",
+"1CD",
+"1F1",
+"1F2"
+],
+"partial": false
+},
+"96": {
+"routine": "ExtObj95_VerticalLevelVerySteepLeftSlope",
+"blocks": [
+"1CA",
+"1CB",
+"1CC",
+"1CD",
+"1F1",
+"1F2"
+],
+"partial": false
+},
+"97": {
+"routine": "ExtObj97_SwitchPalaceRightAndBottomEdgeTile",
+"blocks": [
+"110"
+],
+"partial": false
+},
+"98": {
+"routine": "ExtObj47_Door",
+"blocks": [
+"01F",
+"020",
+"027",
+"028"
+],
+"partial": true
+},
+"99": {
+"routine": "ExtObj47_Door",
+"blocks": [
+"01F",
+"020",
+"027",
+"028"
+],
+"partial": true
+},
+"9A": {
+"routine": "ExtObj47_Door",
+"blocks": [
+"01F",
+"020",
+"027",
+"028"
+],
+"partial": true
+},
+"9B": {
+"routine": "ExtObj47_Door",
+"blocks": [
+"01F",
+"020",
+"027",
+"028"
+],
+"partial": true
+},
+"9C": {
+"routine": "ExtObj47_Door",
+"blocks": [
+"01F",
+"020",
+"027",
+"028"
+],
+"partial": true
+},
+"9D": {
+"routine": "ExtObj47_Door",
+"blocks": [
+"01F",
+"020",
+"027",
+"028"
+],
+"partial": true
+},
+"9E": {
+"routine": "ExtObj47_Door",
+"blocks": [
+"01F",
+"020",
+"027",
+"028"
+],
+"partial": true
+},
+"9F": {
+"routine": "ExtObj47_Door",
+"blocks": [
+"01F",
+"020",
+"027",
+"028"
+],
+"partial": true
+},
+"A0": {
+"routine": "ExtObj47_Door",
+"blocks": [
+"01F",
+"020",
+"027",
+"028"
+],
+"partial": true
+},
+"A1": {
+"routine": "ExtObj47_Door",
+"blocks": [
+"01F",
+"020",
+"027",
+"028"
+],
+"partial": true
+},
+"A2": {
+"routine": "ExtObj47_Door",
+"blocks": [
+"01F",
+"020",
+"027",
+"028"
+],
+"partial": true
+},
+"A3": {
+"routine": "ExtObj47_Door",
+"blocks": [
+"01F",
+"020",
+"027",
+"028"
+],
+"partial": true
+},
+"A4": {
+"routine": "ExtObj47_Door",
+"blocks": [
+"01F",
+"020",
+"027",
+"028"
+],
+"partial": true
+},
+"A5": {
+"routine": "ExtObj47_Door",
+"blocks": [
+"01F",
+"020",
+"027",
+"028"
+],
+"partial": true
+},
+"A6": {
+"routine": "ExtObj47_Door",
+"blocks": [
+"01F",
+"020",
+"027",
+"028"
+],
+"partial": true
+},
+"A7": {
+"routine": "ExtObj47_Door",
+"blocks": [
+"01F",
+"020",
+"027",
+"028"
+],
+"partial": true
+},
+"A8": {
+"routine": "ExtObj47_Door",
+"blocks": [
+"01F",
+"020",
+"027",
+"028"
+],
+"partial": true
+},
+"A9": {
+"routine": "ExtObj47_Door",
+"blocks": [
+"01F",
+"020",
+"027",
+"028"
+],
+"partial": true
+},
+"AA": {
+"routine": "ExtObj47_Door",
+"blocks": [
+"01F",
+"020",
+"027",
+"028"
+],
+"partial": true
+},
+"AB": {
+"routine": "ExtObj47_Door",
+"blocks": [
+"01F",
+"020",
+"027",
+"028"
+],
+"partial": true
+},
+"AC": {
+"routine": "ExtObj47_Door",
+"blocks": [
+"01F",
+"020",
+"027",
+"028"
+],
+"partial": true
+},
+"AD": {
+"routine": "ExtObj47_Door",
+"blocks": [
+"01F",
+"020",
+"027",
+"028"
+],
+"partial": true
+},
+"AE": {
+"routine": "ExtObj47_Door",
+"blocks": [
+"01F",
+"020",
+"027",
+"028"
+],
+"partial": true
+},
+"AF": {
+"routine": "ExtObj47_Door",
+"blocks": [
+"01F",
+"020",
+"027",
+"028"
+],
+"partial": true
+},
+"B0": {
+"routine": "ExtObj47_Door",
+"blocks": [
+"01F",
+"020",
+"027",
+"028"
+],
+"partial": true
+},
+"B1": {
+"routine": "ExtObj47_Door",
+"blocks": [
+"01F",
+"020",
+"027",
+"028"
+],
+"partial": true
+},
+"B2": {
+"routine": "ExtObj47_Door",
+"blocks": [
+"01F",
+"020",
+"027",
+"028"
+],
+"partial": true
+},
+"B3": {
+"routine": "ExtObj47_Door",
+"blocks": [
+"01F",
+"020",
+"027",
+"028"
+],
+"partial": true
+},
+"B4": {
+"routine": "ExtObj47_Door",
+"blocks": [
+"01F",
+"020",
+"027",
+"028"
+],
+"partial": true
+},
+"B5": {
+"routine": "ExtObj47_Door",
+"blocks": [
+"01F",
+"020",
+"027",
+"028"
+],
+"partial": true
+},
+"B6": {
+"routine": "ExtObj47_Door",
+"blocks": [
+"01F",
+"020",
+"027",
+"028"
+],
+"partial": true
+},
+"B7": {
+"routine": "ExtObj47_Door",
+"blocks": [
+"01F",
+"020",
+"027",
+"028"
+],
+"partial": true
+},
+"B8": {
+"routine": "ExtObj47_Door",
+"blocks": [
+"01F",
+"020",
+"027",
+"028"
+],
+"partial": true
+},
+"B9": {
+"routine": "ExtObj47_Door",
+"blocks": [
+"01F",
+"020",
+"027",
+"028"
+],
+"partial": true
+},
+"BA": {
+"routine": "ExtObj47_Door",
+"blocks": [
+"01F",
+"020",
+"027",
+"028"
+],
+"partial": true
+},
+"BB": {
+"routine": "ExtObj47_Door",
+"blocks": [
+"01F",
+"020",
+"027",
+"028"
+],
+"partial": true
+},
+"BC": {
+"routine": "ExtObj47_Door",
+"blocks": [
+"01F",
+"020",
+"027",
+"028"
+],
+"partial": true
+},
+"BD": {
+"routine": "ExtObj47_Door",
+"blocks": [
+"01F",
+"020",
+"027",
+"028"
+],
+"partial": true
+},
+"BE": {
+"routine": "ExtObj47_Door",
+"blocks": [
+"01F",
+"020",
+"027",
+"028"
+],
+"partial": true
+},
+"BF": {
+"routine": "ExtObj47_Door",
+"blocks": [
+"01F",
+"020",
+"027",
+"028"
+],
+"partial": true
+},
+"C0": {
+"routine": "ExtObj47_Door",
+"blocks": [
+"01F",
+"020",
+"027",
+"028"
+],
+"partial": true
+},
+"C1": {
+"routine": "ExtObj47_Door",
+"blocks": [
+"01F",
+"020",
+"027",
+"028"
+],
+"partial": true
+},
+"C2": {
+"routine": "ExtObj47_Door",
+"blocks": [
+"01F",
+"020",
+"027",
+"028"
+],
+"partial": true
+},
+"C3": {
+"routine": "ExtObj47_Door",
+"blocks": [
+"01F",
+"020",
+"027",
+"028"
+],
+"partial": true
+},
+"C4": {
+"routine": "ExtObj47_Door",
+"blocks": [
+"01F",
+"020",
+"027",
+"028"
+],
+"partial": true
+},
+"C5": {
+"routine": "ExtObj47_Door",
+"blocks": [
+"01F",
+"020",
+"027",
+"028"
+],
+"partial": true
+},
+"C6": {
+"routine": "ExtObj47_Door",
+"blocks": [
+"01F",
+"020",
+"027",
+"028"
+],
+"partial": true
+},
+"C7": {
+"routine": "ExtObj47_Door",
+"blocks": [
+"01F",
+"020",
+"027",
+"028"
+],
+"partial": true
+},
+"C8": {
+"routine": "ExtObj47_Door",
+"blocks": [
+"01F",
+"020",
+"027",
+"028"
+],
+"partial": true
+},
+"C9": {
+"routine": "ExtObj47_Door",
+"blocks": [
+"01F",
+"020",
+"027",
+"028"
+],
+"partial": true
+},
+"CA": {
+"routine": "ExtObj47_Door",
+"blocks": [
+"01F",
+"020",
+"027",
+"028"
+],
+"partial": true
+},
+"CB": {
+"routine": "ExtObj47_Door",
+"blocks": [
+"01F",
+"020",
+"027",
+"028"
+],
+"partial": true
+},
+"CC": {
+"routine": "ExtObj47_Door",
+"blocks": [
+"01F",
+"020",
+"027",
+"028"
+],
+"partial": true
+},
+"CD": {
+"routine": "ExtObj47_Door",
+"blocks": [
+"01F",
+"020",
+"027",
+"028"
+],
+"partial": true
+},
+"CE": {
+"routine": "ExtObj47_Door",
+"blocks": [
+"01F",
+"020",
+"027",
+"028"
+],
+"partial": true
+},
+"CF": {
+"routine": "ExtObj47_Door",
+"blocks": [
+"01F",
+"020",
+"027",
+"028"
+],
+"partial": true
+},
+"D0": {
+"routine": "ExtObj47_Door",
+"blocks": [
+"01F",
+"020",
+"027",
+"028"
+],
+"partial": true
+},
+"D1": {
+"routine": "ExtObj47_Door",
+"blocks": [
+"01F",
+"020",
+"027",
+"028"
+],
+"partial": true
+},
+"D2": {
+"routine": "ExtObj47_Door",
+"blocks": [
+"01F",
+"020",
+"027",
+"028"
+],
+"partial": true
+},
+"D3": {
+"routine": "ExtObj47_Door",
+"blocks": [
+"01F",
+"020",
+"027",
+"028"
+],
+"partial": true
+},
+"D4": {
+"routine": "ExtObj47_Door",
+"blocks": [
+"01F",
+"020",
+"027",
+"028"
+],
+"partial": true
+},
+"D5": {
+"routine": "ExtObj47_Door",
+"blocks": [
+"01F",
+"020",
+"027",
+"028"
+],
+"partial": true
+},
+"D6": {
+"routine": "ExtObj47_Door",
+"blocks": [
+"01F",
+"020",
+"027",
+"028"
+],
+"partial": true
+},
+"D7": {
+"routine": "ExtObj47_Door",
+"blocks": [
+"01F",
+"020",
+"027",
+"028"
+],
+"partial": true
+},
+"D8": {
+"routine": "ExtObj47_Door",
+"blocks": [
+"01F",
+"020",
+"027",
+"028"
+],
+"partial": true
+},
+"D9": {
+"routine": "ExtObj47_Door",
+"blocks": [
+"01F",
+"020",
+"027",
+"028"
+],
+"partial": true
+},
+"DA": {
+"routine": "ExtObj47_Door",
+"blocks": [
+"01F",
+"020",
+"027",
+"028"
+],
+"partial": true
+},
+"DB": {
+"routine": "ExtObj47_Door",
+"blocks": [
+"01F",
+"020",
+"027",
+"028"
+],
+"partial": true
+},
+"DC": {
+"routine": "ExtObj47_Door",
+"blocks": [
+"01F",
+"020",
+"027",
+"028"
+],
+"partial": true
+},
+"DD": {
+"routine": "ExtObj47_Door",
+"blocks": [
+"01F",
+"020",
+"027",
+"028"
+],
+"partial": true
+},
+"DE": {
+"routine": "ExtObj47_Door",
+"blocks": [
+"01F",
+"020",
+"027",
+"028"
+],
+"partial": true
+},
+"DF": {
+"routine": "ExtObj47_Door",
+"blocks": [
+"01F",
+"020",
+"027",
+"028"
+],
+"partial": true
+},
+"E0": {
+"routine": "ExtObj47_Door",
+"blocks": [
+"01F",
+"020",
+"027",
+"028"
+],
+"partial": true
+},
+"E1": {
+"routine": "ExtObj47_Door",
+"blocks": [
+"01F",
+"020",
+"027",
+"028"
+],
+"partial": true
+},
+"E2": {
+"routine": "ExtObj47_Door",
+"blocks": [
+"01F",
+"020",
+"027",
+"028"
+],
+"partial": true
+},
+"E3": {
+"routine": "ExtObj47_Door",
+"blocks": [
+"01F",
+"020",
+"027",
+"028"
+],
+"partial": true
+},
+"E4": {
+"routine": "ExtObj47_Door",
+"blocks": [
+"01F",
+"020",
+"027",
+"028"
+],
+"partial": true
+},
+"E5": {
+"routine": "ExtObj47_Door",
+"blocks": [
+"01F",
+"020",
+"027",
+"028"
+],
+"partial": true
+},
+"E6": {
+"routine": "ExtObj47_Door",
+"blocks": [
+"01F",
+"020",
+"027",
+"028"
+],
+"partial": true
+},
+"E7": {
+"routine": "ExtObj47_Door",
+"blocks": [
+"01F",
+"020",
+"027",
+"028"
+],
+"partial": true
+},
+"E8": {
+"routine": "ExtObj47_Door",
+"blocks": [
+"01F",
+"020",
+"027",
+"028"
+],
+"partial": true
+},
+"E9": {
+"routine": "ExtObj47_Door",
+"blocks": [
+"01F",
+"020",
+"027",
+"028"
+],
+"partial": true
+},
+"EA": {
+"routine": "ExtObj47_Door",
+"blocks": [
+"01F",
+"020",
+"027",
+"028"
+],
+"partial": true
+},
+"EB": {
+"routine": "ExtObj47_Door",
+"blocks": [
+"01F",
+"020",
+"027",
+"028"
+],
+"partial": true
+},
+"EC": {
+"routine": "ExtObj47_Door",
+"blocks": [
+"01F",
+"020",
+"027",
+"028"
+],
+"partial": true
+},
+"ED": {
+"routine": "ExtObj47_Door",
+"blocks": [
+"01F",
+"020",
+"027",
+"028"
+],
+"partial": true
+},
+"EE": {
+"routine": "ExtObj47_Door",
+"blocks": [
+"01F",
+"020",
+"027",
+"028"
+],
+"partial": true
+},
+"EF": {
+"routine": "ExtObj47_Door",
+"blocks": [
+"01F",
+"020",
+"027",
+"028"
+],
+"partial": true
+},
+"F0": {
+"routine": "ExtObj47_Door",
+"blocks": [
+"01F",
+"020",
+"027",
+"028"
+],
+"partial": true
+},
+"F1": {
+"routine": "ExtObj47_Door",
+"blocks": [
+"01F",
+"020",
+"027",
+"028"
+],
+"partial": true
+},
+"F2": {
+"routine": "ExtObj47_Door",
+"blocks": [
+"01F",
+"020",
+"027",
+"028"
+],
+"partial": true
+},
+"F3": {
+"routine": "ExtObj47_Door",
+"blocks": [
+"01F",
+"020",
+"027",
+"028"
+],
+"partial": true
+},
+"F4": {
+"routine": "ExtObj47_Door",
+"blocks": [
+"01F",
+"020",
+"027",
+"028"
+],
+"partial": true
+},
+"F5": {
+"routine": "ExtObj47_Door",
+"blocks": [
+"01F",
+"020",
+"027",
+"028"
+],
+"partial": true
+},
+"F6": {
+"routine": "ExtObj47_Door",
+"blocks": [
+"01F",
+"020",
+"027",
+"028"
+],
+"partial": true
+},
+"F7": {
+"routine": "ExtObj47_Door",
+"blocks": [
+"01F",
+"020",
+"027",
+"028"
+],
+"partial": true
+},
+"F8": {
+"routine": "ExtObj47_Door",
+"blocks": [
+"01F",
+"020",
+"027",
+"028"
+],
+"partial": true
+},
+"F9": {
+"routine": "ExtObj47_Door",
+"blocks": [
+"01F",
+"020",
+"027",
+"028"
+],
+"partial": true
+},
+"FA": {
+"routine": "ExtObj47_Door",
+"blocks": [
+"01F",
+"020",
+"027",
+"028"
+],
+"partial": true
+},
+"FB": {
+"routine": "ExtObj47_Door",
+"blocks": [
+"01F",
+"020",
+"027",
+"028"
+],
+"partial": true
+},
+"FC": {
+"routine": "ExtObj47_Door",
+"blocks": [
+"01F",
+"020",
+"027",
+"028"
+],
+"partial": true
+},
+"FD": {
+"routine": "ExtObj47_Door",
+"blocks": [
+"01F",
+"020",
+"027",
+"028"
+],
+"partial": true
+},
+"FE": {
+"routine": "ExtObj47_Door",
+"blocks": [
+"01F",
+"020",
+"027",
+"028"
+],
+"partial": true
+},
+"FF": {
+"routine": "ExtObj47_Door",
+"blocks": [
+"01F",
+"020",
+"027",
+"028"
+],
+"partial": true
+}
+},
+"slopes": {
+"kSlopeDataTables_ShapeOfSlope": [
+15,
+15,
+15,
+15,
+14,
+14,
+14,
+14,
+13,
+13,
+13,
+13,
+12,
+12,
+12,
+12,
+11,
+11,
+11,
+11,
+10,
+10,
+10,
+10,
+9,
+9,
+9,
+9,
+8,
+8,
+8,
+8,
+7,
+7,
+7,
+7,
+6,
+6,
+6,
+6,
+5,
+5,
+5,
+5,
+4,
+4,
+4,
+4,
+3,
+3,
+3,
+3,
+2,
+2,
+2,
+2,
+1,
+1,
+1,
+1,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+1,
+1,
+1,
+1,
+2,
+2,
+2,
+2,
+3,
+3,
+3,
+3,
+4,
+4,
+4,
+4,
+5,
+5,
+5,
+5,
+6,
+6,
+6,
+6,
+7,
+7,
+7,
+7,
+8,
+8,
+8,
+8,
+9,
+9,
+9,
+9,
+10,
+10,
+10,
+10,
+11,
+11,
+11,
+11,
+12,
+12,
+12,
+12,
+13,
+13,
+13,
+13,
+14,
+14,
+14,
+14,
+15,
+15,
+15,
+15,
+15,
+15,
+14,
+14,
+13,
+13,
+12,
+12,
+11,
+11,
+10,
+10,
+9,
+9,
+8,
+8,
+7,
+7,
+6,
+6,
+5,
+5,
+4,
+4,
+3,
+3,
+2,
+2,
+1,
+1,
+0,
+0,
+0,
+0,
+1,
+1,
+2,
+2,
+3,
+3,
+4,
+4,
+5,
+5,
+6,
+6,
+7,
+7,
+8,
+8,
+9,
+9,
+10,
+10,
+11,
+11,
+12,
+12,
+13,
+13,
+14,
+14,
+15,
+15,
+15,
+14,
+13,
+12,
+11,
+10,
+9,
+8,
+7,
+6,
+5,
+4,
+3,
+2,
+1,
+0,
+0,
+1,
+2,
+3,
+4,
+5,
+6,
+7,
+8,
+9,
+10,
+11,
+12,
+13,
+14,
+15,
+15,
+14,
+13,
+12,
+11,
+10,
+9,
+8,
+7,
+6,
+5,
+4,
+3,
+2,
+1,
+0,
+0,
+1,
+2,
+3,
+4,
+5,
+6,
+7,
+8,
+9,
+10,
+11,
+12,
+13,
+14,
+15,
+8,
+6,
+4,
+3,
+2,
+2,
+1,
+1,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+1,
+1,
+2,
+2,
+3,
+4,
+6,
+8,
+255,
+254,
+253,
+252,
+251,
+250,
+249,
+248,
+247,
+246,
+245,
+244,
+243,
+242,
+241,
+240,
+240,
+241,
+242,
+243,
+244,
+245,
+246,
+247,
+248,
+249,
+250,
+251,
+252,
+253,
+254,
+255,
+255,
+255,
+254,
+254,
+253,
+253,
+252,
+252,
+251,
+251,
+250,
+250,
+249,
+249,
+248,
+248,
+247,
+247,
+246,
+246,
+245,
+245,
+244,
+244,
+243,
+243,
+242,
+242,
+241,
+241,
+240,
+240,
+240,
+240,
+241,
+241,
+242,
+242,
+243,
+243,
+244,
+244,
+245,
+245,
+246,
+246,
+247,
+247,
+248,
+248,
+249,
+249,
+250,
+250,
+251,
+251,
+252,
+252,
+253,
+253,
+254,
+254,
+255,
+255,
+15,
+14,
+13,
+12,
+11,
+10,
+9,
+8,
+7,
+6,
+5,
+4,
+3,
+2,
+1,
+0,
+0,
+1,
+2,
+3,
+4,
+5,
+6,
+7,
+8,
+9,
+10,
+11,
+12,
+13,
+14,
+15,
+0,
+1,
+2,
+3,
+4,
+5,
+6,
+7,
+8,
+9,
+10,
+11,
+12,
+13,
+14,
+15,
+15,
+14,
+13,
+12,
+11,
+10,
+9,
+8,
+7,
+6,
+5,
+4,
+3,
+2,
+1,
+0,
+16,
+16,
+16,
+16,
+16,
+16,
+16,
+16,
+14,
+12,
+10,
+8,
+6,
+4,
+2,
+0,
+14,
+12,
+10,
+8,
+6,
+4,
+2,
+0,
+254,
+252,
+250,
+248,
+246,
+244,
+242,
+240,
+0,
+2,
+4,
+6,
+8,
+10,
+12,
+14,
+16,
+16,
+16,
+16,
+16,
+16,
+16,
+16,
+240,
+242,
+244,
+246,
+248,
+250,
+252,
+254,
+0,
+2,
+4,
+6,
+8,
+10,
+12,
+14
+],
+"kSlopeSteepness_e55e": [
+0,
+0,
+0,
+0,
+0,
+1,
+1,
+1,
+1,
+1,
+2,
+2,
+2,
+2,
+2,
+3,
+3,
+3,
+3,
+3,
+4,
+4,
+4,
+4,
+4,
+5,
+5,
+5,
+5,
+5,
+6,
+6,
+6,
+6,
+6,
+7,
+7,
+7,
+7,
+7,
+8,
+8,
+8,
+8,
+8,
+9,
+9,
+9,
+9,
+9,
+10,
+10,
+10,
+10,
+10,
+11,
+11,
+11,
+11,
+11,
+12,
+12,
+12,
+12,
+12,
+13,
+13,
+13,
+13,
+13,
+14,
+15,
+16,
+17,
+3,
+3,
+4,
+4,
+9,
+9,
+10,
+10,
+12,
+12,
+13,
+13,
+18,
+19,
+20,
+21,
+22,
+23,
+28,
+29,
+30,
+31,
+24,
+25,
+26,
+27,
+8,
+9,
+10,
+11,
+12,
+13
+],
+"kSlopeSteepness_e5c8": [
+0,
+0,
+0,
+0,
+0,
+1,
+1,
+1,
+1,
+1,
+2,
+2,
+2,
+2,
+2,
+3,
+3,
+3,
+3,
+3,
+4,
+4,
+4,
+4,
+4,
+5,
+5,
+5,
+5,
+5,
+6,
+6,
+6,
+6,
+6,
+7,
+7,
+7,
+7,
+7,
+8,
+8,
+8,
+8,
+8,
+9,
+9,
+9,
+9,
+9,
+10,
+10,
+10,
+10,
+10,
+11,
+11,
+11,
+11,
+11,
+12,
+12,
+12,
+12,
+12,
+13,
+13,
+13,
+13,
+13,
+14,
+15,
+16,
+17,
+3,
+3,
+4,
+4,
+9,
+9,
+10,
+10,
+12,
+12,
+13,
+13,
+12,
+13,
+13,
+12,
+22,
+23,
+28,
+29,
+30,
+31,
+24,
+25,
+26,
+27,
+8,
+9,
+10,
+11,
+12,
+13
+],
+"kSlopeDataTables_SlopeType": [
+255,
+255,
+255,
+255,
+1,
+1,
+1,
+1,
+254,
+254,
+2,
+2,
+253,
+3,
+253,
+3,
+253,
+3,
+253,
+0,
+0,
+0,
+0,
+0,
+8,
+8,
+248,
+248,
+252,
+252,
+4,
+4,
+0
+]
+}
+}
